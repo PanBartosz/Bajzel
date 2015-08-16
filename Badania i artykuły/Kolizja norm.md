@@ -133,3 +133,11 @@ Uznaliśmy, że najskuteczniejszą drogą osiągnięcia tych celów jest skonstr
 
 Jako normy, która posłużyć nam miała do skonstruowania odpowiedniego narzędzia badawczego wybraliśmy normę zakazującą narażania ludzi na śmiertelne niebezpieczeństwo oraz normę nakazującą ratowanie ludzi w sytuacji takiego bezpieczeństwa. Wydaje się, że w naszej kulturze dla większości ludzi życie ludzkie ma większą wartość niż środowisko. Być może w przyszłości się to zmieni, jesteśmy jednak przekonani że obecnie niewiele osób poświęciłoby swoje życie lub zdrowie dla ratowania środowiska, a jeszcze mniej uważałoby, że należy poświęcić życie innych. 
 
+Strukturę kauzalno - normatywną skonstruowanych przez nas scenariuszy przedstawiają poniższe diagramy.
+
+#### Scenariusz HARM
+![Scenariusz HARM ](naszharm.png "Scenariusz HARM")
+
+#### Scenariusz HELP
+![Scenariusz HELP ](naszhelp.png "Scenariusz HELP")
+

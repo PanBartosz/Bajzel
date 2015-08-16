@@ -398,7 +398,7 @@
       - powołania naczelnika urzędu skarbowego
       - powołąnia członka zarządu spółdzielni
       - powołąnie rektora niepaństwowej szkoły wyższej
-    * **powołąniami są:**
+    * **powołaniami są:**
       - powołąnia na dyrektora, zastępcę dyrektora przedsiębiorstwa państwowego
       - powołania na dyrektora instytucji kultury
       - powołania na sekretarza gminy (powiatu)
