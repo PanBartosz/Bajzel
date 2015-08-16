@@ -110,7 +110,26 @@ Jeżeli  strażnik  (pracownik  ochrony)  ma  obowiązek  strzeżenia  (ochrony)
 
 Dostrzegamy pewną filozoficzną problematyczność takiego myślenia o normach, uważamy jednak, że jest to użyteczna koncepcja, która oddaje dobrze potoczne intuicje na temat norm oraz wnioskowania o nich. 
 
-## Analiza oryginalnych scenariuszy Knobe'a
+### Analiza oryginalnych scenariuszy Knobe'a
 
+#### Scenariusz HARM
 ![Scenariusz HARM ](knobeharm.png "Scenariusz HARM")
+
+#### Scenariusz HELP
 ![Scenariusz HELP ](knobehelp.png "Scenariusz HELP")
+
+Przyjmując istnienie instrumentalnych reguł inferencyjnych spróbujmy przeanalizować sytuacje kauzalno - normatywną w scenariuszach użytych w oryginalnym eksperymencie Knobe'a. 
+
+Relacje przyczynowe i normatywne zilustrowane są za pomocą powyższch diagramów.
+
+W scenariuszu HARM wdrożenie programu przez dyrektora ma dwa skutki. Skutkiem głównym jest zwiększenie zysków przedsiębiorstwa. Skutek uboczny to wyrządzenie szkody środowisku. Obowiązująca norma, do której powinien zastosować się dyrektor mówi: "nie szkódź środowisku". Posługując się regułą instrumentalnego zakazu możemy z tego faktu wywnioskować, że w okolicznościach przedstawionych w scenariuszu obowiazuje również norma mówiąca: "nie wdrażaj programu", ponieważ podjęcie działania, jakim jest wdrożenie programu, uniemożliwia osiagnięcie wyznaczonego przez normę zakazującą szkodzenia środowisku skutku. W scenariuszu HELP sytuacja wygląda analogicznie. Odpowiednio obowiązuje norma nakazująca pomaganie środowisku, z której za pomocą reguły inferencyjnej instrumentalnego nakazu możemy wywieść wniosek o obowiązywaniu normy nakazującej wprowadzenie programu. 
+
+## Narzędzie badawcze 
+Naszym celem było skonstruowanie takiego narzędzia badawczego, które pozwoli nam posługując się przyjętymi załozeniami teoretycznymi sprawdzić trafność hipotezy wyjaśniającej Paprzyckiej. Postanowiliśmy jako narzędziem posłużyć się podobnie jak Knobe badaniem ankietowym. Celem, jaki przed sobą stawialiśmy było skonstruowanie takich scenariuszy badawczych, w których:
+	* moglibyśmy kontrolować obowiązywanie norm, w szczególności obowiązywanie normy zakazującej szkodzenia środowisku 
+	* moglibyśmy kontrolować zachowanie podmiotu dziającego (dyrektora), w szczególności to, czy jest podmiotem zaniechania obowiązku. 
+
+Uznaliśmy, że najskuteczniejszą drogą osiągnięcia tych celów jest skonstruowanie takich scenariuszy badawczych, w których obok normy zakazującej szkodzenia środowisku lub normy nakazującej pomaganie mu, obowiązuje także w sposób oczywisty hierarchicznie wyższa norma, której zrealizowanie pozostaje w związku z niezastosowaniem się do normy hierarchicznie niższej. Zgodnie z naszymi założeniami w takiej sytuacji konfliktu górę musi wziąć obowiązek zastosowania się do normy silniejszej, z którego za pomocą reguły instrumentalnego nakazu wywnioskować może obowiązek takiego działania, które byłoby pogwałceniem normy hierarchicznie niższej. 
+
+Jako normy, która posłużyć nam miała do skonstruowania odpowiedniego narzędzia badawczego wybraliśmy normę zakazującą narażania ludzi na śmiertelne niebezpieczeństwo oraz normę nakazującą ratowanie ludzi w sytuacji takiego bezpieczeństwa. Wydaje się, że w naszej kulturze dla większości ludzi życie ludzkie ma większą wartość niż środowisko. Być może w przyszłości się to zmieni, jesteśmy jednak przekonani że obecnie niewiele osób poświęciłoby swoje życie lub zdrowie dla ratowania środowiska, a jeszcze mniej uważałoby, że należy poświęcić życie innych. 
+
