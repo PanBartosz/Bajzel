@@ -173,7 +173,7 @@
  * ustawa o promocji zatrudnienia i instytucjach rynku pracy
 
 22. Czy Kodeks cywilny jest źródłem prawa pracy?
-* tak! chociaż uzupełniającym
+ * tak! chociaż uzupełniającym
 
 23. Kiedy można stosować przepisy Kodeksu cywilnego do stosunków pracy?
  * **Art. 300 k.p**. stanowi, że **w sprawach nieunormowanych przepisami prawa pracy do stosunków pracy stosuje się odpowiednio przepisy Kodeksu cywilnego**
@@ -212,7 +212,7 @@
 29. W jakim trybie zawierany jest ukłąd zbiorowy pracy?
  * **układ zbiorowy zawierany jest w drodze dobrowolnych rokowań** jest więc efektem porozumienia między stronami
  * negocjacje powinny być prowadzone w dobrej wierze i z poszanowaniem słusznych interesów drugiej stony
-* od reguły dobrowolności istnieją trzy odstępstwa:
+ * od reguły dobrowolności istnieją trzy odstępstwa:
       - nie można odmówić podjęcia rokowań w celu zawarcia układu dla pracowników nieobjętych regulacją układową
       - nie można odmówić podjęcia rokowań w celu zmiany układu uzasadnionej istotną zmianą sytuacji ekonomicznej pracodawcy lub pracowników 
       - nie można odmówić podjęcia rokowań jeżeli żądanie podjęcia negocjacji zgłoszone zostało nie cześniej niż 60 dni przed upływem okresu, na jaki układ został zawarty albo po dniu wypowiedzenia układ
