@@ -364,5 +364,46 @@
  * funkcja wytycznych legislacyjnych
  * funkcja wskazówek interpretacyjnych
 
+41. Co jest charakterystyczne dla zobowiązaniowego stosunku pracy?
+  * centralna instuticja prawa pracy
+  * ma charakter zobowiązaniowy co wynika wprost z art. 11 k.p.
+  * **wykonywanie pracy okreslonego rodzaju na rzecz i pod kierownictwem pracodawcy za wynagrodzeniem**
+  * pracownik jest równym partnerem w zakresie zawiązywania stosunku, ale nie świadczenia pracy 
+  * ekwiwalentność, ale nie w sensie cywilistycznym, ponieważ w prawie pracy istnieje wiele norm ochronnych i chroni się pracownika
+  * prawo pracy zna **pięć źródeł nawiązania stosunku pracy**
+    - umowa o pracę
+    - spółdzielcza umowa o pracę
+    - wybór
+    - powołanie
+    - mianowanie
+
+42. Czym charakteryzuje się spółdzielczy stosunek pracy?
+  * **zawierana jest jedynie między członkiem spółdzielni pracy jako pracownikiem a tą spółdzielnią jako pracodawcą** 
+  * normowany przepisami prawa spółdzielczgo
+  * nawiązywany tylko na podstawie umowy, zasadniczo na czas nieokreślony
+  * z chwilą przyjęcia członka do spółdzielni powinna być z nim zawarta spółdzielcza umowa o pracę, w przeciwnym wypadku prawo do odszkodowania na zasadach prawa cywilnego
+  * przez cały okres członkostwa spółdzielnia ma prawo występowania z roszczeniem o nawiązanie spółdzielczego stosunku pracy
+  * stosunek pracy w zasadzie trwa przez cały okres członkostwa, chociaż są wyjątki
+  * w czasie trwania członkostwa umowa o pracę może zostać rozwiązana tylko przez korporacje i to w ściśle określonych sytuacjach
+  * przepisy prawa pracy chroniące pracowników przed zwolnieniem mają pełne zastosowanie
+  * stosunek pracy wygasa z ustaniem członkostwa - w razie śmierci członka, wypowiedzenia stosunku członkostwa, wykluczenia lub wykreślenia ze spółdzielni
+  * wynagrodzenie zatrudnionego na spółdzielczą umowę o pracę wynosi wynagrodzenie bieżące oraz udział w nadwyżce bilansowej przeznaczonej do podziału, uczestniczy jednak do wysokości wkładu w pokrywaniu strat, ponosi więc pewne ryzyko jako współgospodarz
+  
+  43. Kiedy dochodzi do nawiązania stosunku pracy na podstawie powołania?
+    * z formalnoprawnego punktu widzenia to **akt administracyjny jednostronny**
+    * musi być przepis rangi ustawowej
+    * trzeba odróżnic powołanie jako akt inwestytuty na funkcje od powołania jako źródła nawiązania stosunku pracy
+    * **nie są powołaniami**:
+      - powołania do zarządu spółki z ograniczoną odpowiedzialnością
+      - powołania naczelnika urzędu skarbowego
+      - powołąnia członka zarządu spółdzielni
+      - powołąnie rektora niepaństwowej szkoły wyższej
+    * **powołąniami są:**
+      - powołąnia na dyrektora, zastępcę dyrektora przedsiębiorstwa państwowego
+      - powołania na dyrektora instytucji kultury
+      - powołania na sekretarza gminy (powiatu)
+      - powołania na skarbnika gminy (powiatu)
+      - powołania na dyrektora parku narodowego
+
 
 
