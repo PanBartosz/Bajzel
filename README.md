@@ -1,0 +1,2 @@
+# Bajzel
+Notatki, materiały, artykuły
