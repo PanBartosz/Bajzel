@@ -110,4 +110,7 @@ Jeżeli  strażnik  (pracownik  ochrony)  ma  obowiązek  strzeżenia  (ochrony)
 
 Dostrzegamy pewną filozoficzną problematyczność takiego myślenia o normach, uważamy jednak, że jest to użyteczna koncepcja, która oddaje dobrze potoczne intuicje na temat norm oraz wnioskowania o nich. 
 
-## Analiza oryginalnych scenariuszów Knobe'a
+## Analiza oryginalnych scenariuszy Knobe'a
+
+![Scenariusz HARM ](knobeharm.png "Scenariusz HARM")
+![Scenariusz HELP ](knobehelp.png "Scenariusz HELP")
