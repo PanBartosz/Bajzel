@@ -321,14 +321,48 @@
  		+ wciąż można rozwiązać umowę z powodu ciężkiego naruszenia przez pracodawcę jego podstawowych obowiazków 
  		+ wciąż można wytoczyć pracownicze powództwo o ustalenie istnienia stosunku pracy o określonej treści, w szczególności: właściwym wynagrodzeniu, jeśli jest ono dyskryminujące 
  * zasadę prawa do godziwego wynagrodzenia za pracę
+   - nie tylko wynagrodzenie ale inne świadczenia
+   - ma charakter względny i należy brać pod uwagę potrzeby praconików i sytuację ekonomiczną kraju i pracodawców
  * zasadę prawa do wypoczynku
+   - konieczność zapewnienia pracownikowi codziennego, cotygodniowego i corocznego okresu wypoczynku
  * zasadę prawa do bezpiecznych i higienicznych warunków pracy
+   - zapewnić je to obowiązek *pracodawcy* 
+   - jej realizacja nie jest zależna od tego jak pracownik się wywiązuje z pracy ani w ogóle czy to robi
+   - także: obowiązek egzekwowania od pracownikóœ przestrzegania przepisów bhp
+   - nie ma charakteru absolutnego - niektóre prace są z natury niebezpieczne
  * zasadę zaspokajania bytowych, socjalnych i kulturalnych potrzeb pracowników
- * zasadę ułatwiania pracownikom podnoszenia kwalifikacji
+ * zasadę ułatwiania pracownikom podnoszenia kwalifikacji zawodowych
+   - ogólna powinność do stymulowania
  * zasadę uprzywilejowania pracownika 
+   - inaczej zwana zasadą ochrony uprawnień pracowniczych
+   - postanowienia umów o prace itd. nie mogą być mniej korzystne niż przepisy prawa pracy
  	**Opisowe**: 
  * zasada osobistego świadczenia pracy
+   - w ramch stosunku pracy pracownik obowiązuje się do wykonywania umówionej pracy, co oznacza, ze nie może powierzyć jej wykonywania osobie trzeciej ani posługiwać się podwykonawcami
  * zasada podporządkowania pracownika pracodawcy
+   - oznacza to, że wykonuje pracę pod kierownictwem pracodawcy (sposób, miejsce i czas wykonania pracy)
  * zasada odpłatności pracy
+   - stosunek pracy jest bezwzględnie odpłatny, wynagrodzenie przysługuje za pracę wykonaną
  * zasada ryzyka pracodawcy
+   - **ryzyko gospodarcze** - pracownik nie może ponosić konsekwencji negatywnych rezultatów ekonomicznych działalności pracodawcy, chociaż np. może uzależniać premie
+   - **ryzyko techniczno - organizacyjne** - pracodawca ponosi ujemne konsekwencje zakłóceń w procesie pracy
+   - **ryzyko osobowe** - pracodawca ponosi konsekwencje doboru pracowników i jego obciążają skutki niezawinionych przez pracowników błędów w pracy
+   - **ryzyko socjalne** - obowiązek wypłaty pracownikowi świadczenia gwarancyjnego równoważnego wynagrodzeniu za czas niewykonywania pracy w sytuacjach przewidzianych przepisami prawa, np. czas niezdolności do pracy z powodu choroby, czas urlopu wypoczynkowego
+
+39. Jakie są zasady zbiorowego prawa pracy?
+ * zasada wolności koalicji pracowników i pracodawców
+   - kardynalna zasada zbiorowego prawa pracy
+   - autonomia zrzeszania się ale także opracowywania statutów, regulaminów, organizacji struktur, federacji i konfederacji itp. 
+ * zasada partycypacji pracowniczej
+   - udział pracowników w zarządzeniu zakładem pracy
+   - jego funkcją jest dążenie do upodmiotowienia pracowników jako uczestników procesu pracy
+   - sprzyja ekonomicznej optymalizacji 
+   - ze względu na zróżnicowanie nie ma jednego modelu
+
+40. Jakie funkcje spełniają zasady prawa pracy?
+ * funkcja regulacyjna - tylko normy *sensu stricto*
+ * funkcja wytycznych legislacyjnych
+ * funkcja wskazówek interpretacyjnych
+
+
 
