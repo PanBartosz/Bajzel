@@ -88,3 +88,26 @@ Wydaje się, że w podobny sposób można opisać również system norm moralnyc
 Uważamy, że istnieje dość możliwość dość określenia metodami empirycznymi przynajmniej niektórych elementów tak rozumianej hierarchii norm w danym społeczeństwie. Nie przeprowadziliśmy wprawdzie odpowiednich badań, ale do naszego eksperymentu wybraliśmy takie normy, dla których ich hierarchiczne usytuowanie nie wydaje się problematyczne.
 
 ### Reguły inferencyjne
+Drugim nasze założenie odnoszące się do norm mówi, że istnieją pewne reguły wnioskowania o obowiazywaniu jednych norm z obowiązywania innych przy założeniu określonych związków przyczynowych pomiędzy zachowaniem adresata danej normy  a stanem rzeczy, którego zrealizowanie norma nakazuje. Źródłem tego pojęcia jest znów teoria prawa, co nie powinno dziwić, ponieważ problematyka norm jest jednym z podstawowych zagadnień. Reguły te nazywać będziemy intrumentalnymi regułami inferencyjnymi.
+
+Aby ilustrować z jakiego rodzaju wnioskowaniami mamy do czynienia, chcielibyśmy przedstawić dwie często przywoływane w literaturze reguły [przypis]. 
+
+**Reguła instrumentalnego nakazu**: 
+**Przesłanka I**: Obowiązuje    norma    prawna    N1    nakazująca    adresatom    A,    w okolicznościach O, czynić X 
+**Przesłanka II**: spełnienie   (podjęcie   działania)   Y   jest   przyczynowo   konieczne   do spełnienia X 
+**Wniosek**: obowiązuje też norma prawna N2 nakazująca czynić Y (spełnić Y) 
+
+**PRZYKŁAD**
+Jeżeli  lekarz  ma  obowiązek  ratowania życia  pacjenta  (przesłanka  I),  a  w  danej  sytuacji do  osiągnięcia  tego  celu  konieczne  jest  podanie  określonych  leków  (przesłanka II),  to należy przyjąć, że lekarz ma obowiązek podania tych leków (wniosek).
+
+**Reguła instrumentalnego zakazu**
+**Przesłanka I**: obowiązuje norma prawna N1 nakazująca adresatom A, w okolicznościach O, czynić X 
+**Przesłanka II**: spełnienie Z uniemożliwia osiągnięcie X 
+**Wniosek**: obowiązuje norma prawna N3 zakazująca czynienia Z 
+
+**PRZYKŁAD**  
+Jeżeli  strażnik  (pracownik  ochrony)  ma  obowiązek  strzeżenia  (ochrony) danego   obiektu   (przesłanka   I),   sen   albo   oddalenie   się od   chronionego   obiektu uniemożliwiająjego ochronę (przesłanka II), to strażnikowi nie wolno spać lub oddalać się w trakcie zmiany od tegoż obiektu. 
+
+Dostrzegamy pewną filozoficzną problematyczność takiego myślenia o normach, uważamy jednak, że jest to użyteczna koncepcja, która oddaje dobrze potoczne intuicje na temat norm oraz wnioskowania o nich. 
+
+## Analiza oryginalnych scenariuszów Knobe'a
