@@ -1,0 +1,90 @@
+# Efekt Knobe'a, zaniechania i konflikt norm.
+
+## Wstęp
+Eksperyment Knobe'a (2003) jest jednym z najszerzej obecnie dyskutowanych wyników filozofii eksperymentalnej. Dla wielu myślicieli zajmujących się teorią działania wyniki uzyskane przez Knobe'a były sporym zaskoczeniem. Okazało się, że znaczna cześć koncepcji dotyczących działania intencjonalnego pozostaje w sprzeczności z tym, jak według Knobe'a używają tego pojęcia użytkownicy języka.
+
+ Samo badanie Knobe'a referowane i komentowane jest w niemal każdym artykule poświęconym filozofii eskeprymentalnej, ograniczymy się zatem do jedynie niezbędnych szczegółów.
+
+Oryginalne badanie przeprowadzone zostało na grupie 78 przypadkowych osób przechadzających się po parku na Manhattanie. Zostali podzieleni na dwie grupy, z których każda skonfrontowana została z jednym z dwóch scenariuszy.
+
+> ##### Scenariusz HARM
+
+>Wicedyrektor zwraca się do dyrektora pewnej firmy:++++
+
+>„Myślimy o wdrożeniu nowego programu. Pozwoli nam zwiększyć zyski, ale zaszkodzi środowisku”.
+
+>Dyrektor odpowiada:
+„Nie obchodzi mnie szkodzenie środowisku. Chcę tylko zwiększyć zyski. Wdrażamy program”.
+
+>Program został wdrożony i rzeczywiście zaszkodził środowisku.
+
+
+> ##### Scenariusz HELP
+
+> Wicedyrektor zwraca się do dyrektora pewnej firmy:
+
+>„Myślimy o wdrożeniu nowego programu. Pozwoli nam zwiększyć zyski i pomoże środowisku”.
+
+>Dyrektor odpowiada:
+
+>„Nie obchodzi mnie pomaganie środowisku. Chcę tylko zwiększyć zyski. Wdrażamy program”.
+
+>Program został wdrożony i rzeczywiście pomógł środowisku.
+
+Scenariusze różnatom editor spellingią się od siebie wyłącznie jednym elementem. W scenariuszu HARM skutkiem ubocznym wdrożenia programu jest zaszkodzenie środowisku, podczas gdy w scenariuszu HELP skutek jest dla środowiska pozytywny. Skonfrontowani z tymi scenariuszami badani odpowiadali na pytanie:
+
+> Czy dyrektor intencjonalnie (*intentionally*) zaszkodził/pomógł środowisku?
+
+Wyniki były zaskakujące. Przeważająca większość badanych, którym przedstawiono scenariusz w wersji HARM odpowiedziała, że dyrektor intencjonalnie zaszkodził środowisku. W przypadku drugiej wersji scenariusza proporcja była odwrotna - respondenci uważali, że dyrektor nie pomógł środowisku intencjonalnie. W jaki sposób wyjaśnić tę asymetrię?
+
+Filozofów próbujących zmierzyć się z uzyskanym przez Knobe'a i badaczy replikujących oryginalne badanie wynikiem można podzielić z grubsza na trzy grupy. Do pierwszej grupy możemy zaliczać tych myślicieli, którzy efekt Knobe'a, bo tak została nazwana odkryta przez niego asymetria, próbowali sprowadzić do artefaktu wynikającego ze złej konstrukcji scenariusza, niezrozumienia pytania przez badanych lub pewnych stereotypów związanych ze specyficznym enwironmentalistyczno-korporacyjny entouragem scenariuszy Knobe'a. W drugiej grupie znajdują się filozofowie, którzy nie negują wprawdzie tego, że oryginalny eksperyment coś pokazuje, ale twierdzą, że można łatwo wyjaśnić wynik uzyskany przez Knobe'a za pomocą zjawisk już dobrze zrozumianych - na przykład implikatur konwersacyjnych. Trzecia grupa, do której zalicza się sam Knobe, stoi na stanowisku, że efekt Knobe'a związany jest z jakimś niedostrzeżonym wcześniej mechanizmem psychologicznym, który wiąże przypisywanie intencjonalności działaniom z ich moralną oceną.
+
+## Zaniechanowie wyjaśnienie efektu Knobe'a
+
+Zaproponowane przez Paprzycką wyjaśnienie efektu Knobe'a jest propozycją, którą zakwalifikować możemy do grupy drugiej. Koncepcja ta opiera się na normatywnej koncepcji zaniechań. Jej dwie podstawowe tezy to:
+
+1. (*zaniechanie*)
+x dopuszcza się zaniechania (obowiązku moralnego, prawnego etc.) fi-owania
+dokładnie wtedy, gdy:
+(a) fi-owanie jest (moralnym, prawnym etc.) obowiązkiem x-a (bądź rozsądnie
+jest oczekiwać od x-a, by fi-ował).
+(b) fi-owanie jest w mocy x-a,
+(c) nie jest prawdą, że x fi-uje,
+
+2. (*intencjonalne zaniechanie*)
+x dopuszcza się intencjonalnego zaniechania fi-owania wtedy i tylko wtedy, gdy:
+
+(0) x dopuszcza się zaniechania -owania oraz eęęeę
+(a’) x wie*, że fi-owanie jest jego obowiązkiem (bądź przedmiotem roz-
+sądnych oczekiwań),
+(b’) x wie*, że fi-owanie leży w jego mocy,
+(c’) x wie*, że nie fi-uje,
+
+Koncepcja ta służy Paprzyckiej do wyjaśnienia efektu Kobe'a. Stwierdza ona, że w oryginalnym Knobowskim scenariuszu HARM dyrektor dopuszcza się intencjonalnego zaniechania, ponieważ badani uważają normę nakazującą nie-szkodzenie środowisku za obowiązującą. W związku z tym wyprowadzają wniosek, że dyrektor dopuścił się intencjonalnego zaniechania nie-szkodzenia środowisku (dyrektor intencjonalnie nie nie-szkodził), a zatem po usunięciu podwójnej negacji, intencjonalnie mu zaszkodził.
+
+Wyjaśnienie to ma wiele zalet. Jest stosunkowo proste, odwołuje się do stosunkowo prostego mechanizmu intencjonalnych zaniechań, które postulowane były w literaturze poświęconej filozofii działania od dłuższego czasu. Kwestiami problematycznymi jest jednak to, jak rozumieć pojęcie "normy". Chcielibyśmy zaproponować eksperyment, którego celem jest sprawdzenie hipotezy Paprzyckiej, oparty na pewnym wybranym przez nas rozumieniu tego pojęcia. Jest to koncepcja normy szczególnie popularna wśród teoretyków i filozofów prawa jak również niektórych deontologów. Koncepcja ta, przy założeniu że jest to intuicyjne pojęcie normy którym posługują się użytkownicy języka, pozwoliła nam wyprowadzić z hipotezy Paprzyckiej  empiryczne konsekwencje.
+
+## Normy
+
+Normatywna koncepcja zaniechań odwołuje się do pojęcia "normy" oraz pojęcia "rozsądnego oczekiwania". Skonstruowanie badania, które mogłoby potwierdzić bądź podważyć wyjaśnienie efektu Knobe'a oparte na tej koncepcji musi doprecyzować te terminy w taki sposób, aby umożliwić skonstruowanie odpowiedniego narzędzia badawczego. Nie chcąc rozstrzygać filozoficznego sporu co do natury norm, postanowiliśmy ograniczyć się do przyjęcia kilku założeń dotyczących zachowania norm. Chcielibyśmy zaznaczyć, że charakterystyka norm, którą proponujemy nie wiąże się z bardzo mocnymi zobowiązaniami filozoficznymi. Pojęcie "normy" traktujemy bowiem instrumentalnie, jako pewnego rodzaju narzędzie, które posłużyć może do opisu sytuacji, w których ludzkie zachowania mają realny wymiar. Nie twierdzimy przy tym, że istnieją w rzeczwistości jakieś byty, które byłyby normami, że istnieje jakaś władza poznawcza umożliwiająca ich poznanie ani nawet, że domniemane normy są kauzalnie efektywne, tzn. że są rzeczywiście współprzyczynami pewnych ludzkich zachowań. Uważamy, że niezależnie od filozoficznego stanowiska dotyczącego kwestii norm można posługiwać się tym pojęciem opisując pewną klasę sytuacji.
+
+Do konstrukcji naszego narzędzia badawczego posłużyliśmy się dwoma założeniami:
+
+ 1. Normy uporządkowane są w pewne hierarchie, na gruncie których konflikty norm są łatwo rozstrzygalne.
+ 2. Istnieją pewne reguły wnioskowania, które pozwalają wyprowadzać wniosek o obowiązywaniu jednych norm z przesłanek, stwierdzających obowiązywanie innych.
+
+### Konflikt norm i hierarchiczność systemu norm
+
+W konstrukcji naszego badania kluczową rolę odgrywa zjawisko. które określamy jako "konflikt norm". Sformułowanie to jest jednak dwuznaczne i może odnosić się do dwóch rodzajów sytuacji, które mimo pewnych podobieństw różnią się od siebie istotnie.
+
+W pierwszym znaczeniu, które możemy określić znaczeniem "Antygonicznym", "konflikt" norm odnosi się do sytuacji, w których zastosowanie znajdują dwie wykluczające się w praktyce normy. Mogą być one tego samego typu (moralne, prawne, społeczne) lub pochodzić z róznych porządków. "Antygoniczność" takiego konfliktu norm osadza się na tym, że nie istnieje żadno kryterium, pozwalające rozstrzygnąć, którą z nich należy wcielić w życie. W przypadku norm tego samego typu ma to miejsce wówczas, gdy są one na tym samym poziomie, to znaczy mają porównywalną ze sobą wagę. Jeżeli zaś pochodzą z różnych porządków, to konflikt taki występuje, jeżeli nie da się w sposób oczywisty określić, który z nich jest porządkiem ważniejszym. Ten rodzaj konfliktu norm egzamplifikuje sytuacja Antygony w tragedii Sofoklesa. Musiała ona wybrać pomiędzy dwoma wykluczajacymi się normami - jedną normą prawną, zakazującą pochowania brata i drugą normą natury religijnej, nakładającą na nią obowiązek pochówku.
+
+Drugie znaczenie sformułowania "konflikt norm" można określić jako "niegroźny konflikt". Z takim rodzajem konfliktu norm mamy do czynienia wówczas, gdy - w przeciwieństwie do konfliktu norm typu "Antygonicznego" - istnieje albo oczywisty, albo przynajmniej nieproblematyczny sposób rozstrzygnięcia tego, która z norm jest ważniejsza. Ten sposób myślenia o normach najłatwiej wytłumaczyć przywołując koncepcję norm kolizyjnych, którą posługują się teoretycy prawa.
+
+W systemach prawnym istnieją pewne mechanizmy radzenia sobie z sytuacjami, w których w porządku prawnym istnieją jednocześnie dwie niezgodne ze sobą normy. W takiej sytuacji należy posłużyć się jedną z reguł kolizyjnych. Szczególnie interesującą z punktu widzenia rozumienia pojęcia normy wykorzystywanego w konstrukcji naszego narzędzia badawczego jest tzw. hierarchiczna regułą kolizyjna, wyrażana najczęściej przy pomocy łacińskiej paremii "Lex superior derogat legi inferiori". Systemy prawne charakteryzują się pewną hierarchicznością. Najwyżej w hierarchi są normy wynikające z aktów prawnych o randze konstytucyjnej, niżej są umowy międzynarodowe, ustawy, przepisy prawa miejscowego. W praktyce zdarza się, że z dwóch aktów prawnych znajdujących się na różnych poziomach hierarchii możemy wywieść dwie wykluczające się normy. Hierarchiczna reguła kolizyjna nakazuje nam zastosować wówczas tę normę, która znajduję się na wyższym poziomie hierarchii.
+
+Wydaje się, że w podobny sposób można opisać również system norm moralnych. Ich hierarchia nie jest oczywiście tak jednoznaczna, jak w przypadku systemów prawnych, należy jednak zauważyć, że nie wszystkim normom moralnym przypisujemy taką samą wagę. Pomimo obowiązywania normy, zakazującej kradzieży, jesteśmy skłonni przyznać, że jest ona w jakiś sposób dopuszczalna, gdy mówimy o kradzieży bułki w sklepie w celu nakarmienia umierającego, głodnego dziecka. Norma mówiąca "ratuj życie innych ludzi" jest ważniejsza niż ta mówiaca "nie kradnij".
+
+Uważamy, że istnieje dość możliwość dość określenia metodami empirycznymi przynajmniej niektórych elementów tak rozumianej hierarchii norm w danym społeczeństwie. Nie przeprowadziliśmy wprawdzie odpowiednich badań, ale do naszego eksperymentu wybraliśmy takie normy, dla których ich hierarchiczne usytuowanie nie wydaje się problematyczne.
+
+### Reguły inferencyjne
