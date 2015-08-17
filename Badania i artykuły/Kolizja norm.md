@@ -129,12 +129,15 @@ Naszym celem było skonstruowanie takiego narzędzia badawczego, które pozwoli 
 	* moglibyśmy kontrolować obowiązywanie norm, w szczególności obowiązywanie normy zakazującej szkodzenia środowisku 
 	* moglibyśmy kontrolować zachowanie podmiotu dziającego (dyrektora), w szczególności to, czy jest podmiotem zaniechania obowiązku. 
 
-Uznaliśmy, że najskuteczniejszą drogą osiągnięcia tych celów jest skonstruowanie takich scenariuszy badawczych, w których obok normy zakazującej szkodzenia środowisku lub normy nakazującej pomaganie mu, obowiązuje także w sposób oczywisty hierarchicznie wyższa norma, której zrealizowanie pozostaje w związku z niezastosowaniem się do normy hierarchicznie niższej. Zgodnie z naszymi założeniami w takiej sytuacji konfliktu górę musi wziąć obowiązek zastosowania się do normy silniejszej, z którego za pomocą reguły instrumentalnego nakazu wywnioskować może obowiązek takiego działania, które byłoby pogwałceniem normy hierarchicznie niższej. 
+Uznaliśmy, że najskuteczniejszą drogą osiągnięcia tych celów jest skonstruowanie takich scenariuszy badawczych, w których obok normy zakazującej szkodzenia środowisku lub normy nakazującej pomaganie mu, obowiązuje także w sposób oczywisty hierarchicznie wyższa norma, której zrealizowanie pozostaje w związku z niezastosowaniem się do normy hierarchicznie niższej. Zgodnie z naszymi założeniami w takiej sytuacji konfliktu górę musi wziąć obowiązek zastosowania się do normy silniejszej, z którego za pomocą reguły instrumentalnego nakazu wywnioskować może obowiązek takiego działania, które byłoby pogwałceniem normy hierarchicznie niższej. Z drugiej strony wykorzystaliśmy fakt, że wyjaśnienie Paprzyckiej jest wyjaśnieniem w kategorii zaniechać. Za pomocą wprowadzenia hierarchicznie wyższej normy chcieliśmy skonstruować taką sytuację, w której z obowiązku zastosowania się do hierarchicznie wyższej normy instrumentalnie wynikałyby:
+	* w scenariuszu **HARM**  obowiązek wprowadzenia programu, którego jednym ze skutków jest zaszkodzenie środowisku, którego zaś skutkiem jest pomożenie ludziom
+	* w scenariuszu **HELP**  obowiązek powstrzymania się od wprowadzenia programu, którego jednym ze skutków jest pomożenie środowisku środowisku, którego zaś skutkiem jest zaszkodznie ludziom
+
+Każdy z tych scenariuszy przygotowany został w dwóch wersjach - w takiej, w której dyrektor wprowadza program, więc w **HARM** mamy do czynienia ze spełnieniem obowiązku, w **HELP** zaś z zaniechaniem, oraz w takiej, w której dyrektor powstrzymuje się od wprowadzenia programu, gdzie sytuacja wygląda odwrotnie. 
 
 Jako normy, która posłużyć nam miała do skonstruowania odpowiedniego narzędzia badawczego wybraliśmy normę zakazującą narażania ludzi na śmiertelne niebezpieczeństwo oraz normę nakazującą ratowanie ludzi w sytuacji takiego bezpieczeństwa. Wydaje się, że w naszej kulturze dla większości ludzi życie ludzkie ma większą wartość niż środowi3sko. Być może w przyszłości się to zmieni, jesteśmy jednak przekonani że obecnie niewiele osób poświęciłoby swoje życie lub zdrowie dla ratowania środowiska, a jeszcze mniej uważałoby, że należy poświęcić życie innych. 
 
-Strukturę kauzalno - normatywną skonstruowanych prze
-z nas scenariuszy przedstawiają poniższe diagramy.
+Strukturę kauzalno - normatywną skonstruowanych przez nas scenariuszy przedstawiają poniższe diagramy, analiza pod względem występowania zaniechań znajduje się w tabeli. 
 
 #### Scenariusz HARM
 ![Scenariusz HARM ](naszharm.png "Scenariusz HARM")
@@ -142,12 +145,29 @@ z nas scenariuszy przedstawiają poniższe diagramy.
 #### Scenariusz HELP
 ![Scenariusz HELP ](naszhelp.png "Scenariusz HELP")
 
-|                              |                                HARM                                |                                      HELP                                      |
-| ---------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| Norma znosząca               | Ratuj od śmierci głodowej                                          | Ratuj od śmierci głodowej                                                      |
-| Norma znoszona               | Nie szkódź środowisku                                              | Pomagaj środowisku                                                             |
-| Obowiązek prezesa            | Ratować od śmierci głodowej, szkodząc środisku i wdrażając program | Ratować od śmierci głodowej, nie pomagająć środowisku i nie wdrażając programu |
-| Działanie prezesa            | Wdrozenie programu, zaszkodzenie środowisku, uratowanie ludzi      | Wdrozenie programu, pomożenie środowisku, narażenie ludzi na śmierć głodową    |
-| Zadawane pytania:            |                                                                    |                                                                                |
-| Pytanie o środowisko         | Czy dyrektor umyślnie zaszkodził środowisku?                       | Czy dyrektor umyślnie pomógł środowisku?                                       |
-| Pytanie o życie mieszkańców: | Czy dyrektor umyślnie zapobiegł śmierci głodowej?                  | Czy dyrektor umyślnie naraził mieszkańców na śmierć głodową?                   |
+
+|                                           |                                HARM                                |                                      HELP                                      |
+| ----------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| **Norma znoszona**                        | Nie szkódź środowisku                                              | Pomagaj środowisku                                                             |
+| **Norma znosząca**                        | Ratuj od śmierci głodowej                                          | Ratuj od śmierci głodowej                                                      |
+| **Obowiązek prezesa**                     | Ratować od śmierci głodowej, szkodząc środisku i wdrażając program | Ratować od śmierci głodowej, nie pomagająć środowisku i nie wdrażając programu |
+| **Działanie prezesa**                     | *Wdrozenie programu, zaszkodzenie środowisku, uratowanie ludzi*    | *Wdrozenie programu, pomożenie środowisku, narażenie ludzi na śmierć głodową*  |
+| **Zadawane pytania:**                     |                                                                    |                                                                                |
+| **Pytanie o środowisko**                  | Czy dyrektor umyślnie zaszkodził środowisku?                       | Czy dyrektor umyślnie pomógł środowisku?                                       |
+| **Pytanie o życie mieszkańców:**          | Czy dyrektor umyślnie zapobiegł śmierci głodowej?                  | Czy dyrektor umyślnie naraził mieszkańców na śmierć głodową?                   |
+| **Spełnienie obowiązku czy zaniechanie?** | Spełnienie obowiązku                                               | Zaniechanie obowiązku                                                          |
+
+
+
+|                                           |                                  HARM'                                   |                                     HELP'                                      |
+| ----------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| **Norma znoszona**                        | Nie szkódź środowisku                                                    | Pomagaj środowisku                                                             |
+| **Norma znosząca**                        | Ratuj od śmierci głodowej                                                | Ratuj od śmierci głodowej                                                      |
+| **Obowiązek prezesa**                     | Ratować od śmierci głodowej, szkodząc środisku i wdrażając program       | Ratować od śmierci głodowej, nie pomagająć środowisku i nie wdrażając programu |
+| **Działanie prezesa**                     | *Niewdrożenie programu, niezaszkodzenie środowisku, nieuratowanie ludzi* | *Niewdrożenie programu, niepomożenie środowisku, uratowanie ludzi*             |
+| **Zadawane pytania:**                     |                                                                          |                                                                                |
+| **Pytanie o środowisko**                  | Czy dyrektor umyślnie nie zaszkodził środowisku?                         | Czy dyrektor umyślnie pomógł środowisku?                                       |
+| **Pytanie o życie mieszkańców:**          | Czy dyrektor umyślnie  naraził na śmierć głodową?                        | Czy dyrektor umyślnie zapobiegł śmierci głodowej?                              |
+| **Spełnienie obowiązku czy zaniechanie?** | Zaniechanie obowiązku                                                    | Spełnienie obowiązku                                                           |
+|                                           |                                                                          |                                                                                |
+
