@@ -62,7 +62,9 @@ sądnych oczekiwań),
 
 Koncepcja ta służy Paprzyckiej do wyjaśnienia efektu Kobe'a. Stwierdza ona, że w oryginalnym Knobowskim scenariuszu HARM dyrektor dopuszcza się intencjonalnego zaniechania, ponieważ badani uważają normę nakazującą nie-szkodzenie środowisku za obowiązującą. W związku z tym wyprowadzają wniosek, że dyrektor dopuścił się intencjonalnego zaniechania nie-szkodzenia środowisku (dyrektor intencjonalnie nie nie-szkodził), a zatem po usunięciu podwójnej negacji, intencjonalnie mu zaszkodził.
 
-Wyjaśnienie to ma wiele zalet. Jest stosunkowo proste, odwołuje się do stosunkowo prostego mechanizmu intencjonalnych zaniechań, które postulowane były w literaturze poświęconej filozofii działania od dłuższego czasu. Kwestiami problematycznymi jest jednak to, jak rozumieć pojęcie "normy". Chcielibyśmy zaproponować eksperyment, którego celem jest sprawdzenie hipotezy Paprzyckiej, oparty na pewnym wybranym przez nas rozumieniu tego pojęcia. Jest to koncepcja normy szczególnie popularna wśród teoretyków i filozofów prawa jak również niektórych deontologów. Koncepcja ta, przy założeniu że jest to intuicyjne pojęcie normy którym posługują się użytkownicy języka, pozwoliła nam wyprowadzić z hipotezy Paprzyckiej  empiryczne konsekwencje.
+Wyjaśnienie to ma wiele zalet. Jest stosunkowo proste, odwołuje się do nieskomplikowanego mechanizmu intencjonalnych zaniechań, które postulowane były w literaturze poświęconej filozofii działania od dłuższego czasu. Kwestiami problematycznymi jest jednak to, jak rozumieć pojęcie "normy". Chcielibyśmy zaproponować eksperyment, którego celem jest sprawdzenie hipotezy Paprzyckiej, oparty na pewnym wybranym przez nas rozumieniu tego pojęcia. Jest to koncepcja normy szczególnie popularna wśród teoretyków i filozofów prawa jak również niektórych deontologów. Koncepcja ta, przy założeniu że jest to intuicyjne pojęcie normy którym posługują się użytkownicy języka, pozwoliła nam wyprowadzić z hipotezy Paprzyckiej  empiryczne konsekwencje. 
+
+Pytanie które należy zadać brzmi - czy istnieją jakiekolwiek empiryczne konsekwencje wyjaśnienia Paprzyckiej, które odróżniają je od wyjaśnień w rodzaju tego zaproponowanego przez Knobe'a. 
 
 ## Normy
 
@@ -125,19 +127,19 @@ Relacje przyczynowe i normatywne zilustrowane są za pomocą powyższch diagram�
 W scenariuszu HARM wdrożenie programu przez dyrektora ma dwa skutki. Skutkiem głównym jest zwiększenie zysków przedsiębiorstwa. Skutek uboczny to wyrządzenie szkody środowisku. Obowiązująca norma, do której powinien zastosować się dyrektor mówi: "nie szkódź środowisku". Posługując się regułą instrumentalnego zakazu możemy z tego faktu wywnioskować, że w okolicznościach przedstawionych w scenariuszu obowiazuje również norma mówiąca: "nie wdrażaj programu", ponieważ podjęcie działania, jakim jest wdrożenie programu, uniemożliwia osiagnięcie wyznaczonego przez normę zakazującą szkodzenia środowisku skutku. W scenariuszu HELP sytuacja wygląda analogicznie. Odpowiednio obowiązuje norma nakazująca pomaganie środowisku, z której za pomocą reguły inferencyjnej instrumentalnego nakazu możemy wywieść wniosek o obowiązywaniu normy nakazującej wprowadzenie programu. 
 
 ## Narzędzie badawcze 
-Naszym celem było skonstruowanie takiego narzędzia badawczego, które pozwoli nam posługując się przyjętymi załozeniami teoretycznymi sprawdzić trafność hipotezy wyjaśniającej Paprzyckiej. Postanowiliśmy jako narzędziem posłużyć się podobnie jak Knobe badaniem ankietowym. Jednym z wymagań jakie postawiliśmy scenariuszom badawczym było to, żeby jak najmniej rózniły się od oryginalnych scenariuszy Knobowskich. Racją, jaka stoi za tym założeniem jest to, że im bardziej są do nich podobne, tym bardziej uzasadnione pod względem metodologicznym jest porównywanie uzyskanych wyników. Celem, jaki przed sobą stawialiśmy było skonstruowanie takich scenariuszy badawczych, w których:
-	
-	* moglibyśmy kontrolować obowiązywanie norm, w szczególności obowiązywanie normy zakazującej szkodzenia środowisku 
-	* moglibyśmy kontrolować zachowanie podmiotu dziającego (dyrektora), w szczególności to, czy jest podmiotem zaniechania obowiązku. 
+Naszym celem było skonstruowanie takiego narzędzia badawczego, które pozwoli nam posługując się przyjętymi załozeniami teoretycznymi sprawdzić trafność hipotezy wyjaśniającej Paprzyckiej. Postanowiliśmy jako narzędziem posłużyć się podobnie jak Knobe badaniem ankietowym. Jednym z wymagań jakie postawiliśmy scenariuszom badawczym było to, żeby jak najmniej rózniły się od oryginalnych scenariuszy Knobowskich. Racją, jaka stoi za tym założeniem jest to, że im bardziej są do nich podobne, tym bardziej uzasadnione pod względem metodologicznym jest porównywanie uzyskanych wyników. Celem, jaki przed sobą stawialiśmy było skonstruowanie takich scenariuszy badawczych, w których:	
+
+ * moglibyśmy kontrolować obowiązywanie norm, w szczególności obowiązywanie normy zakazującej szkodzenia środowisku 
+ * moglibyśmy kontrolować zachowanie podmiotu dziającego (dyrektora), w szczególności to, czy jest podmiotem zaniechania obowiązku. 
 
 Uznaliśmy, że najskuteczniejszą drogą osiągnięcia tych celów jest skonstruowanie takich scenariuszy badawczych, w których obok normy zakazującej szkodzenia środowisku lub normy nakazującej pomaganie mu, obowiązuje także w sposób oczywisty hierarchicznie wyższa norma, której zrealizowanie pozostaje w związku z niezastosowaniem się do normy hierarchicznie niższej. Zgodnie z naszymi założeniami w takiej sytuacji konfliktu górę musi wziąć obowiązek zastosowania się do normy silniejszej, z którego za pomocą reguły instrumentalnego nakazu wywnioskować może obowiązek takiego działania, które byłoby pogwałceniem normy hierarchicznie niższej. Z drugiej strony wykorzystaliśmy fakt, że wyjaśnienie Paprzyckiej jest wyjaśnieniem w kategorii zaniechać. Za pomocą wprowadzenia hierarchicznie wyższej normy chcieliśmy skonstruować taką sytuację, w której z obowiązku zastosowania się do hierarchicznie wyższej normy instrumentalnie wynikałyby:
 
-	* w scenariuszu **HARM**  obowiązek wprowadzenia programu, którego jednym ze skutków jest zaszkodzenie środowisku, którego zaś skutkiem jest pomożenie ludziom
-	* w scenariuszu **HELP**  obowiązek powstrzymania się od wprowadzenia programu, którego jednym ze skutków jest pomożenie środowisku środowisku, którego zaś skutkiem jest zaszkodznie ludziom
+ * w scenariuszu **HARM**  obowiązek wprowadzenia programu, którego jednym ze skutków jest zaszkodzenie środowisku, którego zaś skutkiem jest pomożenie ludziom
+ * w scenariuszu **HELP**  obowiązek powstrzymania się od wprowadzenia programu, którego jednym ze skutków jest pomożenie środowisku środowisku, którego zaś skutkiem jest zaszkodznie ludziom
 
 Każdy z tych scenariuszy przygotowany został w dwóch wersjach - w takiej, w której dyrektor wprowadza program, więc w **HARM** mamy do czynienia ze spełnieniem obowiązku, w **HELP** zaś z zaniechaniem, oraz w takiej, w której dyrektor powstrzymuje się od wprowadzenia programu, gdzie sytuacja wygląda odwrotnie. 
 
-Jako normy, która posłużyć nam miała do skonstruowania odpowiedniego narzędzia badawczego wybraliśmy normę zakazującą narażania ludzi na śmiertelne niebezpieczeństwo oraz normę nakazującą ratowanie ludzi w sytuacji takiego bezpieczeństwa. Wydaje się, że w naszej kulturze dla większości ludzi życie ludzkie ma większą wartość niż środowi3sko. Być może w przyszłości się to zmieni, jesteśmy jednak przekonani że obecnie niewiele osób poświęciłoby swoje życie lub zdrowie dla ratowania środowiska, a jeszcze mniej uważałoby, że należy poświęcić życie innych. 
+Jako normy, która posłużyć nam miała do skonstruowania odpowiedniego narzędzia badawczego wybraliśmy normę zakazującą narażania ludzi na śmiertelne niebezpieczeństwo oraz normę nakazującą ratowanie ludzi w sytuacji takiego bezpieczeństwa. Wydaje się, że w naszej kulturze dla większości ludzi życie ludzkie ma większą wartość niż środowisko. Być może w przyszłości się to zmieni, jesteśmy jednak przekonani że obecnie niewiele osób poświęciłoby swoje życie lub zdrowie dla ratowania środowiska, a jeszcze mniej uważałoby, że należy poświęcić życie innych. 
 
 Strukturę kauzalno - normatywną skonstruowanych przez nas scenariuszy przedstawiają poniższe diagramy, analiza pod względem występowania zaniechań znajduje się w tabeli. 
 
@@ -162,7 +164,7 @@ Strukturę kauzalno - normatywną skonstruowanych przez nas scenariuszy przedsta
 
 
 |                                           |                                  HARM'                                   |                                     HELP'                                      |
-| ----------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+|-------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 | **Norma znoszona**                        | Nie szkódź środowisku                                                    | Pomagaj środowisku                                                             |
 | **Norma znosząca**                        | Ratuj od śmierci głodowej                                                | Ratuj od śmierci głodowej                                                      |
 | **Obowiązek prezesa**                     | Ratować od śmierci głodowej, szkodząc środisku i wdrażając program       | Ratować od śmierci głodowej, nie pomagająć środowisku i nie wdrażając programu |
@@ -172,5 +174,9 @@ Strukturę kauzalno - normatywną skonstruowanych przez nas scenariuszy przedsta
 | **Pytanie o życie mieszkańców:**          | Czy dyrektor umyślnie  naraził na śmierć głodową?                        | Czy dyrektor umyślnie zapobiegł śmierci głodowej?                              |
 | **Spełnienie obowiązku czy zaniechanie?** | Zaniechanie obowiązku                                                    | Spełnienie obowiązku                                                           |
 
+## Badanie
 
+## Wyniki
+
+## Dyskusja 
 
