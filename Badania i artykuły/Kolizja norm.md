@@ -125,15 +125,16 @@ Relacje przyczynowe i normatywne zilustrowane są za pomocą powyższch diagram�
 W scenariuszu HARM wdrożenie programu przez dyrektora ma dwa skutki. Skutkiem głównym jest zwiększenie zysków przedsiębiorstwa. Skutek uboczny to wyrządzenie szkody środowisku. Obowiązująca norma, do której powinien zastosować się dyrektor mówi: "nie szkódź środowisku". Posługując się regułą instrumentalnego zakazu możemy z tego faktu wywnioskować, że w okolicznościach przedstawionych w scenariuszu obowiazuje również norma mówiąca: "nie wdrażaj programu", ponieważ podjęcie działania, jakim jest wdrożenie programu, uniemożliwia osiagnięcie wyznaczonego przez normę zakazującą szkodzenia środowisku skutku. W scenariuszu HELP sytuacja wygląda analogicznie. Odpowiednio obowiązuje norma nakazująca pomaganie środowisku, z której za pomocą reguły inferencyjnej instrumentalnego nakazu możemy wywieść wniosek o obowiązywaniu normy nakazującej wprowadzenie programu. 
 
 ## Narzędzie badawcze 
-Naszym celem było skonstruowanie takiego narzędzia badawczego, które pozwoli nam posługując się przyjętymi załozeniami teoretycznymi sprawdzić trafność hipotezy wyjaśniającej Paprzyckiej. Postanowiliśmy jako narzędziem posłużyć się podobnie jak Knobe badaniem ankietowym. Celem, jaki przed sobą stawialiśmy było skonstruowanie takich scenariuszy badawczych, w których:
+Naszym celem było skonstruowanie takiego narzędzia badawczego, które pozwoli nam posługując się przyjętymi załozeniami teoretycznymi sprawdzić trafność hipotezy wyjaśniającej Paprzyckiej. Postanowiliśmy jako narzędziem posłużyć się podobnie jak Knobe badaniem ankietowym. Jednym z wymagań jakie postawiliśmy scenariuszom badawczym było to, żeby jak najmniej rózniły się od oryginalnych scenariuszy Knobowskich. Racją, jaka stoi za tym założeniem jest to, że im bardziej są do nich podobne, tym bardziej uzasadnione pod względem metodologicznym jest porównywanie uzyskanych wyników. Celem, jaki przed sobą stawialiśmy było skonstruowanie takich scenariuszy badawczych, w których:
 	* moglibyśmy kontrolować obowiązywanie norm, w szczególności obowiązywanie normy zakazującej szkodzenia środowisku 
 	* moglibyśmy kontrolować zachowanie podmiotu dziającego (dyrektora), w szczególności to, czy jest podmiotem zaniechania obowiązku. 
 
 Uznaliśmy, że najskuteczniejszą drogą osiągnięcia tych celów jest skonstruowanie takich scenariuszy badawczych, w których obok normy zakazującej szkodzenia środowisku lub normy nakazującej pomaganie mu, obowiązuje także w sposób oczywisty hierarchicznie wyższa norma, której zrealizowanie pozostaje w związku z niezastosowaniem się do normy hierarchicznie niższej. Zgodnie z naszymi założeniami w takiej sytuacji konfliktu górę musi wziąć obowiązek zastosowania się do normy silniejszej, z którego za pomocą reguły instrumentalnego nakazu wywnioskować może obowiązek takiego działania, które byłoby pogwałceniem normy hierarchicznie niższej. 
 
-Jako normy, która posłużyć nam miała do skonstruowania odpowiedniego narzędzia badawczego wybraliśmy normę zakazującą narażania ludzi na śmiertelne niebezpieczeństwo oraz normę nakazującą ratowanie ludzi w sytuacji takiego bezpieczeństwa. Wydaje się, że w naszej kulturze dla większości ludzi życie ludzkie ma większą wartość niż środowisko. Być może w przyszłości się to zmieni, jesteśmy jednak przekonani że obecnie niewiele osób poświęciłoby swoje życie lub zdrowie dla ratowania środowiska, a jeszcze mniej uważałoby, że należy poświęcić życie innych. 
+Jako normy, która posłużyć nam miała do skonstruowania odpowiedniego narzędzia badawczego wybraliśmy normę zakazującą narażania ludzi na śmiertelne niebezpieczeństwo oraz normę nakazującą ratowanie ludzi w sytuacji takiego bezpieczeństwa. Wydaje się, że w naszej kulturze dla większości ludzi życie ludzkie ma większą wartość niż środowi3sko. Być może w przyszłości się to zmieni, jesteśmy jednak przekonani że obecnie niewiele osób poświęciłoby swoje życie lub zdrowie dla ratowania środowiska, a jeszcze mniej uważałoby, że należy poświęcić życie innych. 
 
-Strukturę kauzalno - normatywną skonstruowanych przez nas scenariuszy przedstawiają poniższe diagramy.
+Strukturę kauzalno - normatywną skonstruowanych prze
+z nas scenariuszy przedstawiają poniższe diagramy.
 
 #### Scenariusz HARM
 ![Scenariusz HARM ](naszharm.png "Scenariusz HARM")
@@ -141,3 +142,12 @@ Strukturę kauzalno - normatywną skonstruowanych przez nas scenariuszy przedsta
 #### Scenariusz HELP
 ![Scenariusz HELP ](naszhelp.png "Scenariusz HELP")
 
+|                              |                                HARM                                |                                      HELP                                      |
+| ---------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
+| Norma znosząca               | Ratuj od śmierci głodowej                                          | Ratuj od śmierci głodowej                                                      |
+| Norma znoszona               | Nie szkódź środowisku                                              | Pomagaj środowisku                                                             |
+| Obowiązek prezesa            | Ratować od śmierci głodowej, szkodząc środisku i wdrażając program | Ratować od śmierci głodowej, nie pomagająć środowisku i nie wdrażając programu |
+| Działanie prezesa            | Wdrozenie programu, zaszkodzenie środowisku, uratowanie ludzi      | Wdrozenie programu, pomożenie środowisku, narażenie ludzi na śmierć głodową    |
+| Zadawane pytania:            |                                                                    |                                                                                |
+| Pytanie o środowisko         | Czy dyrektor umyślnie zaszkodził środowisku?                       | Czy dyrektor umyślnie pomógł środowisku?                                       |
+| Pytanie o życie mieszkańców: | Czy dyrektor umyślnie zapobiegł śmierci głodowej?                  | Czy dyrektor umyślnie naraził mieszkańców na śmierć głodową?                   |
