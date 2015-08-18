@@ -64,7 +64,7 @@ Koncepcja ta służy Paprzyckiej do wyjaśnienia efektu Kobe'a. Stwierdza ona, �
 
 Wyjaśnienie to ma wiele zalet. Jest stosunkowo proste, odwołuje się do nieskomplikowanego mechanizmu intencjonalnych zaniechań, które postulowane były w literaturze poświęconej filozofii działania od dłuższego czasu. Kwestiami problematycznymi jest jednak to, jak rozumieć pojęcie "normy". Chcielibyśmy zaproponować eksperyment, którego celem jest sprawdzenie hipotezy Paprzyckiej, oparty na pewnym wybranym przez nas rozumieniu tego pojęcia. Jest to koncepcja normy szczególnie popularna wśród teoretyków i filozofów prawa jak również niektórych deontologów. Koncepcja ta, przy założeniu że jest to intuicyjne pojęcie normy którym posługują się użytkownicy języka, pozwoliła nam wyprowadzić z hipotezy Paprzyckiej  empiryczne konsekwencje. 
 
-Pytanie które należy zadać brzmi - czy istnieją jakiekolwiek empiryczne konsekwencje wyjaśnienia Paprzyckiej, które odróżniają je od wyjaśnień w rodzaju tego zaproponowanego przez Knobe'a. 
+Pytanie które należy zadać brzmi - czy istnieją jakiekolwiek empiryczne konsekwencje koncepcji Paprzyckiej, które odróżniają ją od teorii w rodzaju tej zaproponowanej przez Knobe'a. Oba te stanowiska są wyjaśnienieniami rezultatów uzyskanych przez Knobe'a i aby rozstrzygnąć, które z nich jest prawdziwe, koniecznym jest zaproponowanie eksperymentu, którego rezultat przewidywałyby w sposób odmienny. 
 
 ## Normy
 
@@ -175,8 +175,87 @@ Strukturę kauzalno - normatywną skonstruowanych przez nas scenariuszy przedsta
 | **Spełnienie obowiązku czy zaniechanie?** | Zaniechanie obowiązku                                                    | Spełnienie obowiązku                                                           |
 
 ## Badanie
+Scenariusze badawcze, które użyte zostały w ostatecznej wersji badania, znajdują się w Dodatku. Ankieta przeprowadzana została na uniwersyteckiej internetowej platformie do przeprowadzania badań ankietowych Kognilab, opartej na otwartoźródłowym systemie LimeSurvey. Uczestnikami byli ochotnicy. W badaniu wzięło udział 241 osób (18.8.2015), którzy zostali przypisani losowo do czterech grup, z  których każda dostała inny scenariusz. Z powodu losowości liczba osób w każdej grupie różniła się nieznacznie.
+
+Każdemu badanemu do scenariusza zostały przedstawione w losowej kolejności dwa pytania tak, że odpowiadając na nie badany zawsze widział scenariusz, nie miał jednak możliwości powrotu do poprzedniego pytania. Czas na odpowiedź nie był ograniczany.
 
 ## Wyniki
 
+#### Czy dyrektor umyślnie (nie) zaszkodził/pomógł środowisku?
+![Scenariusz HARM ](environment.png "Środiwsko")
+
+#### Czy dyrektor umyślnie (nie) uratował/naraził na śmierć głodową mieszkańców?
+![Scenariusz HELP ](starvation.png "Głód")
+
 ## Dyskusja 
+
+## Zakończenie
+
+## DODATEK I - Scenariusze
+
+### HARM
+Wicedyrektor zwraca się do dyrektora pewnej firmy: „Rozważamy wdrożenie nowego programu w naszej fabryce w Azji Południowej. Pozwoli nam pomnożyć zyski, przyczyni się do pogorszenia stanu środowiska, ale pozwoli walczyć z głodem w regionie. 
+
+Ekologowie twierdzą, że wprowadzenie programu uszkodzi wały przeciwpowodziowe i znaczne tereny zostaną zalane, co spowoduje katastrofę ekologiczną: wyginie wiele unikatowych i endemicznych roślin. Ich wyginięcie spowoduje jednak, że mieszkańcy będą mogli na tych terenach zacząć uprawiać ryż, dla wielu z nich będzie to więc oznaczało definitywny koniec głodu zbierającego co roku śmiertelne żniwo”.
+
+Dyrektor odpowiada: „Rozumiem, że wprowadzenie programu zaszkodzi środowisku, a zaszkodzenie środowisku uratuje życie wielu osobom. Zupełnie nie obchodzi mnie jednak ani szkodzenie środowisku, ani życie mieszkańców. Interesują mnie tylko zyski. Wdrażamy program”.
+
+Program został wdrożony. Rzeczywiście, mieszkańcy nie cierpieli głodu, ale ucierpiało środowisko.
+
+**CZY ZGADZASZ SIĘ ZE STWIERDZENIEM:**
+
+*Dyrektor umyślnie zaszkodził środowisku.*
+
+*Dyrektor umyślnie zapobiegł groźbie śmierci głodowej wśród mieszkańców.*
+
+
+### HARM'
+Wicedyrektor zwraca się do dyrektora pewnej firmy: „Rozważamy wdrożenie w naszej fabryce w Azji Południowej nowego programu. Program narazi nas na straty finansowe, przyczyni się do pogorszenia stanu środowiska, ale pozwoli walczyć z głodem w regionie.
+
+Ekologowie twierdzą, że wprowadzenie programu uszkodzi wały przeciwpowodziowe i znaczne tereny zostaną zalane, co spowoduje katastrofę ekologiczną: wyginie wiele unikatowych i endemicznych roślin. Ich wyginięcie spowoduje jednak, że mieszkańcy będą mogli na tych terenach zacząć uprawiać ryż, dla wielu z nich będzie to więc oznaczało definitywny koniec głodu zbierającego co roku śmiertelne żniwo”.
+
+Dyrektor odpowiada: „Rozumiem, że wprowadzenie programu zaszkodzi środowisku, a zaszkodzenie środowisku uratuje życie wielu osobom. Zupełnie nie obchodzi mnie jednak ani szkodzenie środowisku, ani życie mieszkańców. Interesują mnie tylko zyski. Nie wdrażamy programu”.
+
+ 
+Program nie został wdrożony. Rzeczywiście, część mieszkańców zmarła w wyniku głodu, środowisko nie ucierpiało.
+
+**CZY ZGADZASZ SIĘ ZE STWIERDZENIEM:**
+
+*Dyrektor umyślnie nie zaszkodził środowisku.*
+
+*Dyrektor umyślnie naraził mieszkańców na śmierć głodową.*
+
+
+### HELP
+Wicedyrektor zwraca się do dyrektora pewnej firmy: „Rozważamy wdrożenie nowego programu w naszej fabryce w Azji Południowej. Pozwoli nam pomnożyć zyski, będzie korzystny na środowiska, ale przyczyni się do pojawienia się głodu w regionie.
+
+Ekologowie twierdzą, że jednym ze skutków wprowadzenia programu będzie konieczność wzmocnienia istniejących wałów przeciwpowodziowych. Dzięki temu znaczne tereny przestaną być rokrocznie zalewane. Gdyby udało się powstrzymać powodzie, udałoby się również zapobiec postępującej katastrofie ekologicznej: uratowalibyśmy wiele unikatowych i endemicznych roślin. Dotychczasowa degradacja roślinności pozwala jednak mieszkańcom uprawiać na tych terenach ryż. Dla wielu rodzin brak katastrofalnych dla środowiska powodzi oznaczałby więc cierpienie śmiertelnego głodu”.
+
+Dyrektor odpowiada: „Rozumiem, że wprowadzenie programu pomoże środowisku, a to sprowadzi na mieszkańców groźbę śmierci głodowej. Zupełnie nie obchodzi mnie jednak ani szkodzenie środowisku, ani cierpienia mieszkańców. Interesują mnie tylko zyski. Wdrażamy program”.
+
+Program został wdrożony. Rzeczywiście, część mieszkańców zmarła w wyniku głodu, ale program pomógł środowisku.
+
+**CZY ZGADZASZ SIĘ ZE STWIERDZENIEM:**
+
+Dyrektor umyślnie pomógł środowisku.
+
+Dyrektor umyślnie naraził mieszkańców na śmierć głodową.
+
+
+### HELP'
+
+Wicedyrektor zwraca się do dyrektora pewnej firmy: „Rozważamy wdrożenie w naszej fabryce w Azji Południowej nowego programu. Program narazi nas na straty finansowe, będzie korzystny na środowiska, ale przyczyni się do pojawienia się głodu w regionie. 
+
+Ekologowie twierdzą, że jednym ze skutków wprowadzenia programu będzie konieczność wzmocnienia istniejących wałów przeciwpowodziowych. Dzięki temu znaczne tereny przestaną być rokrocznie zalewane. Gdyby udało się powstrzymać powodzie, udałoby się również zapobiec postępującej katastrofie ekologicznej: uratowalibyśmy wiele unikatowych i endemicznych roślin. Dotychczasowa degradacja roślinności pozwala jednak mieszkańcom uprawiać na tych terenach ryż. Dla wielu rodzin brak katastrofalnych dla środowiska powodzi oznaczałby więc cierpienie śmiertelnego głodu”.
+
+Dyrektor odpowiada: „Rozumiem, że wprowadzenie programu pomoże środowisku, a to sprowadzi na mieszkańców groźbę śmierci głodowej. Zupełnie nie obchodzi mnie jednak ani szkodzenie środowisku, ani cierpienia mieszkańców. Interesują mnie tylko zyski. Nie wdrażamy programu”.
+
+Program nie został wdrożony. Rzeczywiście, mieszkańcy nie cierpieli głodu, ale w szybkim tempie postępowała degradacja środowiska.
+
+**CZY ZGADZASZ SIĘ ZE STWIERDZENIEM:**
+
+Dyrektor umyślnie nie pomógł środowisku.
+
+Dyrektor umyślnie zapobiegł groźbie śmierci głodowej wśród mieszkańców.
+
 
