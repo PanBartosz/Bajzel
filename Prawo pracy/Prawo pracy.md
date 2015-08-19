@@ -405,5 +405,265 @@
       - powołania na skarbnika gminy (powiatu)
       - powołania na dyrektora parku narodowego
 
+44. Jakie przepisy Kodeksu pracy stosuje się do powołania i co łączy się z odwołaniem ze stanowiska
+  * generalnie stosuje się przepisy dotyczące umowy o pracę na czas nieokreślony oprócz przepisów o rozwiązywaniu i bezskutecznosci wypowiedzeń, przywróceniu do pracy
+  * powołanie może poprzedzać konkurs
+  * akt odwołania jest aktem prawa pracy, musi być w formie pisemnej ale nie musi podawać przyczyny odwołania
+  * wszędzie gdzie jest w kodeksie *stosunek pracy* zamiast *umowy* stosuje się również do tych, co z powołania
+
+45. Kiedy dochodzi do nawiązania stosunku pracy z wyboru i jakie są tego konsekwencje?
+  * źródłem wybór, rozwiązuje się wraz z wygaśnięciem mandatu
+  * Kodeks pracy nie zawiera przepisów
+
+46. Czy pracownikowi wybranmu na stanowisko służy prawo do otrzymania urlopu bezpłatnego u dotychczasowego prawodawcy?
+  * na wniosek pracodawca może udzielić, ale nie jest to obligatoryjne oprócz działaczy związkowych
+  * jeśli pracownik skorzysta, to po wygaśnieciu mandatu ma prawo do powrotu do pracy na równorzędne stanowisko w przeciągu 7 dni od rozwiązania poprzedniego stosunku pracy
+
+47. Co wynika z zatrudnienia na podstawie mianowania?
+  * większośc osób zatrudnionych w publicznych jednostkach organizacyjnych
+  * obecność pragmatyk pracowniczych
+  * pojęcie mianowania wywodzi się ze stosnków słuzbowych w służbie państwowej
+  * mianowanymi są np.:
+    - urzędnicy służby cywilnej
+    - pracownicy urzędów państwowych
+    - pracowniczy samorządowi
+    - prokuratorzy
+    - sędziowie
+  * z mianowaniem łączy się szczególny system zatrudnienia, reguły kariery zawodowej, obowiązki zachowań poza miejscem pracy, większa stabilizac ja zatrudnienia
+  * nawiązuje się stosunek pracy za pomocą aktu mianowania - decyzji administracyjnej lub aktu prawa pracy
+  * wymagane jest złożenie ślubowania 
+  * często mamy do czynienia z rygorami selekcyjnymi 
+  * odpowiedzialność dyscyplinarna, zbliżona do odpowiedzialności karnej (charakter represyjny), kary nakłada komisja dyscyplinarna
+  * w **służbach mundurowych** też mianują ale **mianowanie nie kreuje stosunku pracy**, stosunki zatrudnienia regulowane są osobno
+  
+48. Czy Kodeks zawiera zamknięty katalog umów o pracę?
+  * Kodeks pracy zawiera ścisły i zamknięty katalog umów:
+    - umowa o pracę na czas nieokreślony
+    - umowa o pracę na czas określony
+    - umowa o pracę na czas wykonania określonej pracy
+    - umowa na okres próbny
+  * kontrahenci są ograniczeni w tworzeniu umów prawa pracy o charakterze nienazwanym
+  * ale rodzaj umowy nie stanowi *essentialia negotii*, w braku przyjmuje się co do zasady że to umowa na czas nieokreślony, ale rozpatrywać trzeba *ad casum*
+
+49. Co wiąże się z umową zawartą na czas nieokreślony?
+  * taka umowa jest zgodnie ze standardami europejskimi typową umową o pracę
+  * najlepiej chroni interesy pracownika, najbardziej uciążliwa dla pracodawcy
+  * **konieczność merytorycznego uzasadnienia wypowiedzenia**
+  * nakaz współdziałania ze związkami zawodowymi w procesie wypowiadania umowy
+  * chroni w pełni pracownice w ciąży, w trakcie urlopu macieżyńskiego
+
+50. Co wiąże się ze wszystkimi umowami terminowymi?
+  * konieczność określenia terminu końcowego i momentu ustania stosunku pracy
+
+51. Jakie są cechy charakterystyczne umowy na czas określony i na czas wykonania określonej pracy?
+  * umowa na czas określony
+    - śliśle oznaczony okrs wyznaczony wolą stron
+    - pewna stabilizacja stosunku pracy
+    - rozwiązuje się z nadejściem terminu
+    - jeśli zawiązywana jest na czas dłuższy niż 6 miesięcy, strony mogą zastrzec dopuszczalność wcześniejszego rozwiązania z dwutygodniowym terminem wypowiedzenia
+    - w przypadku zawarcia trzeciej na czas określony domniemuje się, że jest na czas określony
+    - szczególny typ - **umowa na czas zastępstwa pracownika**
+  * umowa na czas wykonania określonej pracy
+    - celem jest wykonanie ściśle określonej pracy
+    - **nie przerzuca ryzyka na pracownika!**
+    - co do zasady nie podlega rozwiązaniu za wypowiedzeniem - gwarantuje pracownikowi pełną stabilizację
+    - szczególny typ - **umowa sezonowa**
+      + szczególnie związana z porą roku
+    - szczególny typ 0 **umowa zawierana z pracownikiem przez agencje pracy tymczasowej**
+
+52. W jakim celu zawierana jest umowa na okres próbny i jakie są jej cechy charakterystyczne?
+  * ma ona na celu sprawdzenie przydatności pracownika, jego kwalifikacji itd., z drugiej zaś strony sprawdzenie pracodawcy z punktu widzenia możliwości zaspokojenia oczekiwań pracownika
+  * okres próbny nie może przekraczać 3 miesięcy - limit ustawowy
+  * może poprzedzać każdą umowę o pracę oprócz jej samej
+  * dany pracodawca może poddawać danego pracownika **próbie tylko jeden raz**
+  * nie gwarantuje stabilizacji zatrudnienia
+  * chroni kobiety w ciąży i w czasie urlopu macieżyńskiego 
+
+53. Czy możliwe jest przekstzałcenie umowy terminowej w umowę bezterminową wolą stron?
+  * jest możliwe na mocy porozumienia stron
+  * w drugą strone uruchamia system ochrony z ustawy o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy...
+
+54. Na czym polega fikcja prawna zawarcia umowy na czas nieokreślony?
+  * przepis realizujący standardy europejskie
+  * uzależnia się przekształcenie w sytuacji nawiązania trzeicje umowy od trzech warunków:
+    - musi chodzić o następujące po sobie umowy na czas określony
+    - okres mięzy rozwiązaniem jednej a nawiązaniem kolejnej nie może przekraczać 30 dni
+    - muszą zostać rozwiązane (a nie np. wygasnąć)
+  * aneksy nie pomagają, orzecznictwo uznaje je za nowe umowy
+  * wyłączenie tego domniemania w stosunku do umów w zastępstwie, umów sezonowych, dorywczych jak również przez agencję pracy tymczasowej
+
+55. Jakim rodzajem umowy jest umowa o pracę w celu przygotowania zawodowego?
+  * zawierana z młodocianymi (16-18 lat)
+  * ochrona przed utratą pracy, wypowiedzieć mozna wyłącznie:
+    - w razie niewypełnienia przez młodocianego obowiązków wynikających z umowy o pracę lub obowiązku dokształcania się, mimo stosowania środków wychowawczych
+    - w razie ogłoszenia upadłości lub likwidacji pracodawcy
+    - w razie reorganizacji zakładu pracy uniemożliwiającej przygotowanie zawodowe
+    - w razie stwierdzenia nieprzydatności młodocianego do pracy
+
+56. Jak zatrudniać cudzoziemnców?
+  * w ramach UE i Europejskiego Obszaru Gospodarczego i Szwajcarii - **bez zezwolenia na pracę**
+  * w innym razie wymagane jest **zezwolenie na pracę**
+  * zezwolenie wydawane przez właściwego ze względu na siedzibę pracodawcy wojewodę jest:
+    - na wniosek pracodawcy
+    - na czas określony (nie dłuższy niż czas pobytu)
+    - dla określonego cudzoziemca
+    - dla określonego pracodawcy
+    - na określone stanowisko/rodzaj wykonywanej pracy
+    
+57. Kto może być pracownikiem? (pracownicza zdolność prawna)
+  * osoba zatrudniona na podstawie:
+    - umowy o pracę
+    - powołąnia
+    - wyboru
+    - mianowania
+    - spółdzielczej umowy o pracę
+  * posiadająca ukończone 18 lat, na specjalnych warunkach także młodociany
+
+58. Kto może zawierać umowę o pracę w imieniu pracownika nielegitymującego się pełną zdolnością do czynności prawnych (pracownicza zdolność do czynności prawnych)
+  * unormowania odbiegają od tych z Kodeksu Cywilnego - osoba ograniczona w zdolności do czynności prawnych ma **pełną zdolność do czynności prawnych w zakresie stosunku pracy**
+  * może bez zgody przedstawiciela ustawowego nawiązać stosunek pracy
+  * **w sytuacji, gdy stosunek pracy sprzeciwia się dobru tej osoby przedstawiciel ustawowy za zezwoleniem sądu opiekuńczego może rozwiązać stosunek pracy**
+
+59. Czy dzieci mogą pracować?
+  * do 16 roku życia tylko za uprzednią zgodą przedstawiciela ustawowego lub opiekuna dziecka oraz zezwoleniem właściwego inspektora pracy i tylko na rzecz ściśle oznaczonych podmiotów, prowadzących działalność:
+    - kulturalną
+    - artystyczną
+    - sportową
+    - reklamową
+
+60. Kto może być pracodawcą?
+  * jednostka organizacyjna, choćby bez osobowości prawnej, osoba fizyczna, jeśli posiadają zdolność samodzielnego zatrudniania pracowników 
+  * w przypadku jednostek organizacynych nieposiadających osobowości prawnej niezbędne jest:
+    - wyodrębnienie organizacyjne
+    - samodzielnosć finansowa
+    - zdolność zatrudniania pracowników
+  * **zdolność zatrudniania pracowników**:
+    - możliwość nawiązywania i rozwiązywania stosunku pracy
+    - zmiany jego treści
+    - realizowania zobowiązań wynikających z niego
+
+61. Kto dokonuje czynności prawnych w imieniu pracodawcy będącego jednostką organizacjną nieposiadajacą zdolności prawnej?
+  * osoba zarządzająca tą jednostką umocowana np. w statucie
+  * organ zarządzający tą jednostką
+  * wyznaczona do tego osoba (prokurent)
+
+62. Kto jest uprawniony do nawiazania stosunku pracy z członkiem zarządu spółki kapitałowej?
+  * rada nadzorcza lub pełnomocnicy powołani uchwałą wspólników
+
+63. Czy przejście zakłądu pracy lub jego części na innego pracodawce jest szczególnie unormowane w prawie pracy?
+  * nie do końca, ale jest na ten temat dyrektywa, więc już niebawem
+  * staje się z mocy prawa stroną w dotychczasowych stosunkach pracy
+
+64. Co rozumiemy przez pojęcie "transfer zakładu pracy lub jego części na innego pracodawcę"?
+  * może to być skutkiem różnorodnych zdarzeń prawnych np.:
+    - sprzedaż
+    - zawarcie/rozwiązanie umowy dzierżawy
+    - przekształcenie zakładu w spółkę
+    - odziedziczenie zakładu wskutek śmierci pracodawcy
+  * może to być przejęcie kompetencji zakładu (np. nauczanie przedszkolne)
+  * Sąd Najwyższy opowiadał się za szerokim rozumieniem tego pojęcia
+
+65. Jak rozkłada się odpowiedzialność za zobowiązania pracodawcy powstałe przed transferem?
+  * za zobowiązania powstałe przed dniem przejęcia odpowiada nowy pracodawca, jeżeli przejął on zakład pracy w całości, jeśli w części to solidarnie nowy i stary pracodawca
+  * odpowiedzialnośc za zobowiązania układowe kształtuje się tak, że w ciągu roku od przejścia zakłądu pracy lub części stosuje się postanowienia sterego układu, chyba  że przepisy stanowią inaczej
+
+66. Na czym polega realizacja obowiązku informacyjnego pracodawców uczestniczących w transferze wobec indywidualnych pracowników?
+  * jeśli nie ma zwiazków zawodowych - stary i nowy pracodawca musi indywidualnie, niezwłocznie w terminie 30 dni poprzedzającym przejście zakładu pracy poinformować pracownikóœ o transferze i jego skutkach
+    - przewidywany termin transferu
+    - przyczyny transferu
+    - socjalne skutki transferu
+    - zamierzenia w zakresie warunków pracy i płacy
+  * jeśli są związki zawodowe - wystarczy inforamcja w terminie 30 dni przed transferem od starego i nowego pracodawcy im przekazana o:
+    - przewidywanym terminie przejścia
+    - przyczynach transferu
+    - prawnych, ekonomicznych i socjalnych skutkach transferu
+    - zamierzonych działaniach dotyczących zatrudnienia pracowników
+  * jeśli pracodawca zamierza podjąć działania dotyczące warunków zatrudnienia jest obowiązany do negocjacji z organizacjami zwiazkowymi
+  * ustawodawca nie przewidział sankcji, ewentualnie można z KC
+  * jedyne uprawnienie pracownika to przyznanie prawo do rozwiązania stosunku pracy bez wypowiedzenia z siedmiodniowym uprzedzeniem przez 2 miesiące od uzyskania informacji o planowanym transferze
+
+67. Czy transfer może stanowić przyczynę wypowiedzenia stosunku pracy przez pracodawcę?
+  * nie może - jeśli zwolniony przed transferem trzeba go traktować jakby był zatrudniony w czasie transferu
+
+68. Jak chronieni są przy transferze pracownicy zatrudnieni na innej podstawie prawnej niż stosunek pracy?
+  * pracodawca z dniem przejęcia zakłądu pracy lub jego części obowiązany jest zaproponować nowe warunki zatrudnienia pracownikom świadczącym pracę na innej podstawie niż umowa o pracę oraz wskazać nie krótszy niz 7 dni termin, do którego mogą złożyć oświadczenie o przyjęciu tych warunkóœ
+
+69. Czy komercjalizacja (przekształcenie przedsiębiorstwa handlowego w spółkę handlową) stanowi transfer?
+  * przekształcenie w jednoosobową spółkę SP - nie, prywatyzacja bezpośrednia - tak
+
+70. Kiedy pracownik nabywa prawo do akcji prywatyzowanego przedsiębiorstwa?
+
+71. Czy w prawie pracy obowiazuje szczególny tryb nawiązania stosunku pracy?
+  * kwestia ta nie znajduje pełnego uregulowania w prawie pracy i niekiedy wymaga stosowania Kodeksu cywilnego
+  * uregulowana kwestia ochrony danych osobowych, wyróżnione zostały cztery sfery:
+    - sfera identyfikacji presonalnej:
+      + imię
+      + nazwisko
+      + imiona rodziców
+      + miejsce zamieszkania (adres do korespondencji)
+      + PESEL
+    - sfera pracy:
+      + informacje o wykształceniu
+      + informacje o przebiegu dotychczasowej kariery zawodowej (tylko stosunek pracy!)
+    - sfera prywatna:
+      + dane osobowe pracownika
+      + imiona i nazwiska dzieci
+  * cała reszta informacji niedostępna pracodawcy z wyjątkiem żądania informacji o tajemnicy osobistej, jeżeli przepis na to dozwala (rygory selekcyjne w rodzaju brak karalności)
+  * jeżeli pracownik skłamie, gdy zadane zostanie mu niedozwolone pytanie, to nie ma podstawy do wypowiedzania lub rozwiązania stusunku pracy w trybie natychmiastowym
+
+71. Czy prawo pracy pozwala na zawarcie przedwstępnej umowy o pracę?
+  * nie zostało to unormowane w Kodeksie pracy bezpośrednio
+  * ale nie ma żadnych przeszkód prawnych żeby zawrzeć taką na podstawie art. 389 k.c. w związku z art. 300 k.p
+
+72. Czy w prawie pracy można zatrudniać na podstawie konkursu?
+  * tak, można, szeroko wykorzystywany przy nawiązaniu stosunku pracy z powołania i z mianowania
+  * w niektórych przypadkach postępowanie konkursowej jest obowiązkowe, np. powołanie dyrektora przedsiębiorstwa państwowego albo kuratora oświaty
+
+73. Jaka jest forma zawarcia umowy o pracę?
+  * pisemna, zawsze
+  * jeśli nie to w ciągu 7 dni od dnia rozpoczęcia pracy pracodawca musi pisemnie ją potwierdzić, ale data nawiązania stosunku pracy =! data potwierdzena umowy
+
+74. Czy może dość do zawarcia umowy o pracę *per facta concludentia*?
+  * powszechnie przyjmuje się iż do zawarcia umowy o pracę może dość w sposób dorozumiany, jeżeli pracownik za milczącą zgodą pracodawcy wykonuje pracę podporządkowaną, ale udowodnienie tego jest trudne
+
+75. Jakie są konwekwencje braku formy pisemnej umowy o pracę?
+  * niepotwierdzenie jest wykroczeniem przeciwko prawom pracownika i jest zakrożone karą grzywny, celem jest zmniejszenie lub zlikwidowanie zatrudnienia na czarno
+
+76. W jakim języku powinna być zawarta w Polsce umowa o pracę?
+  * w języku polskim
+
+77. Jaka jest minimalna treść umowy o pracę?
+  * rodzaj pracy
+    -  może być rozmaicie ustalany, ale musi być w taki sposób, żeby było można z niego wnsosić o związanych z nim powinnościach pracownika
+  * fakt wynagradzania pracownika
+    - uwaga - godziwe
+    - nie musi być oznaczone śiśle 
+
+78. Jakie inne warunki powinny być zgodnie z Kodeksem pracy ustalone między stronami umowy o pracę? (to nie są *essentiala negotii*)
+  * strony kontraktu
+  * rodzaj umowy
+  * datę zawarcia
+  * warunki pracy i płacy:
+    - miejsce wykonywania pracy
+    - wynagrodzenie za pracę odpowiadające rodzajowi pracy ze wskazaniem składników wynagrodzenia
+    - termin rozpoczęcia pracy 
+
+79. Czy negocjacjami stron mogą być objęte inne okoliczności niewymienione w art. 29 k.p.?
+  * tak, ale muszą dać się odczytać w sposób jednoznaczny z treści kontraktu
+  * przykłady:
+    - dbanie o dobre imię i interesy przedsiębiorcy
+    - realizowanie pewnej strategii działania
+    - przestrzeganie tajemnicy przedsiębiorstwa
+    - niepublikowania wywiadów lub artykułów
+    - różne postanowienia dotyczące praw autorskich i praw pokrewnych
+
+80. Jakie są umowy związane z umową o pracę?
+  * są to umowy pracodawcy z pracownikiem związane ze stosunkiem pracy, lecz niebędące umową o pracę:
+    - klauzulę antykonkurencyjne
+    - umowy o odpowiedzialności materialnej za mienie powierzone
+    - umowy zawieranie z pracownikami o pokrywaniu częściowym lub całkowitym kosztów kształcenia przez pracodawce
+    - umowy o pracowniczy projekt wynalazczy
+  * mogą być zmieniane, rozwiązywane i nawiązywane bez zmiany umowy o pracę 
+
 
 
