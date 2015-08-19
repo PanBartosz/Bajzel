@@ -182,12 +182,29 @@ Każdemu badanemu do scenariusza zostały przedstawione w losowej kolejności dw
 ## Wyniki
 
 #### Czy dyrektor umyślnie (nie) zaszkodził/pomógł środowisku?
-![Scenariusz HARM ](environment.png "Środiwsko")
+![Scenariusz HARM ](environment.png "Środowisko")
+
+
+|                |   HARM  |   HELP  |
+|----------------|---------|---------|
+|                | Tak/Nie | Tak/Nie |
+| Działanie      | 43/19   | 11/61   |
+| Brak działania | 8/34    | 34/32   |
+
 
 #### Czy dyrektor umyślnie (nie) uratował/naraził na śmierć głodową mieszkańców?
-![Scenariusz HELP ](starvation.png "Głód")
+![Scenariusz HELP ](starvation.png "Głód") 
 
-## Dyskusja 
+|                |   HARM  |   HELP  |
+|----------------|---------|---------|
+|                | Tak/Nie | Tak/Nie |
+| Działanie      | 10/52   | 55/17   |
+| Brak działania | 19/23   | 14/52   |
+
+
+## Dyskusja
+to jutro kp 
+
 
 ## Zakończenie
 
