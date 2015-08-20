@@ -665,5 +665,320 @@
     - umowy o pracowniczy projekt wynalazczy
   * mogą być zmieniane, rozwiązywane i nawiązywane bez zmiany umowy o pracę 
 
+81. Co łączy się z zatrudnianiem telepracowników?
+  * forma pracy postrzegana jako umożliwiajaca godzenie życia zawodowego z życiem rodzinnym, pozwalająca na elastyczną organizację pracy
+  * zasady wprowadzania telepracy:
+    - dobrowaolny charakter
+    - pisemna informacja 
+    - niezmienny status zatrudnienia
+    - jednakowe warunki zatrudnienia co zwykli
+    - monitorowanie respektujące prywatności telepracownika
+    - pracodawca odpowiedzialny za zapewnienie ochrony danych wykorzystywanych i przetwarzanych przez telepracownika
+    - wszystkie zagadnienia dotyczące wyposażenia, odpowiedzialności i kosztów powinny być określone przez rozpoczęciem realizacji umowy o telepracy, ogólna zasada: odpowiedzialny jest pracodawca
+    - za zdrowie i bezpieczeństwo odpowiedzialny pracodawca, pracownik za właściwe realizowanie przyjętych zasad
+    - równy dostęp do szkoleń
+    - organizacja pracy
+    - takie same uprawnienia wynikające z porozumień zbiorowych
+  * **definicja** - *telepraca charakteryzuje się regularnym wykonywaniem pracy przez pracownika poza zakłądem pracy, z wykorzystaniem środkóœ komunikacji elektronicznej*
+    - wykonywanie pracy regularnie poza zakładem pracy
+    - wykorzystywanie środków komunikacji elektronicznej
+    - przekazywanie wyników pracy pracodawcy zwłaszcza za pośrednictwem takich środków
+  * miejsce świadczenia - zawsze poza siedzibą zakłądu pracy, ale opróćz tego - wszędzie
+  * wprowadzenie telepracy wymaga zawarcia porozumienia między pracodawcą a zakłądową organizacją związkową określające warunki korzystania z telepracy
+  * jeżeli brak organizacji związkowej, to musi określić zasady w regulaminie określającym:
+    - środki komunikacji elektronicznej, którymi ma posługiwać się telepracownik
+    - miejsca, gdzie może być wykonywana praca
+    - sposób ochrony informacji przekazywanych pracownikowi
+    - sposób przestrzegania zakazu dyskryminacji pracownika w zatrudnieniu
+    - sposób kontrolowania czasu pracy telepracownika
+    - (*ewentualnie*) obciążenia spoczywające na pracodawcy z tytułu wprowadzenia telepracy 
+  * telepracownikiem można zostać **na etapie zawierania** umowy albo **w trakcie zatrudnienia**
+    - na etapie zawierania -  umowa powinna zawierać warunki
+    - w trakcie zatrudnienia - inicjatywa pracownika lub pracodawcy
+      + możliwy powrót do poprzedniej formy zatrudnienia na wniosek obu stron, wiażący jeśli złożony w ciągu 3 miesięcy od rozpoczęcia telepracy, ale brak zgody potem nie może stanowić podstawy zwolnienia z pracy
+  * pracodawca posiada uprawnienie kontroli bhp miejsca pracy pracownika
 
+82. Czym charakteryzuje się stosunek pracy zawarty z agencją pracy tymczasowej?
+  * forma nietypowego zatrudnienia, ograniczona do wykonywania:
+    - prac sezonowych, okresowych, doraźnych
+    - prac, których wykonywanie terminowe przez pracodawcę uzytkownika byłoby niemożliwe
+    - prac, których wykonywanie należy do obowiązkóœ nieobecnego pracownika
+  * cechą charakterystyczną jest występowanie trzech podmiotów:
+    - pracownika tymczasowego
+    - agencji pracy tymczasowej (pozostaje w stosunku z pracodawcą użytkownikiem)
+    - pracodawcy użytkownika (pod jego kierownictwem wykonywana jest praca)
+
+83. Jakie są granice swobody ustalania treści stosunku pracy?
+  * gros przepisów ma charakter jednostronnie bezwzględnie obowiazujący (semiimperatywny)
+  * postanowienia umów o pracę sprzeczne z przepisami bezwzglęðnie obowiązującymi są nieważne
+  * postanowienia umów o pracę mniej korzystne dla pracownika od przepisów pracy są nieważne i zamiast nich stosuje się przepisy prawa pracy
+
+84. Czy podmiot trzeci w porozumieniu z pracodawcą może zredukować uprawnienia pracownicze wynikające z wcześniej zawartej umowy o pracę?
+  * jeśli jest to uzasadnione finansową sytuacją pracodawcy, to można zawrzeć takie porozumienie ze związkiem zawodowym lub przedstawicielem załogi
+
+85. Jak można interpretować art. 23 1a k.p. w celu ochrony postanowień umownych wynegocjowanych indywidualnie przez strony?
+
+86. Co jest specyficznego w zatrudnianiu w niepełnym wymiarze czasu pracy?
+  * umowa w pełnym wymiarze czasu pracy jest umową typową, inne są zaliczane do atypowych form zatrudnienia
+  * zalicza się do niej:
+    - praca weekendowa
+    - praca w skróconym tygodniu pracy
+  * specjalne reguły mające na celu ochronę pracownika:
+    - nie może powodować ustalenia jego warunków pracy i płacy w sposób mniej korzystny w stosunku do pracowników wykonujących taką samą lub podobną pracę w pełnym wymiarze czasu pracy, z uwzględnieniem proporcjonalności
+    - pracodawca powinien w miarę możliwości uwzględnić wniosek o zmianę czasu pracy
+
+87. Jakie obowiązki informacyjne związane z warunkami pracy spoczywają na pracodawcy?
+  * pracodawca powinien poinformować pisemnie pracownika w ciągu 7 dni od dnia zawarcia umowy o:
+    - dobowej i tygodniowej normie czasu pracy
+    - częstotliwości wypłat wynagrodzenia
+    - urlopie wypoczynkowym
+    - długości okresu wypowiedzenia
+    - układzie zbiorowym pracy
+  * jeśli pracodawca nie ma obowiązku ustalania regulaminu pracy dodatkowo, powinien poinformować rówznież o:
+    - obowiązującej w zakładzie pracy porze nocnej
+    - miejscu i terminie i czasie wypłaty wynagrodzenia
+    - zasadach usprawiedliwiania nieobecności w pracy
+  * ponadto powinien poinformować niezwłocznie nie później niż w ciągu miesiąca od dnia wejścia w życie zmian o: 
+    - zmianie warunków zatrudnienia
+    - objęciu układem zbiorowym
+    - zmianie układu zbiorowego
+
+88. Czy Kodeks pracy reguluje zatrudnianie w Polsce przez pracodawcę mającego siedzibę poza terytorium RP?
+  * tak, przepisy mają charakter norm kolizyjnych
+  * wymuszają stosowanie prawa polskiego, jeśli właściwe normy prawa obcego są mniej korzystne
+
+89. W jaki sposób może dość do stałej zmiany treści umowy o pracę?
+  * zmiana treści stosunku pracy jako wynik zmian normatywnych nie wymaga lub nie wymaga czynności prawnej, szczególne regulacje to:
+    - modyfikacja układów zbiorowych na korzyść i niekorzyść
+    - zawieszenie czasowe układu zbiorowego
+    - modyfikacja regulaminów wynagradzania
+    - czasowego zawieszenia stosowania w całości lub części norm wewnątrzzakładowych 
+    - czasowego zawieszenia postanoweń umów o pracę
+  * co do zasady zmiana treści stosunku pracy może wynikać jedynie z woli stron i wiązać się z zawartym przez strony porozumieniem w formie pisemnej
+  * wypowiedzenie warunków pracy i płacy jest jednostronnym sposobem zmiany treści umowy o pracę - stosuje się przepisy dotyczące wypowiedzenia
+    - celem zmiana stosunków pracy
+    - pracownik może nie przyjąć, wówczas stosunek pracy zostanie rozwiązany po okresie wypowiedzenia
+    - tylko przez pracodawce i tylko wówczas, gdy zmierza do pogorszenia statusu prawnego pracownika
+    - warunki skuteczności:
+      + zaproponowanie nowych warunków
+      + wypowiedzenie warunków dotychczasowych
+      + złożenie oświadczenia woli w formie pisemnej
+      + powinno informować o możliwości odmowy przyjęcia nowych warunków pracy
+    - fikcja prawna - jeśli pracownik nie oświadczy, że nie przyjmuje nowych warunków w terminie **do połowy okresu wypowiedzenia**, przyjmuje się, że przyjął nowe warunki
+      + nie działa jeśli pracownik nie został poinformowany o możliwości odrzucenia - wówczas do końca okresu wypowiedzenia
+    - dwa możliwe skutki:
+      + zmiana warunków pracy i płacy z upływem okresu wypowiedzenia, gdy pracownik zaakceptuje lub nie odrzuci nowej oferty
+      + przekształcenie wypowiedzenia w fedinitywne i rozwiązanie stosunku pracy po upływie wypowiedzenia
+    - tylko te elementy umowy o pracę, które wynikają z umowy mogą być przedmiotem wypowiedzenia zmieniającego
+    - nie jest możliwa w drodze wypowiedzenia zmieniającego zmiana rodzaju umowy o pracę
+    - nie wymaga wypowiedzenia zmiana ustalonych w regulaminie pracy organizacja czasu pracy
+
+90. Jakie są skutki zmian normatywnych (wypowiedzenia lub zmiany norm wewnątrzzakładowych) dla treści stosunku pracy?
+
+91. Co w praktyce oznacza odpowiednie stosowanie do wypowiedzenia zmieniającego przepisów o wypowiedzeniu definitywnym?
+
+92. Kiedy jest możliwa okresowa zmiana treści stosunku pracy przez pracodawcę?
+  * na podstawie art. 42 par. 4 k.p. w sytuacji czasowego powierzenia pracownikowi innej pracy, pod pewnymi warunkami:
+    - potrzeby pracodawcy dla dokonania takiej czynności muszą być uzasadnione (potrzeby jako całości nie jako jednostki)
+    - powierzenie pracownikowi innej pracy może dotyczyć jedynie okresu nieprzekraczającego trzech miesięcy w roku kalendarzowym
+    - powierzenie innej pracy nie może powodować obniżenia wynagrodzenia
+    - praca powierzona musi odpowiadać kwalifikacjom pracownika
+  * pracownik może odmówić polecenia sprzecznego z art. 42 i nie uchyba przez to obowiązkom pracowniczym i nie może to stanowić podstawy do rozwiązania umowy
+  * nie wymaga formy pisemnej
+  * opróćz tego: w sytuacji przestoju, kiedy przepisy nie ograniczają okresu powierzenia innej pracy
+
+93. W jakich sytuacjach pracodawca może przenieść pracownika do innej pracy?
+  * kodeks niekiedy nakazuje przeniesienie pracownika do innej pracy w szczególności w przepisach dotyczących:
+    - kobiet w ciąży lub dokarmiajacych dziecko
+    - młodocianych
+    - pracowników z orzeczeniem lekarskim o chorobie zawodowej
+    - pracowników u których stwierdzono orzeczeniem lekarskim niezdolność do pracy spowodowaną wypadkiem przy pracy lub chorobą zawodową 
+
+94. W jakich sytuacjach dochodzi do rozwiązania stosunku pracy nawiązanego na podstawie umowy?
+  * zgodnie z art. 30 k.p. umowa o pracę rozwiązuje się:
+    - na mocy porozumienia stron
+    - przez oświadczenie jednej ze stron z zachowaniem okresu wypowiedzenia (**rozwiazanie umowy o pracę za wypowiedzeniem**)
+    - przez oświadczenie jednej ze stron bez zachowania okresu wypowiedzenia (**rozwiazanie umowy o pracę bez wypowiedzenia**)
+    - z upływem czasu, na który była zawarta
+    - z dniem ukończenia pracy, dla której wykonania była zawara 
+  * przypadki rozwiązania stosunku pracy na mocy oświadczeń woli stron:
+    - czynności prawne dwustronne (np. porozumienie stron)
+    - czynności prawne jednostronne (np. wypowiedzenie)
+
+95. Jak zawrzeć porozumienie o rozwiązaniu umowy o pracę?
+  * rozwiązanie umowy o pracę na mocy porozumienia może być dokonane zawsze za zgodnym oświadczeniem woli pracodawcy i pracownika, 
+    - zastosowanie mają przepisy KC w związku z art. 300 k.p., w zwiazku z tym dopuszczalność konstrukcji w rodzaju warunku zawieszającego
+  * istota rozwiązania na podstawie porozumienia polega na ustaleniu sposobu rozwiązania, ale także do zgodnienia **innych okoliczności wiażących się z ustaniem stosunku pracy**
+  * istnieje możliwość natychmiastowego rozwiązania omowy oo pracę 
+
+96. Jak skutecznie składać oświadczenia woli o rozwiazaniu stosunku pracy?
+  * stosuje się przepisy KC o oświadczeniach woli
+  * powinno być dokonane w formie pisemnej, brak pisemnosci nie powoduje nieważności ale umożliwia złożenie odwołania
+  * musi być wyraźne
+  * oświadczenie pracodawcy powinno wskazywać przyczynę uzasadniającą wypowiedzenie lub rozwiązanie umowy bez wypowiedzenia, brak przyczyny, ujęcie jej w sposób zbyt ogólnikowi i podanie przyczyny nierzeczywistej to naruszenia
+  * powinno zawierać pouczenie o prawie do odwołania do sądu pracy, jeśli nie ma to można wnosić o przywrócenie terminu
+  * natychmiastowe rozwiązanie dokonuje się w dacie dojścia do adresata
+  * wypowiedzenie i rozwiązanie stosunku pracy bez wypowiedzenia są ściśle reglamentowane przez prawo pracy
+  * można cofnać oświadczenie, jeśli:
+    - jego adresat wyrazi zgodę lub
+    - nie dotarło jeszcze do niego lub 
+    - doszło jednocześnie z odwołanie
+  * jeśli oświadczenie woli zostało złożone bez właściwego umocowania pracodawcy:
+    - sankcja nieważności wyłącznie w przypadku oczywistego braku umocowania
+
+97. Na czym polega konstrukcja prawna wypowiedzenia umowy o pracę?
+  * ma na celu rozwiązanie stosunku pracy po upływie wypowiedzenia
+  * przepisy stosuje się odpowiednio do wypowiedzenia zmieniającego
+  * prawna konstrukcja uzależniona jest od tego, kto dokonuje wypowiedzenia, a w przypadku składanego przez pracodawcę - jakiego rodzaju umowa o pracę
+  * **wypowiedzenie umowy o pracę na czas nieokreślony przez pracodawcę**:
+    - konieczność merytorycznego uzasadnienia wypowiedzenia umowy 
+    - konieczność przedstawienia na piśmie pracownikowi przyczyn wypowiedzenia
+    - obowiązek uprzedniej konsultacji zamiaru wypowiedzenia z właściwą zakładową organizacją związkową
+  * wypowiedzenie każdej umowy o pracę wymaga zachowania:
+    - formy pisemnej
+    - terminów i okresów wypowiedzenia
+    - norm statuujących ograniczenia prawa wypowiedzenia umowy wobec określonych osób (działacze związkowi) lub sytuacji życiowych
+  * **okres wypowiedzenia** - czas jaki musi upłynać między złożeniem oświadczenia woli o wypowiedzeniu umowy a jej rozwiązaniem jako następstwem tego oświadczenia
+    - długość jest jednakowa dla obydwu kontrahentów i zależy od rodzaju umowy i od stażu pracownika (w wypadku umowy na czas nieokreślony)
+      + **umowa na okres próbny**:
+        * 3 dni robocze jeżeli okres próbny nie przekracza 2 tygodni
+        * tydzień, jeżeli okres próbny jest dłuższy niż 2 tygodnie
+        * 2 tygodnie jeśli okres próbny wynosi 3 miesiące 
+      + umowa na czas określony jeżeli zawarto na okres dłuższy niż 6 miesiecy, zawarto klauzulę wypowiedzenia
+        * 2 tygodnie
+      + **umowa na zastępstwo**
+        * 3 dni robocze
+      + **umowa z agencją pracy tymczasowej zawarta na czas określony**
+        * strony mogą przewidzieć 3 dniowe wypowiedzenie jeśli umowa została zawarta na okres do dwóch tygodni i tygodniowe wypowiedzenie jeśli na okres dłuższy niz 2 tygodnie
+      + **umowa na czas określony**
+        * jeżeli pracownik był zatrudniony krócej niż 6 miesięcy - **2 tygodnie**
+        * jeżeli pracownik był zatrudniony co najmniej 6 miesięcy - **miesiąc**
+        * jeżeli pracownik był zatrudniony co najmniej 3 lata - **3 miesiące**
+  * **termin wypowiedzenia** - zastrzeżony przez ustawodawcę dzień, w którym powinien kończyć się okres wypowiedzenia 
+    - okres wypowiedzenia umowy o pracę obejmujący tydzień, miesiąc lub ich wielokrotność kończy się w sobotę lub ostatnim dniu miesiąca
+
+98. Jaka jest moc wiążąca norm ustanawiających okresy wypowiedzenia?
+  * nie śa unormowane jako okresy sztywne i w pewnych okolicznościach mogą być skracane (jeśli pozwala przepis) i wydłużane:
+    - można wydłużyć wolą stron w umowie okres wypowiedzenia w przypadku umowy na czas nieokreślony z pracownikiem zatrudnionym na stanowisku związanym z odpowiedzialnością materialną za mienie powierzon
+    - wolą stron mogą zostać skrócone po dokonaniu wypowiedzenia
+    - można niekiedy skrócić wolą jednej stron, ale wówczas pracownikowi należy się odszkodowanie
+  * **ustawodawca nie zabrania ustanowienia dłuższych okresów wypowiedzenia**
+
+99. Jaka jest odpowiedzialność pracodawcy przy nierespektowaniu umownie wydłużonego okresu wypowiedzenia?
+  * wszędzie tam gdzie odpowiedzialność pracodawcy uzależniona jest od długości wypowiedzenia uwzględnia się umownie wydłużony okres wypowiedzenia
+
+100. Czy możliwa jest konwalidacja wadliwego wypowiedzenia w okresie jego trwania?
+  * nie, chociaż czasami próbują to robić pracodawcy np. wydłużając okres, który był nieprawidłowy
+
+101. Czy można rozwiązać stosunek pracy w trybie natychmiastowym w okresie wypowiedzenia umowy?
+  * **tak** 
+
+102. Jak kształtuje się zakaz dyskryminacji w dziedzinie zatrudnienia w okresie wypowiedzenia?
+  * do niedawna obowiązywało w literaturze przedmiotu przekonanie że w okresie wypowiedzenia przysługują te same uprawnienia co reszcie pracowników, ale chyba można jednak np. różnicować płacę
+
+103. Na czym polega powszechna ochrona przed wypowiedzeniem?
+  * konieczność merytorycznego uzasadnienia wypowiedzenia umowy
+    - jeśli po stronie pracodawcy, to prawie zawsze zastosowane zostaną normy ochronne z ustawy o szczególnych zasadach z rozwiązywanie z przyczyn niedotyczących pracowników
+      + szczególny tryb zwolnień grupowych
+      + koniczeność wypłaty odprawy
+      + koniecznosc zatrudnienia ponownie po wypełnieniu przesłanek
+    - jeśli po stronie pracownika (brak kwalifikacji do nowych zadań, utrata zdrowia lub uprawnień, niedbale wykonywana praca itd.):
+      + **UWAGA** w orzecznictwie wydaje się przeważać pogląd że osiągnięcie wieku emerytalnego i świadczeń emerytalnych stanowi wystarczającą przyczynę wypowiedzenia, ale problem wielce dyskusyjny
+
+104. Czy usprawiedliwiona nieobecność w pracy jest przyczyną uzasadniającą wypowiedzenie?
+  * **zwykle nie**, ale czasami tak
+    - gdy wypowiedzenie miałoby dotyczyć pracownika z wieloletnim stażem, nienagannie wykonującego obowiązki itp. - to byłoby to nadużycie prawa, ale znów: kontrowersje
+
+105. Jakie są wzajemne relacje między art. 8 a 45?
+  * jaki jest związek między klauzulą generalną "wypowiedzenia uzasadnionego" oraz "społeczno-gospodarczego przeznaczenia prawa wypowiadania umowy"?
+    - nie wiadomo, ale bliski
+
+106. Na czym polega konsultacja wypowiedzenia ze związkami zawodowymi?
+  * obowiązek konsultacji zamiaru wypowiedzenia umowy zawartej na czas nieokreślony z zakładową organizacją związkową
+  * jeśli jest nieuzasadnione, w ciągu 5 dni organizacja związkowa może zgłosić umotywowane zastrzeżenia
+  * kategoryczne wymaganie formy pisemnej
+  * konsultacja ma być uprzednia
+  * konsultacja ma charakter opiniodawczy, nie jest wiażąca, ale może wpłynąć na sytuację procesową w razie sporu
+  * brak konsultacji powoduje, że wypowiedzenie jest niezgodne z prawem
+
+107. Co to jest szczególna ochrona przed wypowiedzeniem i kto jest nią objęty?
+  * w stosunku do pracowników znajdujących się w szczególnej sytuacji życiowej, pełniących pracowników określone funkcje społeczne lub publiczne przewidziana jest dalej idąca chrona
+    - osoby którym brakuje 4 lat do osiągnięcia wieku emerytalnego
+    - osoby przebywające na urlopach oraz w czasie innej usprawiedliwionej nieobecności
+    - kobiety w ciąży lub w czasie urlopu macieżyńskiego
+    - kobiety korzystające z urlopu wychowawczego
+    - osoby powołane do czynnej służby wojskowej
+    - pracowników wskazanych uchwałą zarządu zwiazku zawodowego
+    - członków specjalnego zespołu negocjacyjnego lub europejskiej rady zakładowej
+    - członków specjalnego zespołu negocjacyjnego, organu przedstawicielskiego lub przedstawicieli pracowników w spółdzielni europejskiej
+    - członków rady pracowników
+    - członków rady pracowniczej przedsiębiorstwa państwowego
+    - pracownikóœ spółki będących członkami rady nadzorczej
+    - społecznych inspektorów pracy
+    - posłów i senatorów
+    - radnych
+  * ochrona polega na wprowadzeniu:
+    - zakazu wypowiedzenia
+    - zakazu wypowiedzenia i rozwiązaniu stosunku pracy
+    - konieczności uzyskania zgody określonego przez ustawodawcę organu na rozwiązanie stosunku pracy
+  * nie ma znanej prawu cywilnemu instytucji nieważności czynności prawnej - wypowiedzenie niezgodne z prawem jest skuteczne (jeżeli sąd pracy nie orzeknie inaczej)
+    - pracownik może kwestionować zgodność z prawem wypowiedzenia i wnieśćp pozew do sądu
+    - termin wynosi 7 dni od otrzymania wypowiedzenia
+    - w pozwie może żądać:
+      + przywrócenie do pracy lub jeśli okres wypowiedzenia trwa to orzeczenia o bezskuteczności wypowiedzenia oraz limitowanego wynagrodzenia za czas pozostawania bez pracy
+        * po stawieniu się do pracy powstaje stosunek o dawnej treści, nie jest to ponowne nawiązanie stosunku pracy (!)
+        * przywrócenie dotychczasowych warunków pracy i płacy, w szczególności siedziby jednostki organizacyjnej zatrudniajacej pracownika, na tym samym stanowisku (nie równorzędnym)
+        * przysługuje wynagrodzenie za czas pozostawania bez pracy, nie więcej niż 2 miesiące, jeśli okres wypowiedzenia 3 miesiące - nie więcej niż miesiąc
+          - okres za który przyznano wynagrodzenie wlicza się do stażu pracy
+          - okresu za który nie przyznano nie uważa się za przerwę w zatrudnieniu
+      + jeśli zamierza się rozstać z pracodawcą (:)), może żądać wypłaty odszkodowania
+        * okres za który przyznano wynagrodzenie wlicza się do stażu pracy
+        * odszkodowanie w wysokości wynagrodzenia na okres od 2 tygodni do 3 miesięcy, nie niższe jednak niż wynagrodzenie za okres wypowiedzenia
+        * sąd pracy ustala wysokosć, ale wiążą go te limity
+    - w przypadku umów terminowych może żądać tylko odszkodowania
+    - sąd może przyznać roszczenie alternatywne (zamiast przywrócenia do pracy odszkodowanie) jeśli przywrócenie jest bezcelowe (np. konfliktowy charakter pracownika uniemożliwiajacy współpracę)
+      + **nie można zasądzić roszczenia alterantywnego w przypadku osób objętych szczególną ochroną**
+
+108. Ustawa o zwolnieniach grupowych
+  * wdraża dyrektywę
+  * zakres podmiotowy:
+    - obejmuje pracodawców zatrudniajacych co najmniej 20 pracowników
+    - obejmuje pracowników zatrudnionych na umowę o pracę, powołanie, wybór, spółdzielcza umowa o pracę - **nie stosuje sie do zatrudnionych z mianowania**
+    - ustawę stosuje się gdy dochodzi do rozwiązania stosunku pracy za wypowiedzeniem dokonanym przez pracodawcę, na mocy porozumienia stron, jeśli owych porozumień było co najmniej 5 i były zawarte z inicjatywy pracodawcy
+  * ustawa określa:
+    - pojęcie zwolnienia grupowego 
+      + określona przyczyna zwolnień - przyczyny niedotyczące pracowników i w drodze wypowiedzenia lub na mocy porozumienia stron
+      + określona liczba - wciągu 30 dni:
+        * 10 pracowników gdy mniej niż 100 pracowników
+        * 10% pracowników gdy między 100 a 300 pracowników
+        * 30 pracowników - gdy co najmniej 300 pracowników  
+    - pojęcie zwolnienia indywidualnego
+      + jeśli przyczyny niedotyczące pracownika stanowią wyłączy powód
+    - tryb zwolnień
+      + procedura zwolnienia grupowego:
+        * procedura informacyjna:
+          - obowiązek poinformowania związków zawodowych i powiatowego urzędu pracy na piśmie o:
+            + przyczynach zwolnień grupowych
+            + liczbie zatrudnionych pracowników i ich grupach zawodowych
+            + okresie w ciągu którego nastąpi zwolnienie
+            + proponowanych kryteriach doboru pracowników do zwolnienia
+            + kolejności dokonywania zwolnień
+            + propozycji rozstryzgania spraw pracowniczych związanych ze zwolnieniem
+            + sposobie ustalania wysokości odpraw
+          - obowiązek konsultacji z organizacjami związkowymi
+          - wydanie aktu dotyczącego zwolnień grupowych:
+            + partnerzy socjalni zaiwerają porozumienie w terminie 20 dni od zawiadomienia organizacji związkowych o przewidywanych zwolnieniach
+            + jeśli nie doszło do porozumienia to pracodawca sam wydaje regulamin zwolnień grupowych
+            + jeżeli nie ma związkóœ zawodowych to powinien regulamin zwolnień skonsultować z przedstawiecielem załogi
+    - procedurę informacyjno-konsultacyjną zwolnień
+    - zakres ochrony przed zwolnieniami z przyczyn niedotyczących pracowników
+    - prawo do odprawy
+    - prawo do ponownego nawiązania stosunku pracy
+  * przyczyny niedotyczące pracownika:
+    - bardzo pojemne pojęcie: przyczyny dotyczące pracodawcy, przyczyny na które pracodawca nie ma wpływu
+  * uwaga - szczególna ochrona trwałości stosunku pracy ulega modyfikacjom
+    - obejmuje tylko osoby na urlopach do 3 miesięcy i nieobecne w pracy z powodów usprawiedliwionych
+    - oraz WSZYSTKICH (chyba?) związkowców i ich podobnych
+  * odprawa 
+    - 
 
