@@ -203,8 +203,21 @@ Każdemu badanemu do scenariusza zostały przedstawione w losowej kolejności dw
 
 
 ## Dyskusja
-to jutro kp 
+Uzyskane przez nas wyniki stawiają problem efektu Knobe'a w nowym, interesującym świetle. Rozważając wyniki badania z użyciem naszej wersji scenariuszów HARM i HELP należy zauważyć, że jeżeli chodzi o "bliższy" skutek uboczny, to asymetria w przypisywaniu dyrektorowi asymetrii była tak samo silna, jeśli nie silniejsza, jak w oryginalnych scenariuszach Knobe'a. 
 
+Stało się to pomimo tego, że szkodzenie i pomaganie środowisku przyjęło formę skonkretyzowaną, tzn. nie zostało określone jedynie za pomocą ogólnych określeń "szkodzenia" i "pomagania", ale zostały również opisane dość uchwytne skutki wprowadzenia programu dla środowiska. W kontekście eksperymentu Knobe'a podnosiły się głosy mówiące, że kwestia ta może mieć znaczenie dla występowania asymetrii. Kolejny raz zostało jednak potwierdzone, że nie ma to większego znaczenia.
+
+Okazuje się również, że obecność "dalszego" skutku, to znaczy skutku dodanego przez nas związanego ze śmiercią głodową również nie wpływa na rozmiar i kształt asymetrii. Wbrew przewidywaniom zintepretowanego przez nas zaniechaniowego wyjaśnienia efektu Knobe'a nie nastąpiło odwrócenie stosunku respodentów przypisujących zaszkodzeniu środowisku dyrektorowa intencjonalność w skutek "odwrócenia" normy zakazującej szkodzić środowisku i transformacji jej w normę wyrażającą nakaz czynienia tego jako środka do uratowania ludzi od śmierci głodowej. 
+
+Z drugiej strony pytani o intencjonalność dalszego skutku - zaszkodzenia i pomożenia ludziom - badani odpowiadają zgodnie z dobrze już znanym kluczem, niezależnie od faktu, że jest to skutek "dalszy" - skutek skutku ubocznego. Asymetria jest ma taką samą siłę jak w przypadku skutku ubocznego, mimo znacznego oddalenia w ciągu przyczynowym, który zapoczątkowuje działanie dyrektora, jakim jest wprowadzenie programu. 
+
+W drugiej parze scenariuszów, w której dyrektor nie wprowadził programu, wyniki są jeszcze bardziej interesujące. W przypadkach, w których zadajemy ankietowanym pytanie o przypisanie intencjonalności dyrektorowi w przypadku pozytywnego moralnie skutku jego działania - zarówno "bliższego" (dotyczącego środowiska w HARM') jak i dalszego (dotyczącego śmierci ludzi w HELP') - wyniki nie odbiegają od tego, czego byśmy się spodziewali. Badani w przeważającej większości nie przypisują działaniu dyrektora polegającym na nieszkodzeniu środowisku oraz nieszkodzeniu ludziom intencjonalności. 
+
+Frapujące są jednak odpowiedzi badanych wówczas, gdy pytamy o przypisanie intencjonalności w kontekście jakiegoś negatywnego skutku działania dyrektora. Poziom akceptacji twierdzenia mówiacego, że dyrektor intencjonalnie nie pomógł środowisku bądź nie uratował ludzi od śmierci głodowej w scenariuszach, w których program nie został wprowadzony, jest inny niż w drugiej parze scenariuszy. 
+
+Na wynik ten można patrzeć na kilka sposób. Po pierwsze, można rozpatrywać go z perspektywy intencjonalności zaniechań. Należy bowiem przypomnieć, że w scenariuszach HARM' oraz HELP' mamy do czynienia z "czystymi" zaniechaniami. Ich "czystość" polega na tym, że mamy do czynienia z faktycznym powstrzymaniem się agenta od działania, do którego był zobowiązany. Na gruncie ortodoksyjnej teorii działania można argumentować, że skutki intencjonalnego działania dyrektora polegającego na niewprowadzaniu programu w ogóle nie są działaniami dyrektora. Skoro nie są jego działaniami, to *a fortiori* nie mogą być jego działaniami intencjonalnymi. Okazuje się jednak, że ponad połowa respondentów przypisuje dyrektorowi w tych przypadkach intencjonalne sprawstwo. Teoria zaniechań intencjonalnych dobrze tłumaczy fakt przypisywania intencjonalności w tych sytuacjach - są to po prostu sytuacje w których mamy do czynienia z  intencjonalny zaniechaniami. 
+
+Wyjaśnienie efektu Knobe'a w kategoriach intencjonalnych zaniechań wydaje się zatem kompatybilne z pewnymi aspektami uzyskanych przez nas rezultatów, z innymi zaś pozostaje niezgodne. 
 
 ## Zakończenie
 
