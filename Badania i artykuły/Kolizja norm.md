@@ -54,7 +54,7 @@ jest oczekiwać od x-a, by fi-ował).
 2. (*intencjonalne zaniechanie*)
 x dopuszcza się intencjonalnego zaniechania fi-owania wtedy i tylko wtedy, gdy:
 
-(0) x dopuszcza się zaniechania -owania oraz eęęeę
+(0) x dopuszcza się zaniechania -owania oraz 
 (a’) x wie*, że fi-owanie jest jego obowiązkiem (bądź przedmiotem roz-
 sądnych oczekiwań),
 (b’) x wie*, że fi-owanie leży w jego mocy,
@@ -217,7 +217,11 @@ Frapujące są jednak odpowiedzi badanych wówczas, gdy pytamy o przypisanie int
 
 Na wynik ten można patrzeć na kilka sposób. Po pierwsze, można rozpatrywać go z perspektywy intencjonalności zaniechań. Należy bowiem przypomnieć, że w scenariuszach HARM' oraz HELP' mamy do czynienia z "czystymi" zaniechaniami. Ich "czystość" polega na tym, że mamy do czynienia z faktycznym powstrzymaniem się agenta od działania, do którego był zobowiązany. Na gruncie ortodoksyjnej teorii działania można argumentować, że skutki intencjonalnego działania dyrektora polegającego na niewprowadzaniu programu w ogóle nie są działaniami dyrektora. Skoro nie są jego działaniami, to *a fortiori* nie mogą być jego działaniami intencjonalnymi. Okazuje się jednak, że ponad połowa respondentów przypisuje dyrektorowi w tych przypadkach intencjonalne sprawstwo. Teoria zaniechań intencjonalnych dobrze tłumaczy fakt przypisywania intencjonalności w tych sytuacjach - są to po prostu sytuacje w których mamy do czynienia z  intencjonalny zaniechaniami. 
 
-Wyjaśnienie efektu Knobe'a w kategoriach intencjonalnych zaniechań wydaje się zatem kompatybilne z pewnymi aspektami uzyskanych przez nas rezultatów, z innymi zaś pozostaje niezgodne. 
+Wyjaśnienie efektu Knobe'a w kategoriach intencjonalnych zaniechań wydaje się zatem kompatybilne z pewnymi aspektami uzyskanych przez nas rezultatów, z innymi zaś pozostaje niezgodne. Co to może oznaczać?
+
+Być może jest tak, że nie udało się za pomocą konstrukcji historyjek uzyskać tak przez nas porządanych sytuacji normatywnych. Dopuszczamy możliwość tego, że nasz plan nie powiódł się, ponieważ ludzie w rzeczywistości nie przeprowadzają żadnych intuicyjnych rozumowań na normach oraz nie posługują się regułami kolizyjnymi w sytuacjach konfliktu norm. Jeżeli tak jednak jest, to trudno w takim razie uchwycić jakiekolwiek filozoficznie interesujące znaczenie normy, a w szczególności odpowiedzieć na pytanie czym miałaby być oprócz powszechnego - negatywnego lub pozytywnego - moralnego wartościowania pewnych rodzajów działań *in abstracto*. Z drugiej zaś strony wyjaśnienie Paprzyckiej jak i teoria intencjonalnych zaniechań jak się wydaje operuje bardziej wyrafinowanym pojęciem normy. 
+
+Chcielibyśmy zapronować szkic teorii, która uzgadniałaby podstawową intuicję idącą za zaniechaniowym wyjaśnieniem efektu Knobe'a z wynikami przeprowadzonego przez nas eksperymentu. Jesteśmy przekonani, że na problem Knobe'a należy spojrzeć w inny sposób. 
 
 ## Zakończenie
 
