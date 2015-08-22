@@ -980,5 +980,189 @@
     - obejmuje tylko osoby na urlopach do 3 miesięcy i nieobecne w pracy z powodów usprawiedliwionych
     - oraz WSZYSTKICH (chyba?) związkowców i ich podobnych
   * odprawa 
-    - 
+    - tylko pracownikom tych pracodawców, którzy są zobowiązani do przestrzegania ustawy
+    - zarówno w sytuacji gdy są zwalniani grupowo jak i indywidualnie z przyczyn niedotyczących pracodawcy
+    - rekompensata za utratę miejsca pracy
+    - uzależniona jest od stażu u danego pracodawcy (jeżeli był transfer - wlicza się poprzedniego)
+    - wymagalna z dniem zakończenia stosunku pracy
+    - wysokość:
+      + jednomiesięczne wynagrodzenie jeżeli pracownik krócej niż 2 lata
+      + dwumiesięcznego wynagrodzenia jeśli od 2 do 8 lat
+      + trzymiesięcznego wynagrodzenia jeśli ponad 8 lat
+      + limitowana do kwoty piętnastokrotnego minimalnego wynagrodzenia za pracę 
+  * prawo do ponownego zatrudnienia:
+    - nie przysługuje osobom zwalnianym indywidualnie z przyczyn niedotyczących pracownika
+    - w przypadku ponownego zatrudniania pracowników tej samej grupie zawodowej pracodawca powinien zatrudnić pracownika, z którym rozwiązał stosunek pracy w ramach grupowego zwolnienia, jeśli zwolniony pracownik zgłosi zamiar podjęcia zatrudnienia u tego pracodawcy w ciągu 15 miesięcy od dnia rozwiązania z nim stosunku pracy w ramach grupowego zwolnienia
+    - nie jest to prawo do zatrudnienia na tym samym stanowisku, ogranicza się do tej samej grupy zawodowej
+    - przesłanki powstania tego prawa to:
+      + zwolnienie pracownika z pracy w trybie zwolnień grupowych
+      + zgłoszenie pracodawcy zamiaru ponownego zatrudnienia w ciagu roku od rozwiązania stosunku pracy
+      + zatrudnianie przez pracodawcę pracowników w tej samej grupie zawodowej
+      + nie minęło 15 miesięcy od dnia rozwiązania stosunku pracy
 
+109. Kiedy pracodawca może rozwiązać umowę o pracę bez wypowiedzenia?
+  * niepożądany przez prawodawcę tryb
+  * ściśle uregulowany w Kodeksie pracy
+  * możliwe są dwa wyjścia:
+    - zwolnienie z przyczyn zawinionych przez pracownika (**zwolnienie dyscyplinarne**), śliśle wyliczone przypadki
+      + ciężkie naruszenie przez pracownika jego podstawowych obowiązków
+        * obecny k.p. nie zawiera przykładowego wyliczenia
+        * ciężkie naruszenie zachodzi wówczas gdy działanie lub zaniechanie pracownika polegające na naruszeniu obowiązków podstawowych cechuje wina umyślna lub rażące niedbalstwo
+      + popełnienie przez pracownika w czasie trwania zatrudnienia przestępstwa, które uniemożliwia zatrudnienei go na zajmowanym stanowisku
+        * przestępstwo jest **oczywiste** lub jest **stwierdzone prawomocnym wyrokiem**
+        * musi wiązać się z rodzajem wykonywanej pracy
+      + zawinionej przez pracownika utraty uprawnień niezbędnych do wykonywania pracy na zajmowanym stanowisku
+        * tylko te osoby które mają stwierdzone uprawnienia do wykonywania zawodu
+    - zwolnienie z przyczyn niezawinionych przez pracownika 
+      + niezdolność pracownika do pracy wskutek choroby trwa
+        * dłużej niż 3 miesiace jeżeli był zatrudniony krócej niż 6 miesięcy
+        * dłużej niż łączy okres pobierania z tego tytułu wynagrodzenia i zasiłku oraz pobierania świadczenia rehabilitacyjnego przez pierwsze 3 miesiace - gdy był dłużej lub 6 miesięcy lub niezdolność spowodowana była wypadkiem przy pracy albo chorobą zawodową
+      + w razie usprawiedliwionej nieobecności pracownika z innych przyczyn trwającej dłużej niż miesiąc
+    - obowiązek powiadomienia związków zawodowych, 3 dni na ich odpowiedź chyba że przedstawią wcześniej
+    - pracodawca może to zrobić w ciągu miesiace od dnia uzyskania wiadomości uzasadniającej rozwiązanie umowy
+  * pracownikowi zwolnionemu w tym trybie przysługują roszczenia:
+    - (wszystkie czynności nawet bezprawne są **ważne**)
+    - przywrócenie lub odszkodowanie
+    - sąd może orzec odszkodowanie zamiast przywrócenia wówczas gdy przywrócenie go do pracy jest niemożliwe lub niecelowe
+    - jeżeli upłynął już termin do którego umowa miała trwać lub stało się to w okresie trwającego wypowiedzenia, pracownik może tylko żądać odszkodowania
+  
+  110. Kiedy pracownik może rozwiązać umowę o pracę bez wypowiedzenia?
+  * może to zrobić tylko w dwóch sytuacjach:
+    - zakład służby zdrowia stwierdził szkodliwy wpływ wykonywanej pracy na zdrowie pracownika a pracodawca w wyznaczonym terminie nie przenosi pracownika do pracy odpowiedniej ze względu na jego zdrowie i kwalifikacje zawodowe
+    - pracodawca dopuścił się ciężkiego naruszenia podstawowych obowiązków wobec pracownika
+      + nie względem państwa
+      + nie jakikolwiek obowiązek ale podstawowy
+      + pracownik ma miesiac od dowiedzenia się o powodach
+      + oświadczenie woli musi być złożone w formie pisemnej z podaniem uzasadnienia
+
+111. Podstawowe obowiązki pracodawcy:
+  * poszanowanie godności i innych dóbr osobistych
+  * równe traktowanie pracowników i niedyskryminowanie
+  * wynagradzanie zgodnie z ustalonymi zasadami
+  * przestrzeganie przepisów chroniących prawo pracownika do wypoczynku
+  * przestrzeganie BHP
+  * ułatwianie pracownikom podnoszenia kwalifikacji
+  * oprócz tego te które stanowią o istocie stosunku pracy:
+    - obowiązek zapewnienia realnego zatrudnienia
+    - przejęcia ryzyka
+    - zgłoszenia pracownika do ubezpieczenia społecznego
+
+112. Ciężkie naruszenie != każde naruszenie
+
+113. Jakie skutki pociąga dla pracownika rozwiązanie stosunku pracy w trybie natychmiastowym z winy pracodawcy?
+  * prawo do odszkodowania (rekompensata)
+    - za okres wypowiedzenia (w przypadku umowy na czas nieokreślony)
+    - za dwa tygodni (w przypadku umowy na czas określony i umowy na czas wykonania określonej pracy)
+  * przyjęcie fikcji prawnej że skutki są takie same jak przepisy wiążą z rozwiązaniem przez pracodawcę za wypowiedzeniem
+
+114. Jakie uprawnienia przysługują pracodawcy w razie nieuzasadnionego rozwiązania przez pracownika umowy o pracę?
+  * konstrukcja odpowiedzialności odszkodowawczej pracownika
+  * odpowiedzialność jest limitowana i uzależniona od szkody pracodawcy
+  * o odszkodowaniu orzeka sąd pracy
+  * przesłanką jest tylko brak uzasadnionej przyczyny rozwiązania stosunku pracy, za uchybienia formalne odszkodowanie się nie należy
+  * wysokość - wynagrodzenie pracownika za okres wypowiedzenia, w przypadku pozostałych umów - 2 tygodnie
+
+115. Na czym polega konstrukcja prawna wygaśnięcia stosunku pracy?
+  * wygaśnięcie stosunku pracy następuje *ex lege* z momentem nadejścia zdarzenia, z którym prawo wiaże taki skutek
+    - śmierć pracownika
+    - śmierć pracodawcy
+    - upływ trzymiesięcznej nieobecności z powodu tymczasowego aresztowania
+    - niezgłoszenia się pracownika do pracy po rozwiązaniu stosunku pracy z wyboru u innego pracodawcy
+    - niezgłoszenia się pracownika do pracy po odbyciu zasadniczej lub okresowej służby wojskowej
+
+116. Jakie rozczenia przysługują pracownikowi w przypadku wadliwej kwalifikacji pracodawcy, iż doszło do wygaśnięcia stosunku pracy?
+  * może domagać się odszkodowania lub przywrócenia do pracy
+
+117. Jakie konsekwencje prawo pracy wiaże ze śmiercią pracownika?
+  * po śmierci pracownika prawa majątkowe ze stosunku pracy przechodzą **nie na spadkobierców** praocwnika lecz **w równych częściach na małżonka i inne osoby spełniające warunki wymagane do uzyskania renty rodzinnej**
+  * **prawa majątkowe ze stosunku pracy** należy interpretować ściśle ponieważ jest to wyłom z prawa spadkowego
+  * spory z zakresu tych roszczeń są sporami prawa pracy i są rozstrzygane przez sądy pracy
+
+118. Jakie skutki może wywoływać śmierć pracodawcy?
+  * może doprowadzić do wygaśnięcia stosunku pracy
+  * może doprowadzić do przejęcia pracownika przez nowego pracodawcę na zasadzie art. 231 k.p.
+
+119. Kiedy tymczasowe aresztowanie pracownika powoduje wygaśnięcie stosunku pracy?
+  * z upływem 3 miesięcy nieobecności pracownika w pracy z powodu tymczasowego aresztowania 
+  * ma prawo do **ponownego zatrudnienia** (uwaga! to nie jest przywrócenie ani coś takiego!) po wygaśnięciu na skutek przedłużającego się aresztowania gdy:
+    - postępowanie karne umorzono
+    - zapadł wyrok uniweinniający
+
+120. Jaki jest zasadniczy obowiazek pracownika wobec pracodawcy?
+  * obowiązki pracownika skłądają się na treść jego stosunku pracy
+  * podstawowy obowiązek - wykonywanie pracy określonego rodzaju na rzecz pracodawcy i pod jego kierownictwem oraz w miejscu i czasie wyznaczonym przez pracodawcę 
+  * pracę musi wykonywać starannie i sumiennie
+    - w odpowiedniej ilości
+    - o odpowiedniej jakości
+  * dodatkowe obowiązki nakładane przez kodeks:
+    - przestrzeganie czasu pracy ustalonego w zakładzie pracy
+    - przestrzeganie regulaminu pracy i ustalonego w zakładzie pracy porządku
+    - przestrzegania zasad bhp 
+    - dbania o dobro zakłądu pracy, chronienie jego mienia, zachowanie tajemnicy itd.
+    - przestrzeganie w zakładzie pracy zasad współżycia społecznego
+
+121. W jakich aktach mogą zostać urelugowane obowiązki pracownicze?
+  * oprócz kodeksu pracy i innych ustaw regulujących obowiązki pracownicze, mogą być one regulowane w **wewnątrzzakładowych źródłach prawa pracy**, **postanowieniach umowy o pracę** czasami również przez zwyczaj zakładowy
+
+122. Jakie są konsekwencje naruszenia obowiązków pracowniczych?
+  * wypowiedzenie stosunku pracy
+  * rozwiązania stosunku pracy w trybie natychmiastowym z winy pracownika (jeśli ciężkie i podstawowych)
+  * pociągnięcia pracownika do odpowiedzialności porządkowej, materialnej, karnej (np. przy naruszeniu tajemnicy państwowej)
+
+123. Jak można wprowadzić do stosunku pracy zakaz podejmowania działalności konkurencyjnej przez pracownika?
+  * wynika z wielu przepisów ustawowych
+  * można takżę wprowadzić wolą stron zawierajac stosowną umowę zakazującą podejmowania działalności konkurencyjnej:
+    - w trakcie stosunku pracy
+    - po ustaniu stosunku pracy
+  * wymagana jest odrębna umowa, no ale może być na jednym dokumencie
+  * **kodeks pracy nie określa co należy rozumieć przez działalność konkurencyjną**, ale nie jest konieczne to, wystarczy ekonomiczne konkurencji
+  * umowy takie wprowadzają dodatkowy obowiązek dla pracownika i ograniczają prawo do podejmowania dodatkowego zatrudnienia
+  * można takzę wprowadzić takie ograniczenie po ustaniu zatrudnienia (tzn. nie w czasie stosunku pracy)
+    - jest to umowa **terminowa** i **odpłatna**
+    - powinna ściśle określać czas trwania zakazu, jego przedmiot oraz wysokość odszkodowania 
+
+124. Czy jest możliwe jednostronne rozwiązanie umowy o zakazie konkurencji po ustaniu stosunku pracy w trakcie trwania zakazu podejmowania działalności konkurencyjnej?
+  * tak, gdy ustały przyczyny, które były podstawą ustanowienia zakazu
+  * tak, jeśli pracodawca nie wywiązał się z obowiązku wypłąty odszkodowania należnego pracownikowi w myśl zawartej umowy o zakazie konkrrencji
+
+125. Czy istnieje możliwość zmiany umowy o zakazie konkurencji jednostronnie przez pracodawcę na zasadzie art 42 k.p.?
+  * nie, to samoistna umowa i nie jest częścią umowy o pracę, klauzula autonomiczna 
+
+126. Jak systematyzować obowiązki pracodawcy?
+  * związane z realizacją treści stosunku pracy
+    - zatrudnienie
+    - wypłata wynagrodzenia
+  * liczbe zobowiązania publicznoprawne - odprowadzania podatku, składek na fundusze zabezpieczeniowe i gwarancyjne
+  * systematyka podręcznikowa - obowiązki związane z:
+    - nawiązaniem stosunku pracy
+    - trwaniem stosunku pracy
+    - rozwiązaniem stosunku pracy
+
+127. Obowiązki wobec innych podmiotów niż pracownik:
+  * w związku z uruchomieniem działałności obowiązek poinformowania w ciagu 30 dni inspektora pracy i państwowego inspektora sanitarnego
+  * w związku z zatrudnianiem pracowników:
+    - obowiązek zgłoszenia pracownika do ubezpieczenia społecznego
+    - obowiązek zgłoszenia pracownika do ubezpieczenia zdrowotnego
+    - obowiązek zawiadomienia w formie pisemnej w ciągu 5 dni właściwego urzędu prac o zatrudnieniu bezrobotnego
+    - obowiązek zawiadomienia poprzedniego pracodawcy i komornika o zatrudnieniu osoby wobec której prowadzona jest egzekucja z wynagrodzenia za pracę
+    - obowiązek odprowadzania składek na fundusz pracy, fundusz gwarantowanych świadczeń pracowniczych, Państwowy Fundusz Rehabilitacyjny Osób Niepełnosprawnych
+    - obowiązek powiadomienia inspektora pracy o śmiertelnym ciężkim lub zbiorowym wypadku
+    - obowiązek zgłoszenia Państwowej Inspekcji Sanitarnej i właściwemu inspektorowi pracy przypadku chorób zawodowych i podejrzenia o taką chorobę
+    - na wniosek pracownika poinformowania inspektora pracy o pracujących w nocy
+    - obowiązki wynikające z bycia płatnikiem podatku dochodowego od osób fizycznych
+  * pracodawca musi tworzyć fundusz socjalny jeżeli zatrudnia 20 pracowników, chyba że wprowadzą odpowiednie postanowienia w układzie zbiorowym pracy
+    - fundusz socjalny tworzony jest z corocznego odpisu ustawowego który wynosi 37,5% na przeciętnego wynagrodzenia miesięcznego w gospodarce narodowej na jednego pracownika, odmienne regulacje w wypadku młodocianych, zatrudnionych w uciążliwych warunkach, niepełnosprawnych, emerytóœ i rencistów
+  * jeżeli zatrudnia mniej niż 20 pracowników to może tworzyć fundusz ale może też nie, wówczas informacja w sprawie nietworzenia funduszu i decyzej w sprawie niewypłącania świadczenia urlopowego przekazać pracownikom w pierwszym miesiącu roku kalendarzowego
+
+128. Na co mogą być przeznaczone środku zakładowego funduszu świadczeń socjalnych i kto o tym decyduje?
+  * na finansowanie działalności socjalnej organizowanych na rzecz osób uprawnionych oraz na dofinansowanie zakładowych obiektów socjalnych
+  * ustalenia dokonuje pracodawca w regulaminie (będącym źródłem prawa pracy) uzgodnionym z zakładową organizacją związkową
+  * akt przyznajacy świadczenie - decyzja komisji socjalnej, w zależności od potrzeb a nie "po równo"
+
+129. Czy pracodawcy mogą prowadzić wspólną działalność socjalną?
+  * tak, wymaga to zgody związków zawodowych
+  * na podstawie umowy cywilnej
+  * nie prowadzi to do połączenia funduszów (!)
+
+130. Jakie zasadnicze obowiązki spoczywają na pracodawcy wobec pracownika w związku z nawiazaniem stosunku pracy?
+  * 
