@@ -1165,4 +1165,414 @@
   * nie prowadzi to do połączenia funduszów (!)
 
 130. Jakie zasadnicze obowiązki spoczywają na pracodawcy wobec pracownika w związku z nawiazaniem stosunku pracy?
+  * zaznajomienie pracowników z zakresem ich obowiązków, sposobem wykonywania pracy na wyznazconych stanowiskach oraz ich podstawowymi uprawnieniami
+  * przeszkolenie pracownika w zakresie BHP
+  * skierowania pracownika na badanie wstępne
+  * informowanie pracownika o obowiązującej go dobowej i tygodniowej normie czasu pracy, częstotliwości wynagrodzenia, tylopie wypoczynkowym oraz okresie wypowiedzenia - obowiazek informacyjny 7 dni od zawarcia umowy
+  * zapoznanie pracownika z treścią regulaminu pracy
+
+131. Jakie zasadnicze obowiązki spoczywają na pracodawcy w związku z realizacją stosunku pracy?
+  * obowiązek prawidłowego organizowania pracy
+  * obowiązek ochrony dóbr osobistych pracownika, przeciwdziałaniu dyskryminacji 
+  * obowiazek zapewnienia bhp i obowiązki z tym związane
+  * obowiązek terminowego i prawidłowego wypłacania wynagrodzenia
+  * obowiązek ułatwiania pracownikom podnoszenia kwalifikacji zawodowych
+  * obowiązek stwarzania pracownikom podejmującym zatrudnienie po ukończeniu zawodówki lub wyższej warunków sprzyjających przystosowaniu się do należytego wykonywania pracy
+  * obowiązek zaspokajania w miarę posiadanych środków socjalnych potrzeb pracowników
+  * obowiązek informowania pracowników o możliwościach zatrudnienia i zagrożeniach zwiazanych z warunkami pracy
+  * obowiązek prowadzenia dokumentacji w sprawach związanych ze stosunkiem pracy oraz akt osobowych pracowników
+  * obowiązek wpływania na kstzałtowanie w zakładzie pracy zasad współżycia społecznego
+
+132. Jakie obowiązki informacyjne spoczywają na pracodawcy w trakcie trwania zatrudnienia?
+  
+
+133. Jak prowadzić i przechowywać dokumentację pracowniczą?
+
+134. Kiedy mamy do czynienia z mobbingiem?
+  Art. 94 3 . [Obowiązek przeciwdziałania mobbingowi]
+  § 1. Pracodawca jest obowiązany przeciwdziałać mobbingowi.
+  § 2. Mobbing oznacza działania lub zachowania dotyczące pracownika lub skie-
+  rowane przeciwko pracownikowi, polegające na uporczywym i długotrwałym nę-
+  kaniu lub zastraszaniu pracownika, wywołujące u  niego zaniżoną ocenę przy-
+  datności zawodowej, powodujące lub mające na celu poniżenie lub ośmieszenie
+  pracownika, izolowanie go lub wyeliminowanie z zespołu współpracowników.
+  § 3. Pracownik, u którego mobbing wywołał rozstrój zdrowia, może docho-
+  dzić od pracodawcy odpowiedniej sumy tytułem zadośćuczynienia pieniężnego za doznaną krzywdę.
+  § 4. Pracownik, który wskutek mobbingu rozwiązał umowę o pracę, ma pra-
+  wo dochodzić od pracodawcy odszkodowania w wysokości nie niższej niż mi-
+  nimalne wynagrodzenie za pracę, ustalane na podstawie odrębnych przepisów.
+  § 5. Oświadczenie pracownika o rozwiązaniu umowy o pracę powinno nastą-
+  pić na piśmie z podaniem przyczyny, o której mowa w § 2, uzasadniającej rozwiązanie umowy.
+
+135. Które z obowiązków pracodawcy są najważniejsze dla fazy zakończenia stosunku pracy?
+  * wraz z ustaniem stosunku pracy staja się wymagalne
+    - wszelkie odprawy i odszkodowania związane z rozwiązaniem stosunku pracy
+    - ekwiwalent za niewykorzystany urlop
+  * obowiązek niezwłocznego wydania świadectwa pracy
+  * na wniosek pracownika pracodawca może wydać mu tzw. referencje 
+
+136. Co to jest świadectwo pracy?
+  * należy je wydać bez wyczekiwania na żądanie pracownika, jeśli nie zgłasza sę po odbiór świadectwa - należy wysłać mu je pocztą
+  * podaje się w nim następujące informacje:
+    - okres i rodzaj wykonywanej pracy
+    - zajmowane stanowiska
+    - tryb rozwiązania
+    - okoliczności wygaśnięcia stosunku pracy
+    - inne informacje
+    - wzmianka o zajęciu wynagrodzenia za pracę
+    - nie jest dokumentem urzędowym w rozumieniu KPC
+    - 
+137. Odpowiedzialność pracownika i pracodawcy
+  * podstawą odpowiedzialności pracowniczej jest ciężar gatunkowy i skutki przewinienia, jakiego dopuścił się praocwnik a także wykonywany przez niego rodzaj pracy
+  * wyróżnia się następujące rodzaje odpowiedzialności
+    - **odpowiedzialność porządkowa**
+    - odpowiedzialność dyscyplinarna związana ze statusem pracownika mianowanego
+    - odpowiedzialność zawodowa przed korporacją np. lekarzy, radców
+    - **odpowiedzialność materialna**
+
+138. Kiedy można pociągnąć pracownika do odpowiedzialności porządkowej?
+  * każdy pracodawca może stosować swobec swoich pracowników sankcje za naruszenie ładu w pracy - prszesłanki to:
+    - naruszenie obowiązków związanych z porządkiem pracy
+      + nieprzestrzeganie przez pracownika ustalonej organizacji i porządku w procesie pracy
+      + nieprzestrzeganie przepisów bhp i przeciwpożarowych
+      + nieprzestrzeganie przyjętego sposobu potwierdzenia przybycia i obecności w pracy oraz nieusprawiedliwiona nieobecność w pracy
+      + opuszczenie pracy bez usprawiedliwienia
+      + stawienie się w pracy w stanie nietrzeźwym lub spożywanie alkoholu w czasie pracy
+    - wina pracownika
+    - możliwe jest stosowanie tylko kar określonych w KP, tzn.:
+      + kary upomnienia (za każde przewinienie pracownika)
+      + kara nagany (za każde przewinienie pracownika)
+      + kara pieniężna
+        * nieprzestrzeganie bhp i przeciwpożarowych
+        * stawienie się do pracy po alkoholu lub picie go w pracy
+        * opuszczenie pracy bez usprawiedliwienia
+  * tryb nakładania kary porządkowej został ustalony w Kodeksie
+    - należy brać pod uwagę rodzaj naruszenia, stopień winy i pracownika dotychczasowy stosunek do pracy
+    - kara nie może być zastosowana po upływie 2 tygodni od dnia powzięcia wiadomości o naruszeniu i 3 miesięcy od dopuszczenia się przewinienia
+    - trzy etapy nakładania kary porządkowej, ich naruszenie powoduje, że jest nałożona wbrew obowiązującym normom
+      + wysłuchanie pracownika (przed nałożeniem kary)
+      + podjęcie decyzji o zastosowaniu kary
+      + zawiadomienie pracownika na piśmie o zastosowanej karze ze wskazaniem naruszenia obowiązku, jego daty oraz pouczeniem i możliwości zgłozenia sprzeciwu
+    - sprzeciw - pracownik ma 7 dni, składa się go do pracodawcy, który ma na jego rozpatrzenie 14 dni, zawiadomienie o odrzuceniu sprzeciwu musi zawierać pouczenie o możliwości odwołania się do sądu pracy o uchylenie kary porządkowej
+    - zatarcie kary następuję po roku (od nałożenia kary) nienagannej pracy (bez żadnej pracy) - znika wówczas z jego akt osobowych
+
+139. Odpowiedzialność majątkowa pracownika
+  * brak cywilistycznego podziału na odpowiedzialność deliktową i kontraktową 
+  * odpowiedzialność za mienie pracodawcy inne niż powierzone
+    - przesłanki
+      + bezprawność zachowania pracownika polegająca na niewykonaniu lub nienależytym wykonaniu obowiązku pracowniczego
+      + wina pracownika
+      + szkoda rozumiana jako uszczerbek na mieni pracodawcy, który następił wbrew jego woli
+      + adekwatny związek przyczynowy między wadliwym działaniem lub zaniechaniem pracownika a powstałą szkodą
+    - ciężar dowodu spoczywa na pracodawcy
+  * odszkodowanie przy szkodzie wyrządzonym przez pracownika z winy nieumyślej
+    - jeśli z winy nieumyślnej to odpowiada w granicach rzeczywistej straty
+    - odpowiedzialność jest wyłączona w takim zakresie w jakim inne osoby lub pracodawca przyczynilli się do wyrządzenia lub zwiększenia szkody
+    - pracownik nie ponosi odpowiedzialności związanej ze szkodą, która powstałą w związku z działaniem w granicach dopuszczalnego ryzyka
+    - wysokość odszkodowania nie może przekraczać kwoty trzymiesięcznego wynagrodzenia przysługującego pracownikowi w dniu wyrządzenia szkody
+    - w przypadku wyrządzenia szkody przez kilku pracowników, każdy z nich na ponosi odpowiedzialność stosownie do stopnia winy oraz przyczynienia się
+  * możliwe jest zawarcie ugody
+  * za szkode wyrządzoną osobie trzeciej przy wykonywaniu obowiazków pracowniczych odpowiedzialny jest wyłącznie pracodawca (ale ma prawo regresu do wysokości 3 miesięcznego wynagrodzenia)
+  * pojęcie winy zbliżone do tego karnistycznego (stanowisko doktryny)
+  * jeśli popełnił z winy umyślnej jest zobowiązany do jej naprawienia w pełnej wysokości - zarówno rzeczywistej straty jak i nieuzyskanych korzyści, pracownik odpowiada więc za:
+    - rzeczywistą stratę i utracone korzyści
+    - jest pełne nie podlega limitom
+    - pracodawca nie odpowiada za szkodę wyrządzoną przez pracownika osobie trzeciej z winy umyślnej
+    - jeśli kilku pracowników wyrządziło szkodę - odpowiadają solidarnie
+  * odpowiedzialność za mienie powierzone
+    - pracownik, któremu powierzono z obowiązkiem zwrotu albo do wyliczenia się: pieniądze, papiery wartościowe, kosztowności, narzędzia, instrumenty lub podobne przedmioty oraz odzież ochronną i roboczą lub sprzęt ochrony osobistej a takżę inne mienie odpowiada do pełnej wysokości za **szkodę powstałą w tym mieniu**
+      + judykatura mówi, że tylko braki ilościowe, gdy powierzone mienie uległo uszkodzeniu, pracownik ponosi ograniczoną odpowiedzialność jeśli udowodni że szkodę wyrządził nieumyślnie
+    - przesłanki takie same jak przy odpowiedzialności za mienie inne niż powierzone
+    - inaczej rozłożony ciężar dowodu
+      + pracodawca zobowiazany jest wykazać szkodę i fakt prawidłowego powierzenia mienia
+      + pracownik musi wykazać, że szkoda powstała z przyczyn niezależnych od niego lub niezawinionych, w szczególności z winy pracodawcy
+    - wspólna odpowiedzialnosć może być ustanowieiona na podstawie umowy o współodpowiedzialności materialnej w formie pisemnej *ad solemnitatem*
+      + w zależności na ile zmian się pracuje zawarcie takiej umowy zależna jest od posiadania mniej niż n osób na zmianie
+
+140. Odpowiedzialność majątkowa pracodawcy za naruszenie praw pracowniczych
+  * za niewykonanie obowiązkóœ pracodawca może ponosić odpowiedzialność
+    - majątkową
+      + nie uregulowana całościowo w Kodeksie, na podstawie przepisów regulujących skutki naruszenia obowiązków pracodawcy
+      + pracownik może dochodzić od swojego pracodawcy odszkodowania na zasadach prawa cywinego i jest to coraz częściej dopuszczana przez Sąd Najwyższy możliwość 
+    - wykroczeniową
+    - karną
+  * odpowiedzialność pracodawcy za wadliwe rozwiązanie stosunku pracy
+    - odszkodowanie ograniczone do wysokości równej okresowi wypowiedzenia i nie jest uzależnione od szkody pracownika
+  * w przypadku mobbingu i naruszenia równości odszkodowanie jest nielimitowane przy czym nie może być niższe niż minimalne wynagrodzenie za pracę
+    - jeśli wywołał rozstrój zdrowia i pracownik domaga się odszkodowania, to ciężar dowodu spoczywa zgodnie z art. 6 KC na pracowniku (!)
+    - co do zasady chyba można dochodzić dodatkowych roszczeń (utrata zdolności do pracy, zmniejszenie sie widoków na przyszłość) na drodze cywilnej
+  * w przypadku odpowiedzialności za dyskryminacje w zatrudnieniu również nie niższe niż minimalne wynagrodzenie, ciężar dowodu spoczywa na pracodawcy, który dowodzi że to nie jest dyskryminacja
+  * odpowiedzialność za wydanie niewłaściwego świadectwa pracy lub nie wydanie go w terminie:
+    - wina pracodawcy
+    - szkoda pracownika
+    - związek przyczynowy
+    - limitowana do 6 tygodniowego wynagrodzenia
+    - za czas pozostawania bez pracy
+    - nie wiadomo czy niewydanie w terminie lub wydanie niewłaściwego świadectwa może być podstawą dochodzenia odszkodowania na zasadach prawa cywilnego, ale TAK za te rzeczy, których nie reguluje KP
+  * odpowiedzialność za wypadek przy pracy
+    - odpowiedzialność prawie nieograniczona
+    - wyłączenia odpowiedzialności z ubezpieczenia wypadkowego
+      + wyłączną przyczyną wypadku było udowodnione naruszenie przez ubezpieczonego przepisów dotyczących ochrony życia i zdrowia spowodowane umyślnie lub z rażącego niedbalstwa
+      + nietrzeźwość lub wpływ środków odurzających w czasie przyczyniania się 
+    - pracodawca nie wypłaca odszkodowań ale opłaca składkę na ubezpieczenie wypadkowe
+    - być może może odpowiadać na zasadach prawa cywilnego jeżeli szkoda przerasta odszkodowanie wypłacane przez ZUS
+
+142. Odpowiedzialność za przestępstwa i wykroczenia przeciwko prawom pracowniczym
+  * odpowiedzialność karna - reguluje ją Kodeks Karny
+    - uporczywe i złośliwe naruszanie praw pracowniczych
+    - odmowa przyjęcia do pracy do której przywrócił sąd
+    - niezgłąszanie ubezpieczycielowi właściwych danych
+    - niedopełnienie bhp i narażenie pracownika na bezpośrednie niebezpieczeństwo ciężkiego uszczerbku lub utraty zdrowia i życia 
+    - niezawiadomienie właściwego organu o wypadku lub chorobie zawodowej
+  * odpowiedzialność za wykroczenia - reguluje ją Kodeks pracy
+    - odpowiedzialni:
+      + pracodawca lub osoba działająca w jego imieniu
+      + osoba zobowiązana z racji przydzielonych zadań do respektowania praw pracowniczych
+      + osoby odpowiedzialne za bhp
+    - kary grzywny od 1000 do 30 000zł
+  
+  143. Pojęcie wynagrodzenia za pracę
+    * wynagrodzenie za pracę jest świadczeniem odwzajemniającym pracę wykonywaną w ramach stosunku pracy i w jego ramach jest świadczeniem koniecznym
+    * nie jest świadczeniem jednolitym - może się na nie składać wiele świadczeń cząstkowych
+    * funkcje wynagrodzenia za pracę:
+      - funkcja alimentacyjna - gwarantuje pracownikowi i rodzinie przychód na poziomie społecznie niezbędnym
+      - motywacyjna - oddziałuje na postawę pracownika w procesie pracy
+    * cechy pojęciowe wynagrodzenia za pracę:
+      - **ze stosunku pracy** (a nie stosunków cywilnoprawnycyh)
+      - **odwzajemniające pracę** (tylko za pracę rzeczywiście wykonaną, reszta to wypłaty gwarancyjne)
+      - **ekwiwalentne względem pracy** (ma odpowiadać rodzajowi pracy, jej ilości i jakości)
+      - **roszczeniowe** (ma prawo się domagać)
+      - **majątkowo - przysparzające** (określona wartość majątkowa wyrażona zwykle w pieniądzu [wynagrodzenie zasadnicze zawsze w pieniądzu])
+      - **okresowe** (wypłacane w oznaczonych regularnych okresach czasu, więc odpadają odprawy)
+    * ustalanie warunków wynagrodzenia za pracę:
+      - podstawowym aktem jest umowa o pracę
+  
+  144. Składniki wynagrodzenia za pracę
+    * zwykle jest świadczeniem złożonym
+    * zawsze jednen składnik o charakterze podstawowym (**wynagrodzenie podstawowe/zasadnicze**)
+    * pozostałe składniki zwane dodatkowymi odzwierciedlają poszczególne cechy świadczenia
+    * systemy wynagrodzenia zasadniczego
+      - czasowy - stawka powiązana z określoną jednostką czasową
+        + ekstensywny charakter, nie odzwierciedla wydajności czasownika
+      - akordowy
+        + odzwierciedla wydajność pracy
+        + cena za godzina pracy odpowiadającą określonej normie pracy
+        + przekroczenie norm -> zwiększenie, niewykonanie normy -> zmniejszenie
+        + można wyróźnić wiele rodzajów akordów
+    * premia
+      - jeden z najczęściej występujących dodatkowych składników wynagrodzenia
+      - odzwierciedla ilościowe bądź jakościowe efekty pracy
+      - o prawnej kwalifikacji świadczenia jako premii decyduje charakter prawny a dokładnie to, czy ma **charakter roszczeniowy**, premie uznaniowe to w rzeczywistości nagrody
+    * prowizja
+      - świadczenie uzyskane jako procent/promil uzyskanych efektów pracy pracownika
+    * dodatki przysługujące pracownikowi
+      - dodatki kompensujące zwiększony wysiłek lub kwalifikacje pracownika
+        + dodatek za pracę w godzinach nadliczbowych
+        + dodatek za pracę w porzę nocnej
+        + dodatek za pracę w szczególnych warunkach
+        + dodatek funkcyjny
+        + dodatek za staż pracy
+      - dodatki wyrównawcze
+        + dodatek dla kobiety ciężarnej lub karmiącej dziecko piersią, którą przeniesiono do pracy niżej wynagadzanej
+        + dodatek przslugujący pracownikowi przeniesionemu na skutek podejrzenia choroby zawodowej
+        + dodatek pracownikowi niezdolnemu do dotychczasowej pracy na skutek wypadku przy pracy/choroby zawodowej, ale nie został uznany za niezdolnego do pracy
+        + dodatek przysługujacy szczególnie chronionemu pracownikowi
+
+145. Na czym polega ochrona wynagrodzenia za pracę?
+  * *sensu largo*
+    - ogół środków prawnych gwarantujących otrzymanie przez pracownika godziwej zapłaty za pracę
+    - sankcje z tytułu niewykonania lub nienależytego wykonania obowiazku wypłaty wynagrodzenia, uprzywilejowanie wynagrodzenia w postępowaniu egzekucyjnym i upadłościowym
+  * *sensu stricto*
+    - regulacje kodeksowe
+      + zakaz zrzeczenia się wynagrodzenia i przeniesienia go na inną osobę
+        * zakaz zawierania umów przez pracownika
+      + określenie terminu, miejsca i formy wypłaty wynagrodzenia
+        * co najmniej raz w miesiącu (bezwzględnie do wynagrodzenia zasadniczego i np. dodatku za pracę w porze nocnej)
+        * w stałym ustalonym z góry terminie (ustalonym w regulaminie pracy lub w jego braku 7 dni od zawarcia umowy o pracę)
+        * wynagrodzenie do rąk pracownika przez wydanie mu papierów pieniężnych wyrażonych w pieniądzu polskim (ale można na piśmie inną formę, może też wynikać z ustawy)
+      + ograniczenia dopuszczalności potrąceń z wynagrodzenia
+        * potracenie z kodeksu pracy różni się od potracenia cywilnoprawnego
+        * w kodeksie pracy jest katalog wierzytelnosci i należnosci, których dopuszczalne jest potracenie bez zgody pracownika
+          - sumy egzekwowane z mocy tytułów wykonawczych na zaspokojenie świadczeń alimentacyjnych (*do wysokości 3/5 wynagrodzenia*)
+          - sumy egzekwowane na mocy tytułów wykonawczych na zaspokojenie innych należności niż świadczenia alimentacyjne (*do wysokości 1/2 wynagrodzenia nie więcej niż do wysokości wynagrodzenia minimalnego*)
+          - zaliczki pieniężne udzielone pracownikowi (*do wysokości 1/2 wynagrodzenia, nie więcej niż do 3/4 minimalnego wynagrodzenia*)
+          - wyżej wymienione **łącznie do 3/5 wynagrodzenia**
+          - kary pieniężne (do wysokości 1/10 wynagrodzenia pozostającego po dokonaniu ww. pobrań)
+      + inne należności, które można pobrać z wynagrodzenia za pracę:
+        * z tytułu skłądek na ubezpieczenia
+        * zaliczka na podatek dochodowy
+        * pomniejszenie z tytułu wadliwego wykonania pracy
+        * za zgodą może inne do wysokości 80% minimalnego wynagrodzenia
+
+145. Pozawynagrodzeniowe świadczenia związane z pracą
+  * są kategorią zróznicowaną, łączy je to że nie mają wszystkich cech świadczenia wynagrodzeniowego 
+  * rodzaje pozawynagrodzeniowych świadczeń:
+    - świadczenia odwzajemniające pracę i ekwiwalentne względem niej
+      + nagrody i wyróżnienia
+    - świadczenia wyrównawcze i kompensacyjne
+      + rekompensują wydatki związane z wykonywaniem pracy
+        * zwrot kosztów zwiazanych z delegacją służbową
+        * zwrot kosztów dojazdu pracownika
+      + świadczenia odszkodowawcze
+    - odprawy
+      + bardzo zróżnicowana kategoria prawna, według powszechnie obowiązujących przepisów prawa pracy są to:
+        * odprawa emerytalno-rentowa
+        * odprawa z tytułuy rozwiązania stosunku pracy przez pracodawcę z przyczyn niedotyczących pracownika
+        * odprawa związana ze stosunkiem pracy przysługująca członkom jego rodziny - odprawa pośmiertna
+146. Ochrona roszczeń pracowniczych w razie niewypłacalności pracodawcy
+  * Fundusz Gwarantowanych Świadczeń Pracowniczych, przesłanki nabycia uprawnień wobec funduszu:
+    - niewypłacalność pracodawcy
+      + wszęcie procedury upadłościowej lub naprawczej
+      + oddalenie wniosku o nią z uwagi na niewystarczalność aktywów na zaspokojenie kosztów postępowania
+      + stwierdzenie definitywnego zamknięcia zakłądu
+      + likwidacji przedsiębiorstwa państwowego nie z uwagi na restrukturyzację majątku
+    - brak realizacji zasadnych roszczeń pracowniczych przez pracodawcę
+  * mogą korzystać pracownicy lub byli pracowniczy oraz członkowie rodzin zmarłego pracownika uprawnieni do renty rodzinnej
+  * definicja pracodawcy nieczytelna
+  * źrodła finansowania
+    - obowiązkowa składka opłacona przez pracodawców
+    - zwrócone sumy należności wypłaconych tytułem świadczeń pracowniczych
+  * roszczenia podlegające ochronie:
+    - wynagrodzenie za pracę
+    - przysługujące na podstawie prawa pracy
+      + wynagrodzenia za czas niezawinionego przez pracownika przestoju za czas niewykonywania pracy i za czas innej usprawiedliwionej nieobecnosci w pracy
+      + wynagrodzenia za czas niezdolności pracownika do pracy wskutek choroby
+      + wynagrodzenia za czas uslopu wypoczynkowego
+      + odprawy pieniężnej przysługującej na podstawie przepisów o szczególnych...
+      + ekwiwalentu pieniężnego za urlop wypoczynkowy
+      + odszkodowania przy upadłości lub likwidacji pracodawcy
+    - składek na ubezpieczenia społeczne należnych od pracowników na podstawie przepisow o systemie ubezpieczeń społecznych
+
+147. Pojęcie czasu pracy
+  * czas pracy to czas w którym pracownik pozostaje w dyspozycji pracodawcy w zakładzie pracy lub innym miejscu wyznaczonym do wykonywania zakładu pracy (nie realny czas)
+  * pozostawnie w dyspozycji pracodawcy oznacza pełną zdolność psychofizyczną i gotowość do wykonywania pracy oraz poleceń pracodawcy zgodnie z z zasadą podporządkowania
+  * do czasu pracy wlicza się następujące okresy niewykonywania pracy:
+    - czas gdy pracownik był do niej gotów a doznał przeszkód z przyczyn dotycących pracodawcy lub przestoju
+    - przerwy na posiłek i krótki wypoczynek
+    - przerwy z tytułu pracy w szkodliwych warunkach lub pracy monotonnej
+    - pięciominutoiwe przerwy po każdej godzinie pracy przy monitorze
+    - przerwy na gimnastyke usprawniającą przysługujące niepełnosprawnemu
+    - czas nauki młodocianego
+    - przerwy na karmienie piersią
+    - przerwę młodocianego 30 min przysługującą mu gdy dobowy wymiar czasu pracy przekracza 4,5 godziny
+    - czas na szkolenia bhp
+    - czas niewykonywania pracy w związku z przeprowadzaniem badań okresowych i kontrolnych w godzinach pracy
+  * do czasu pracy nie wlicza się:
+    - przerwy w ramach przerywanego czasu pracy
+    - przerwy na spożycie posiłku lub załatwienie spraw osobistych
+    - okresów usprawiedliwionej nieobecności w pracy oraz zwolnień  od pracy
+  * podróż służbowa to wykonywanie zadania określonego przez pracodawcę poza miejscowością, w której znajduje się siedziba pracodawcy/miejsce pracy pracownika w terminie i miejscu określonym w polecneiu wyjazdu słubowego
+    - podróż służbowa typowa - pracownik jest zatrudniony w stałym miejscu pracy a jego wyjazdy mają charakter incydentalny (czas przejazdu z reguły nie jest wliczany do czasu pracy)
+    - podróż słuzbowa nietypowa - pracownik stale przebywa w terenie (cały czas wliczany do czasu pracy)
+
+147. Systemy czasu pracy
+  * pojęcie niezdefiniowane ustawowe
+  * system czasu pracy jest konstrukcją prawną wyznaczającą nominał i sposób organizacji czasu pracy
+  * podstawowy czas pracy - norma dobowa nie może przekraczać 8 godzin a tygodniowa przecietnie 40 godzin w przeciętnie 5-dniowym tygodniu pracy. ]
+  * skrócony czas pracy
+    - przesłanki
+      + szczegolnie uciążliwe warunki
+      + szczególnie szkodliwe warunki
+      + praca monotonna w ustalonym z góry tempie
+    - skrócenie czasu pracy w przypadku dwóch pierwszych może polegać na:
+      + obniżenie normy czasu pracy
+      + ustanowienie odpowiednich przerw w czasie pracy 
+    - skróceniue czasu pracy w przypadku prac monotonnych 
+      + wprowadzenie przerw wliczanych do czasu pracy
+  * czas pracy w ruchu ciągłym jest to system czasu pracy zapewniający możliwość nieprzerwanego organizowania pracy (24/7)
+    - wydłużone normy czasu pracy nawet do 43 godzin tygodniowo, 12 godzin na dobę w niektórych tygodniach 
+    - rekompensatą jest dodatkowe wynagrodzenie: za każdą nadmiarową godzinę 100% wynagrodzenia
+  * **równoważny czas pracy** polega na możliwości wydłużenia dobowej normy czasu pracy przy zachowaniu w przyjętym okresie rozliczeniowym przeciętnie 40 godzinnej normy czasu pracy
+  * przy **dozorze** urządzeń obowiązuje szczególną postać równoważnego czasu pracy, maksymalna dobowa norma 16 godzin, okres rozliczeniowy nie może przekraczać miesiąca (przyczyna - mniejsze obciążenie psychofizyczne)
+  * przy **pilnowaniu** mienia lub ochronie osób obowiazuje szczególna postać czasu pracy - dobowa norma pracy może być wydłużona do 24 godzin, rozliczanie 40 godzinowej normy pracy w okresie co najwyżej miesiąca 
+  * **skrócony tydzien pracy** - mniej niż 5 dni w tygodniu ale norma pracy wydłużona do 12 godzin, brak wskazania dni tygodnia w których praca ma być świadczona
+  * **system czasu pracy weekendowej** - praca świadczona w piatki, soboty i niedziele, możliwośc wydłużenia czasu pracy do 12 godzin 
+  * **przerywany czas pracy** - pomiędzy poszczególnymi cyklami pracy przerwa niewliczana do czasu pracy 
+  * **zadaniowy czas pracy** - brak ekstensywnego czasu pracy, zamiast niego wymiar zadań do wykonania przez danego pracownika
+    - przesłanki to
+      + właściwy rodzaj pracy
+      + właściwy system organizacji pracy
+    - zwykle zatrudniani są tak listonosze, inkasencji, poborcy podatkowi, programiści, akwizytorzy
+  * **ponad 8 godzin an dobę nie można zatrudniać**:
+    - pracownika na stanowisku pracy na którym występują przekroczenia najwyższych dopuszczalnych stężeń lub natężeń czynników szkodliwych dla zdrowia
+    - pracownicy w ciązy
+    - pracownicy opiekującej się dzieckiem do lat 4
+    - młodocianego
+  * rozkład czasu pracy - sposób zagospodarowania nominału czasu pracy wynikającego z danego systemu czasu pracy
+  * systemy i rozkłady czasu pracy, w tym przyjęte okresy rozliczeniowe ustalane są w:
+    - przyjętym układzie zbiorowym pracy lub regulamine pracy
+    - pracodawca nieobjęty ukłądem i nie majacy obowiazku ustalenia regulaminu pracy ustala je w obwieszczeniu
+  * indywidualny rozkład czasu pracy - wyżej wymienione mają charakter grupowy, niekiedy jednak zachodzi potrzeba ustalenia rozkładu czasu pracy dla indywidualnie oznaczonego pracownika, wówczas na pisemny wniosek pracownika w umowie o pracę ustala się indywidualny rozkład czasu pracy
+
+148. Wymiar i rozliczenie czasu pracy
+  * oblicza się wzorem, którego nie będę zapamiętywał
+  * wzór nie dotyczy pracy w ciagłbym ruchu
+  * **maksymalny** wymiar czasu pracy wynosi **48 godzin**
+    - obejmuje czas pracy w ramach obowiązującego systemu czasu pracy oraz pracę nadliczbową bez względu na jej przyczyny. *48 i już*
+  * przecietna maksymalna norma wynosi 40 godzin
+  * rozliczanie dobowej i tygodniowej normy pracy 
+    - doba obejmuje kolejne 24 godziny poczynając od godziny rozpoczęcia pracy przez pracownika zgodnie z obowiązującym go rozkładem czasu pracy
+    - doba może być ruchoma 
+    - przez tydzień rozumie się 7 kolejnych dni poczynając od 1 dnia okresu rozliczeniowego
+
+149. Okresu odpoczynku
+  * okres nieprzerwanego odpoczynku w ciągu dobry pracowniczej wynosi 11 godzin 
+  * reguła ta nie dotyczy pracowników zarządzających w imieniu pracodawcy zakłądem pracy oraz w konieczności prowadzenia akcji ratowniczej
+  * 35 godzin nieprzerwanego tygodniowego odpoczynku, powinien przypadać w niedzielę 
+
+150. Praca w godzinach nadliczbowych
+  * praca w godzinach nadliczbowych jest to praca wykonywana ponad obowiązujące pracownika normy czasy pracy, wynikające z obowiązującego pracownika systemu i rozkładu czasu pracy
+    - w podstawowym czasie pracy - praca ponad 8 godzin na dobę i przecietnie 40 godzin na tydzień
+    - w równowaznym czasie pracy - ponad normę dobową wynikającą z rozkładu czasu pracy, ponad 40 godzin an tydzień
+    - dozór urzadzeń i pozostawanie w pogotowiu - ponad normę dobową ponadośmiogodzinną
+    - pilnowanie mienia ochrona osób - ponad normę dobową ponadośmiogodzinną 
+    ... (dla każdego rodzaju czasu pracy jest troszkę inaczej i są spory w doktrynie)
+  * praca w godzinach nadliczbowych dopuszczalna jest w razie:
+    - konieczności prowadzenia akcji ratowniczej w celu ochrony życia lub zdrowia ludzkiego albo ochrony mienia lub środowiska albo usunięcia awarii
+    - szczególnych potrzeb pracodawcy
+      + roczny limit pracy w godzinach nadliczbowych wynosi 150 godzin, dopuszcza się zwiększenie limitu w układzie zbiorowym pracy albo w regulaminie zakładowym albo umowie o pracę, w braku dwóch wcześniejszych
+  * w godzinach nadliczbowych nie wolno zatrudniać
+    - kobiet w ciąży
+    - pracowników opiekujących się dzieckiem do lat 4 bez ich zgody
+    - młodocianych 
+    - niepełnosprawnych, chyba że lekarz wyrazi na to zgodę
+    - pracowników z zaświadczeniem szpitala o niemożności wykonywania takiej pracy
+    - pracowników na stanowiskach przekraczających normę stężeń i natężeń
+  * zasady kwalifikacji pracy ponadwymiarowej zatrudnionych w niepełnym wymiarze czasu pracy:
+    - ustalona **w umowie** wymiar czasu pracy ponad określony w umowie czas pracy, po przekroczeniu którego włącza się dodatek z tytułu pracy w godzinach nadliczbowych
+  * rekompensatą za pracę w godzinach nadliczbowych (dobowo) jest wynagrodzenie za czas pracy + 100% jeśli w nocy, niedziele i święta niebędaće dla niego dniami pracy /50% za pozostałe dni
+  * rekompensatą za pracę w godzinach nadliczbowych (ponad 40 godzin tygodniowo) 100% - to, co zostało już policzone dobowoo
+  * alternatywą wobec zwiększonego wynagrodzenia jest czas wolny ponad ustaloną normę 
+    - na pisemny wniosek pracownika (w wymiarze róznoważnym liczbie godzin nadliczbowych) lub
+    - z inicjatywy pracodawcy (o połowę wyzszy niz liczba godzin nadliczbowych)
+  *  praca nadliczbowa kadry kierowniczej nie przysługuje normalne wynagrodzenie ani dodatek z tytułu pracy nadliczbowych jeśli z własnej inicjatywy pracują, ale jeśli na polecenie pracodawcy niekiedy tak
+
+151. Praca w nocy, niedziele i świeta
+  * pora nocna jest to 8 godzin pomiędzy 21 a 7 
+  * dokładne jej ustalenie powinno nastąpić w regulaminie pracy/układzie zbiorowym pracy, w ich braku sam arbitralnie ustala to pracodawca informującp racownika
+  * w porze nocnej nie można zatrudniać:
+    - kobiet w ciąży
+    - pracowników opiekujących się dzieckiem do lat 4 bez ich zgody
+    - młodocianych
+    - niepełnosprawnych, chyba że za zgodą lekarza
+  * pracownik pracujący w nocy  jest to pracownik ktry w każdej dobie pracuje co najmniej 3 godziny w porze nocnej lub którego 1/4 czasu pracy przypada na porę nocną - jeśli praca łączy się z poważnym wysiłkiem fizycznym lub umysłowym to nie może pracować 8 godzin na dobę, chyba że zarządza zakładem pracodawcy
+  * praca nocna rekompensowana jest dodatkiem za każdą godzinę w wysokości 20% stawki godzinowej wynikającej z minimalnego wynagrodzenia za pracę
+  * dni ustawowo wolne od pracy to:
+    - te określone w ustawie z 18 strcznia 1951 o dniach wolnych od pracy
+    - bezwględny zakaz pracy w handlu w święta
+    - ograniczony zakaz pracy w placówkach handlowych w niedzielę 
+    - od szóstej rano do szóstej rano się liczy
+  * praca w niedziele i świeta jest dopuszczalna gdy:
+    - zachodzi konieczność przeprowadzenia akcji ratowniczej lub usunięcia awarii
+    - konieczność wykonywania pracy ze względu na ich użyteczność społeczną i codzienne potrzeby ludności, przykładowo wymienione zakłady pracy
+    - praca w niedziele i święta jako stały element rozkładu czasu pracy musi być przewidziana w układzie/regulaminie/obwieszczeniu
+  * praca w niedziele i święta jest rekompensowana przez prawo do zastępczego dnia wolnego od pracy, jeśli to niemożliwe nawet do końca okresu rozliczeniowego należy mu wypłącić 100% wynagrodzenia za każdą godzinę, jeśli okażą się nadliczbowe to trzeba dodatek
+  * pracodawca jest obowiązany prowadzić ewidencję czasu pracy, chociaż są wyjątki w postaci kadry kierowniczej
+    - powinna zawierać to co jest w rozporządzeniu, czyli:
+      + osobna karta dla każdego pracownika itd.
+
+151. Urlopy pracownicze 
   * 
+
+
+
