@@ -1572,7 +1572,62 @@
       + osobna karta dla każdego pracownika itd.
 
 151. Urlopy pracownicze 
-  * 
+  * urlop pracowniczy to przewidziany prawem okres nieświadczenia pracy
+  * urlopy nie stanowią jednolitej kategorii prawnej - różnią się celami, odpłatnym lub darnym charakterem
+  * wyróżnia się: 
+    - urlop wypoczynkowy
+      + teoria odpłaty - urlop jest świadczeniem pracodawcy w zamian za pracę 
+      + teoria świadczenia socjalnego będącego elementem zabezpieczenia społecznego
+      + w świetle ustawodactwa: coroczna ciągła i odpłatna przerwa w świadczeniu pracy, przysługująca pracownikowi w ustalonym wymiarze, uzależnionym od jego stażu pracy, udzielaną w celu regeneracji jego zdolności psychofizycznej
+      + przysługuje niezależnie od podstawy zatrudnienia na podstawie wyłącznie stosunku pracy
+      + nie można się go zrzec
+      + można domagać się udzielenia go w naturze, zamiana na ekwiwalent pieniężny tylko w wyjątkowych przypadkach
+      + roszczenie o urlop ulega przedawnieniu z upływem trzech lat od dnia, w którym stało się wymagalne 
+      + w pierwszym roku 1/12 na miesiac przepracowany (u dowolnego pracodawcy) urlopu
+      + prawo do kolejnych urlopów nabywa się w każdym następnym roku kalendarzowym na podstawie sotsunku pracy, **z góry** 
+      + jego wymiar wynosi 20 dni jeżeli zatrudniony < 10 lat
+      + jego wymiar wynosi 26 dni jeżeli zatrudniony > 10 lat
+        * okres zatrudnienia ma charakter ogólnego i bezwarunkowego stażu pracy więc wlicza się wszystkie okresy zatrudnienia
+        * dolicza się też okres nauki w zasadniczej lub równorzędnej szkole zawodowej, nie więcej niż 3 lata, średniej szkoły zawodowej 5, średniej szkoły zawodowej dla absolwentóœ zasadniczych 5 lat, ogólnokształcącej 4 lata, policealna 6 lat wyższa 8 lat (nie podlegają sumowaniu, liczy się tylko najkorzystniejszy okres)
+      + różne grupy zawodowe mają dodatkowe regulacje dotyczące wymiaru i nie ma szans się ich nauczyć
+      + jeżeli pracownik zatrudniony jest w niepełnym wymiarze godzin to urlop jest proporcjonalny do jego wymiaru pracy 
+      + urlopu wypoczynkowego udziela się w te dni, które są dla pracownika dniami pracy zgodnie z obowiązującym go rozkładem pracy, niezależnie od tego czy przypada w dzień poprzedni niedziele czy swięto
+      + urlop proporcjonalny jest wyrazem powiązania wymiaru urlopu wypoczynkowego z rzeczywistym czasem pracy i polega na zmniejszeniu wymiaru urlopu przysługującego za cały rok kalendarzowy stosownie do okresu faktycznie przepracowanego w sytuacjach gdy nieobecność z następujących powodów trwała dłużej niż miesiąc:
+        * urlop bezpłatny
+        * urlop wychowawczy
+        * odbywania zasadniczej służby wojskowej itd.
+        * tymczasowego aresztowania
+        * odbywania kary pozbawienia wolności
+        * nieusprawiedliwionej nieobecności w pracy
+      + urlop uzupełniający - jeśli już wykorzystał ale w ciągu roku uzyskał prawo do urlopu w wyższym wymiarze (np. staż pracy)
+      + pracodawca powinien ustalić z pracownikami przewidywane terminy nabycia praw do urlopów, chociaż możliwe są od nich odstępstwa
+      + podstawowym aktem wyznaczającym terminy urlopów jest **plan urlopów pracowników**
+      + jeśli nie ma takiego planu to wyznacza się indywidualnie z pracownikiem
+      + ustawa mówi że powinien być nieprzerwany, ale można podzielić go na cześci gdy:
+        * co najmniej jedna część musi trwać nie mniej niż 14 kolejnych dni kalendarzowych
+        * może być dokonany tylko na wniosek pracownika (który musi być uzasadniony ale nie jest wiążący dla pracodawcy)
+      + urlop może być przesunięty na wniosek pracownika jeśli zachodzą okoliczności uniemożliwiajace mu wykorzystanie urlopu zgodnie z jego przeznaczeniem
+      + urlop może zostać przesunięty z powodu szczególnych potrzeb pracodawcy jeśli nieobecność pracownika spowodowałaby poważne zakłócenia toku pracy
+      + urlop zostaje przesunięty z mocy prawa w razie zajście przyczyn usprawiedliwiajacych nieobecnosć w pracy
+        * czasowa niezdolność do pracy
+        * odosobnienie w związku z chorobą zakaźną
+        * powołania na ćwiczenia/przeszkolenie wojskowe na czas do 3 miesięcy
+        * urlop macierzyński
+      + urlop zostaje przerwany z mocy prawa
+        * czasowa niezdolność do pracy wskutek choroby
+        * odosobnienie w związku z chorobą zakaźną
+        * odbywanie ćwiczeń wojskowych/przeszkolenia wojskowego przez czas do 3 miesięcy
+        * urlop macierzyński
+      + pracownika można z urlopu wypoczynkowego odwołąć w wyjątkowych sytuacjach, niemożliwych do przewidzenia w których nieobecność pracownika spowodowałaby poważne zakłócenia w procesie pracy
+        * musi nastąpić w taki sposób, żeby mógł z nim się zapoznać i miał możliwość stawienia się w terminie
+        * koszty obciążają pracodawcę
+    - urlop na żądanie
+      + do 4 dni w roku kalendarzowym w terminie wyznaczonym
+      + może być łączony z inny
+    - urlop zdrowotny
+    - urlop bezpłatny
+    - urlop macierzyński
+    - urlop wychowawczy
 
 
 
