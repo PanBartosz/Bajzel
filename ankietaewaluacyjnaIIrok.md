@@ -35,18 +35,116 @@ Trzecim pytaniem było pytanie o ocenę planu sesji.Przeważająca większosć 8
 
 Studenci czują się dobrze poinformowani. 76% z nich **(19/25) uważa, że wie wystarczająco dużo o wydarzeniach zwiazanych ze studiami**. Tylko jedna osoba jest całkowicie zdezorientowana. Niestety aż 12% studentów (3/25) stwierdza, że o ważnych kwestiach dowiaduje się dopiero po fakcie. 
 
-Jeżeli chodzi o kanały informacji, to najpopularniejsze z nich to **Facebook** (96%) , **inni studenci** (88%) oraz **strona kognitywistyki** (76%).
+Jeżeli chodzi o kanały informacji, to najpopularniejsze z nich to **Facebook** (96%) , **inni studenci** (88%) oraz **strona kognitywistyki** (76%). Mniej popularne jest pytanie **kierownika studiów** (52%), pytanie **prowadzących** (28%) oraz **sekretariat** (12%).
+
+Uwagi studentów dotyczące kwestii ogólnych dotyczą:
+
+* za późnego pojawiania się informacji o kwestiach organizacyjnych, niska trasparentność podejmowanych decyzji
+* braku spotkań organizacyjnych w celu omówienia kwestii projektów badawczych, pisania licencjatu
+* niezgodności sylabusów z programem zajęć
+
+Nową stronę kognitywistyki studenci oceniają pozytywnie. 
+
 #### Zajęcia
 
 ##### Psycholingwistyka (konwersatorium)
 
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                1 |
+|           2 |                4 |
+|           3 |                6 |
+|           4 |               10 |
+|           5 |                1 |
+
+Uwagi studentów:
+
+* albo ktoś był zainteresowany tematem, albo w ogóle - brak możliwości pośredniej
+* mniej omawiania konkretnych eksperymentów, więcej ogólnych problemów
+* mikroeksperymenty na uczestnikach zajęć
+* brak motywacji do czytania tekstów
+* bardzo duży nakład pracy niezbędny do przygotowania się do zajęć
+* dobry sposób zaliczenia (przygotowanie własnego projektu badania)
+* dobór aktualnych tekstów
+* za późne wysyłanie studentom tekstów na zajęcia
+* nienajlepszy sposób prowadzenia zajęć - rozmowa o tektach w grupach, niedostateczna moderacja i naprowadzanie prowadzącego
+* brak klarownej konstrukcji zajęć i łączenia jednych zagadnień z innymi
+    
+
 ##### Sztuczna inteligencja
 ###### Wykład
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                5 |
+|           2 |                4 |
+|           3 |                8 |
+|           4 |                4 |
+|           5 |                0 |
+
+Uwagi studentów:
+
+* niepunktualność prowadzacego
+* duże zaangażowanie w przedmiot prowadzącego
+* nadreprezentacja SI opartej na logice i niedoreprezentowanie innych nurtów
+* protekcjonalne traktowanie kognitywistyki przez prowadzącego
+* za szeroki zakres programu zajęć - za mało pogłębiania zagadnień
+* dygresje prowadzącego
+* nieznane i niejasne warunki zaliczenia
+* za wczesna godzina
+
+
 ###### Ćwiczenia
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                2 |
+|           2 |                7 |
+|           3 |                8 |
+|           4 |                3 |
+|           5 |                1 |
+
+Uwagi studentów:
+
+* wartościowe materiały filmowe, pokazujące jak zagadnienia omawiane na zajęciach mają przełożenie na rzeczywistośc
+* materiały filmowe miały formę ciekawostek i nic nie wnosiły do zajęć
+* kiepska organizacja i tempo zajęć, niekończenie rozwiązywania zadań, brak wymagań co do prac domowych
+* wysokie zaangażowanie prowadzącego
 
 ##### Lingwistyka II
 
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                0 |
+|           2 |                1 |
+|           3 |                1 |
+|           4 |                9 |
+|           5 |                9 |
+
+Uwagi studentów:
+
+* duże zaangażowanie prowadzacego
+* dużo przykładów i zadań
+* świetna organizacja zajęć, przejrzystość i systematyczność
+* prostudenckie nastawienie prowadzącego
+
 ##### Metody badania funkcjonującego mózgu (wykład)
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                0 |
+|           2 |                1 |
+|           3 |                5 |
+|           4 |                4 |
+|           5 |               12 |
+
+Uwagi studentów:
+
+* dobra organizacja zajęć, dobrze skonstruowany program
+* prowadzacy dostarczał studentom wartościowe dodatkowe materiały oraz slajdy z wykładów
+* za wczesna godzina
+* odpowiednio wcześnie znane warunki zaliczenia
+
 
 ##### Analiza sygnałów EEG
 ###### Marek Bekisz
