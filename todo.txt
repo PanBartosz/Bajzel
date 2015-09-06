@@ -1,4 +1,5 @@
-(A) 75 stron prawa pracy +prawo
-(A) 12 stron postępowania cywilnego + prawo
+(A) Dokończyć prawo pracy +prawo
+(A) Przeczytać skrypt Harli +prawo
+(A) Zaczać researchować artykuł +prawo
 (B) 250 słów w artykule +nauka
-(C) Poprzestawiać kolory panelów w BSPWM +rice
+x (C) zainstalować plan9 na czymś! +hacking

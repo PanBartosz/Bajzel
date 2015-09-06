@@ -1621,13 +1621,116 @@
       + pracownika można z urlopu wypoczynkowego odwołąć w wyjątkowych sytuacjach, niemożliwych do przewidzenia w których nieobecność pracownika spowodowałaby poważne zakłócenia w procesie pracy
         * musi nastąpić w taki sposób, żeby mógł z nim się zapoznać i miał możliwość stawienia się w terminie
         * koszty obciążają pracodawcę
+      + pracodawca może zobowiązać pracownika do wykorzystania urlopu wypoczynkowego w okresie wypowiedzenia umowy o pracę
+      + za niewykorzystany urlop wypoczynkowy przysługuje ekwiwalent w przypadku niewykorzystania go w całości lub w części z powodu wygaśnięcia lub rozwiązania stosunku pracy
+        * wynagrodzenie takie jakie by otrzymał gdyby pracował
     - urlop na żądanie
       + do 4 dni w roku kalendarzowym w terminie wyznaczonym
       + może być łączony z inny
+      + stanowi część urlopu wypoczynkowego
+      + jest udzielana na żądanie pracownika
     - urlop zdrowotny
     - urlop bezpłatny
+      + przerwa w realizacji pracowniczego obowiązk pracy udzielana przez pracodawcy w której jest on zwolniony ze świadczeń na rzecz pracownika
+      + na pisemny wniosek pracownika, który powinien zawierać okres urlopu
+      + nie wlicza się do stażu pracy od któ©ego uzależnione są uprawnienia pracownicze 
+      + **urlop bezpłatny na czas wykonywania pracy u innego pracodawcy** udzielany jest przez pracodawcę z jego inicjatywy za zgodą pracownika wyrażoną na piśmie
+      + pracodawca ma obowiązek udzielić młodocianemu uczęszczającemu do szkoły dla pracujących urlopu w wymiarze nieprzekraczającym łącznie z wypoczynkowym 2 miesięcy który wlicza się do stażu pracy
     - urlop macierzyński
+      + odpłatny okres zwolnienia z obowiązku świadczenia pracy ustanowiony ze względu na potrzebę wzmożonej ochrony zdrowia w ostatnim okresie ciaży oraz regeneracji sił po odbytym porodzie
+      + w zależności od liczby dzieci przy porodzie
+      + może korzystać także pracownik (mężczyzna) 
+        * częśc urlopu może wykorzystać pracownik - ojciec wychowujący dziecko
+        * długość części z której rezygnuje kobieta zależy od tego czy był pierwszy poród czy kolejny oraz od liczby dzieci
+      + urlop na warunkach urlopu macierzyńskiego przysługuje osobie uprawnionej, która przyjęła dziecko na wychowanie i wystąpiła do sąd opiekuńczego z wnioskiem o wszczęcie postępowania w sprawie przysposobienia dziecka lub przyjęła na wychowanie jako rodzina zastępcza 
+      + 2 tygodnie można wykorzystać przed planowaną datą porodu
+      + przysługuje zasiłek macierzyński - 100% przeciętnego wynagrodzenia za ostatnich 6 miesięcy, jeśli są duże wahania to 12 miesięcy
     - urlop wychowawczy
+      + okres zwolnienia osoby uprawnionej z obowiązku świadczenia pracy udzielanej w celu opieki nad dzieckiem
+      + opieka nad dzieckiem do lat 4, w przypadku niepełnosprawnego do lat 18
+      + wymiar urlopu wychowawczego nie może przekraczać 3 lat, w przypadku niepełnosprawnego dodatkowo 3 lata
+      + udzielany jest na wniosek osoby uprawnionej, na dwa tygodnie przed rozpoczęciem musi złożyć pisemny wniosek
+      + pracodawca jest związany wnioskiem 
+      + w okresie urlopu wychowawczego pracownik ma prawo podjąć pracę zaraobkową u dotychczasowego lub innego pracodawcy
+      + jeżeli pracownik trwale zaprzestał sprawowania osobistej opieki powinien zgłosić się do pracy, pracodawca moze go wezwać
+      + po zakończeniu urlopu wychowawczego pracodawca ma obowiązek dopuścić pracownika do pracy na dotychczasowym lub w braku możliwości równorzędnym stanowisku
+      + **uprawnienie zastępcze wobec urlopu wychowawczego** - pracownik może wystąpić do pracodawcy o obniżenie wymiaru ich zatrudnienia, nie więcej niż do połowy pełnego wymiaru czasu pracy, wniosek nie jest wiążący
+      + inne zwolnienia z pracy z tytułu rodzicielstwa:
+        * wychowującemu dziecko do lat 14 2 dni zwolnienia od pracy i nie zależy to od liczby dzieci
+          - zachowuje prawo do wynagrodzenia jak za urlop wypoczynkowy
+          - termin zwolnienia powinien być ustalony z pracodawcą
+  * zwolnienia z pracy
+    - przerwa w świadczeniu pracy 
+    - incydentalny charakter i krótki okres trwania
+    - obowiazek ich udzielenia wynika z przepisów prawa
+    - zwolnienia obligatoryjne 
+    - zwolnienia fakultatywne
+    - zwolnienia odpłatne
+      + przepisane przez przepisy prawa
+      + przeprowadzenie obowiązkowych badań lekarskich
+      + ślub pracownika 
+      + urodzenie sie dziecka
+    - zwolnienia nieodpłatne
 
+152. Ochrona pracy kobiet.
+  * szczególne właściwości psychofizyczne
+  * dyskryminacja
+  * ciąża
+  * urodzenie dziecka (ale nie tylko pracownicom, teraz mężczyźni korzystają na równi z kobietami)
+  * ochrona zdrowia kobiet
+    - zakaz zatrudniania przy pracach szczególnie uciążliwych lub szkodliwych dla zdrowia (**bezwzględny charakter**)
+      + upoważnia do odmowy wykonania pracy
+      + pracodawca powinien zapewnić inną pracę, a jeśli to niemożliwe to wypowiedzieć stosunek pracy
+  *  ograniczenia czasu i miejsca pracy wykonywanej przez kobietę w ciąży
+    -  nie można zatrudniać w systemach i rozkładach czasu pracy kiedy wymiar dobowy przekracza 8 godzin (**bezwzględny**)
+    -  nie można w godzinach nadliczbowych oraz w porze nocnej (**bezwzględny**)
+  *  przerwy w pracy przysługujące pracownicy karmionej dziecko piersią
+    -  na wniosek pracownicy w którym oświadcza że karmi dziecko piersią
+    -  musi być zatrudniona w wymiarze co najmniej 4 godzin na dobę
+      +  jeśli czas pracy nie przekracza 6 godzin przysługuje jej tylko jedna przerwa w wymiarze 30 minut (jeśli jedno dziecko) lub 45 minut (jeśli więcej)
+      +  jeśli czas pracy przekracza 6 godzin przysługują jej dwie  przerwy w wymiarze 30 minut (jeśli jedno dziecko) lub 45 minut (jeśli więcej)
+      +  mogą być udzielane w ciągu dnia pracy łącznie 
+      +  wliczane są do czasu pracy a za ich czas pracownica zachowuje prawo do wynagrodzenia
 
+111. Inne uprawnienia związane z rodzicielstwem:
+  * względne zakazy pracy w godzinach nadliczbowych dla opiekunów dzieci do lat 4
+  * za czas nieobecności w pracy z powodu konieczności sprawowania osobistej opieki nad dzieckiem przysługuje **zasiłek opiekuńczy**
+    - nad dzieckiem w wieku do ukończenia 8 lat w przypadku
+      + nieprzewidzianego zamknięcia żłobka, przedszkola lub szkoły
+      + porodu lub choroby małżonka ubezpieczonego, stale opiekującego się dzieckiem, jeśli choroba to uniemożliwia
+      + pobytu małżonka ubezpieczonego stale opiekującego się dzieckiem w zakładzie opieku zdrowotnej
+    - nad dzieckiem chorym w wieku do ukończenia 14 lat
+    - innym chorym członkiem rodziny
+  * zasiłek ten przysługuje nie dłużej niż 60 dni kalendarzowych w przypadku 1 i 2 
+  * nie dłużej niż 14 dni w roku kalendarzowych jeśli opieka nad dzieckiem powyzej 14 lat i innymi członkami rodziny
+  * wynosi 80% podstawy jego wymiaru tzn. wynagrodzenia zasadniczego
+  * zasiłek opiekuńczy nie przysługuje w czasie:
+    - niezdolności do pracy w których pracownik zachowuje prawo do wynagrodzenia
+    - urlopu bezpłatnego
+    - urlopu wychowawczego
+    - tymczasowego aresztowania lub odbywania kary pozbawienia wolności z wyjątkiem kilku przypadków
+    - traci się prawo jeśli wykorzystuje się zwolnienie niezgodnie z przeznaczeniem
 
+123. Szczególna ochrona trwałości stosunku pracy związana z rodzicielstwem 
+  * nieodzowny warunek bezpieczeństwa socjalnego w prawnie chronionym okresie realizacji uprawnień rodzicielskich
+  * **zakaz wypowiadania umów o pracę oraz ich rozwiązywania bez wypowiedzenia w czasie urlopu macierzyńskiego**  
+    - **wypowiedzenie** - nie można złożyć takiego oświadczenia woli a złożone jest bezskuteczne, jeżeli zostało dokonane przed okresem ochronnym ale przewidywało rozwiązanie już w czasie
+    - **bez wypowiedzenia** - z przyczyn dyscyplinarnych jeśli zgodzi się organizacja związkowa
+    - obowiązuje także w razie ogłoszenia upadłości lub likwidacji
+    - obowiązuje takżę przy wypowiedzeniu zmieniajacym
+    - jest dopuszczalne w razie zwolnień grupowych pod warunkiem, że nie jest możliwe zatrudnienie na tym samym stanowisku
+  * w czasie ciąży i w czasie urlopu macierzyńskiego
+  * **w czasie urlopu wychowawczego** - nie może wypowiedzieć ani rozwiązać umowy o pracę, chyba że ogłoszono likwidację albo upadłość albo zachodzą przyczyny uzasadniające rozwiązanie bez wypowiedzenia z winy pracownika (słabsza ochrona)
+
+1150. Zatrudnienie młodocianych
+  * młodociany pracownik to osoba między 16 a 18 rokiem życia
+  * może bez zgody przedstawiciela ustawowego nawiązać stosunek pracy
+  * jeśli stosunek ten sprzeciwia się dobru tej osoby, przedstawiciel ustawowy moze go rozwiązać
+  * zakazuje się zatrudniania osób poniżej 16 roku życia oprócz pewnych wyjątków
+    - działalność kulturalna, artystyczna, sportowa, reklamowa 
+    - zdolne pod względem psychofizycznym
+    - wymaga uprzedniej zgody przedstawiciela ustawowego/opiekuna oraz inspektora pracy
+  * rodzaje przygotowania zawodowego:
+    - nauka zawodu
+    - przyuczenie do wykonywania określonej pracy
+    - 
