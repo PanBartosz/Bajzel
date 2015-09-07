@@ -47,6 +47,8 @@ Nową stronę kognitywistyki studenci oceniają pozytywnie.
 
 #### Zajęcia
 
+Formularze do oceny zajęć obligatoryjnych składały się wyłącznie z dwóch pytań. Pierwsze z nich było pytaniem zamkniętym o **ogólną ocenę zajęć** na skali liczbowej od 1 do 5. Drugie było pytaniem otwartym o **uwagi i sugestie**. 
+
 ##### Psycholingwistyka (konwersatorium)
 
 | Ocena zajęć | Liczba studentów |
@@ -57,19 +59,25 @@ Nową stronę kognitywistyki studenci oceniają pozytywnie.
 |           4 |               10 |
 |           5 |                1 |
 
-Uwagi studentów:
+###### Uwagi studentów:
 
-* albo ktoś był zainteresowany tematem, albo w ogóle - brak możliwości pośredniej
-* mniej omawiania konkretnych eksperymentów, więcej ogólnych problemów
-* mikroeksperymenty na uczestnikach zajęć
-* brak motywacji do czytania tekstów
-* bardzo duży nakład pracy niezbędny do przygotowania się do zajęć
+**Pozytywne**
+
 * dobry sposób zaliczenia (przygotowanie własnego projektu badania)
 * dobór aktualnych tekstów
-* za późne wysyłanie studentom tekstów na zajęcia
+    
+**Negatywne**
+* mniej omawiania konkretnych eksperymentów, więcej ogólnych problemów
 * nienajlepszy sposób prowadzenia zajęć - rozmowa o tektach w grupach, niedostateczna moderacja i naprowadzanie prowadzącego
 * brak klarownej konstrukcji zajęć i łączenia jednych zagadnień z innymi
-    
+* za późne wysyłanie studentom tekstów na zajęcia
+* brak motywacji do czytania tekstów
+
+**Neutralne**
+* albo ktoś był zainteresowany tematem, albo w ogóle - brak możliwości pośredniej
+* sugestia: propozycja mikroeksperymentów na uczestnikach zajęć
+* bardzo duży nakład pracy niezbędny do przygotowania się do zajęć
+
 
 ##### Sztuczna inteligencja
 ###### Wykład
@@ -82,17 +90,21 @@ Uwagi studentów:
 |           4 |                4 |
 |           5 |                0 |
 
-Uwagi studentów:
+###### Uwagi studentów:
+
+**Pozytywne**
+
+* duże zaangażowanie w przedmiot prowadzącego
+
+**Negatywne**
 
 * niepunktualność prowadzacego
-* duże zaangażowanie w przedmiot prowadzącego
 * nadreprezentacja SI opartej na logice i niedoreprezentowanie innych nurtów
-* protekcjonalne traktowanie kognitywistyki przez prowadzącego
 * za szeroki zakres programu zajęć - za mało pogłębiania zagadnień
 * dygresje prowadzącego
-* nieznane i niejasne warunki zaliczenia
+* protekcjonalne traktowanie kognitywistyki przez prowadzącego
 * za wczesna godzina
-
+* nieznane i niejasne warunki zaliczenia
 
 ###### Ćwiczenia
 
@@ -106,10 +118,15 @@ Uwagi studentów:
 
 Uwagi studentów:
 
+**Pozytywne**:
+
 * wartościowe materiały filmowe, pokazujące jak zagadnienia omawiane na zajęciach mają przełożenie na rzeczywistośc
+* wysokie zaangażowanie prowadzącego
+
+**Negatywne**
+
 * materiały filmowe miały formę ciekawostek i nic nie wnosiły do zajęć
 * kiepska organizacja i tempo zajęć, niekończenie rozwiązywania zadań, brak wymagań co do prac domowych
-* wysokie zaangażowanie prowadzącego
 
 ##### Lingwistyka II
 
@@ -121,7 +138,9 @@ Uwagi studentów:
 |           4 |                9 |
 |           5 |                9 |
 
-Uwagi studentów:
+###### Uwagi studentów:
+
+**Pozytywne**
 
 * duże zaangażowanie prowadzacego
 * dużo przykładów i zadań
@@ -138,21 +157,84 @@ Uwagi studentów:
 |           4 |                4 |
 |           5 |               12 |
 
-Uwagi studentów:
+###### Uwagi studentów:
+
+**Pozytywne**
 
 * dobra organizacja zajęć, dobrze skonstruowany program
 * prowadzacy dostarczał studentom wartościowe dodatkowe materiały oraz slajdy z wykładów
-* za wczesna godzina
 * odpowiednio wcześnie znane warunki zaliczenia
+
+**Negatywne**
+
+* za wczesna godzina
 
 
 ##### Analiza sygnałów EEG
 ###### Marek Bekisz
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                1 |
+|           2 |                3 |
+|           3 |                4 |
+|           4 |                9 |
+|           5 |                5 |
+
+###### Uwagi studentów (część z nich do całości zajęć)
+
+**Pozytywne**
+
+* duże zaangazowanie prowadzacego w wyjaśnianie zagadnień
+* ciekawe i interaktywne zajęcia
+* analiza danych zebranych w zeszłym semestrze dawała poczucie "ciągłości"
+* efektywna metoda "learning by doing"
+
+**Negatywne**
+
+* odrobinę za wolne tempo zajęć
+* prowadzący bywał nieprzyjemny dla studentów, zbywał pytania jako "oczywiste"
+* za dużo zajęć poświęconych nauce obsługi oprogramowania, za mało faktycznej analizie 
+* na zajęciach panował czasami chaos
+* analiza "porządnych" sygnałów mogłaby być efektywniejsza niż analiza zebranych w zeszłym semestrze sygnałów miernej jakości 
+* wiele rzeczy na ślepo robione było przez studentów na ślepo i bez zrozumienia, na zasadzie "wyklikania"
+
 ###### Ewa Kublik
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                0 |
+|           2 |                2 |
+|           3 |                2 |
+|           4 |               10 |
+|           5 |                7 |
+
+###### Uwagi studentów
+
+**Pozytywne**
+
+* pozytywne nastawienie do studentów, bardziej niż u drugiego prowadzącego
+
+**Negatywne**
+
+* za dużo zajęć poświęconych nauce obsługi oprogramowania, za mało faktycznej analizie 
+* długi czas sprawdzania prac zaliczeniowych/egzaminów
 
 #### Moduły specjalizacyjne
 
+W części poświęconej modułom specjalizacyjnym do każdego modułu zadanych zostało 7 pytań:
+* pytania otwarte:
+    * pytanie o liczbę odwołanych i nieodrobionych zajęć
+    * ocena sposobu prowadzenia zajęć
+    * wymagania prowadzącego wobec studentów
+    * sugestie dotyczące poprawienia i zmiany zajęć
+    * opienie o programie modułu
+* pytania zamknięte:
+    - ogólna ocena zajęć
+    - czy moduł spełnił oczekiwania
+
 ##### Filozofia języka II
+
 
 ##### Filozofia umysłu
 ###### Wykład
