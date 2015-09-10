@@ -47,7 +47,7 @@ Nową stronę kognitywistyki studenci oceniają pozytywnie.
 
 #### Zajęcia
 
-Formularze do oceny zajęć obligatoryjnych składały się wyłącznie z dwóch pytań. Pierwsze z nich było pytaniem zamkniętym o **ogólną ocenę zajęć** na skali liczbowej od 1 do 5. Drugie było pytaniem otwartym o **uwagi i sugestie**. 
+Formularze do oceny zajęć obligatoryjnych składały się wyłącznie z dwóch pytań. Pierwsze z nich było pytaniem zamkniętym o **ogólną ocenę zajęć** na skali liczbowej od 1 do 5. Drugie było pytaniem otwartym o **uwagi i sugestie**. Uwagi studentów zostały uporządkowane i zredagowane.  
 
 ##### Psycholingwistyka (konwersatorium)
 
@@ -235,20 +235,343 @@ W części poświęconej modułom specjalizacyjnym do każdego modułu zadanych 
 
 ##### Filozofia języka II
 
+###### Czy moduł spełnił oczekiwania?
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+| Tak         |                5 |
+| Nie         |                4 |
+
+
+###### Ogólna ocena zajęć
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                1 |
+|           2 |                1 |
+|           3 |                3 |
+|           4 |                2 |
+|           5 |                3 |
+
+
+###### Liczba nieodwołanych i nieodrobionych zajęć
+Studenci nie są pewnie, pojawiają się odpowiedzi: **2, 3, 2, 4, 3, 4**.
+
+###### Sposób prowadzenia zajęć
+* forma zajęć polegająca na czytaniu tekstów w domu i referowaniu była wymagająca i trudna, niezbędne było dobre przygotowanie
+* surowe podejście prowadzącego do osób nieodnajdujących się w tej formule
+* niektóre wątki były przez prowadzącego wtrącane w sposób chaotyczny, nieułatwiajacy zrozumienia tekstu
+* prowadzący niekiedy zbyt krytyczny wobec studentów 
+* duże zaangazowanie prowadzącego
+* niektóre teksty za trudne
+
+###### Wymagania prowadzącego wobec studentów
+* wymagane notatki do tekstów musiały być komentarzem co nie zawsze się sprawdzało w sytuacji, gdy studenci nie mieli odpowiedniego przygotowania teoretycznego
+* przypadki faworyzowania studentów 
+* brak jasnych kryteriów zaliczania
+* nie wszyscy mieli możliwość tak samo skorzystać z zajęć - niekiedy za wysoko postawiona poprzeczka 
+
+###### Sugestie dotyczące zmian
+* wprowadzenie wstępu teoretycznego prowadzącego do każdego tekstu
+* wprowadzenie standardowego układu wykładu i ćwiczeń
+* jaśniejsze kryteria oceny komentarzy
+* bardziej przyjazne nastawienie do studenta
+* aktywizacja większej liczby studentów zamiast kilku najbardziej aktywnych
+* wprowadzenie listy zagadnień i lepszej organizacji tematów
+
+###### Opinia o programie modułu
+* dobry dobór tekstów
+* więcej tekstów związanych z kognitywistyką
+* materiał inny niż w sylabusie
+* elastyczny program, studenci mogą proponować część tematów
 
 ##### Filozofia umysłu
-###### Wykład
-###### Ćwizenia
 
-##### Statystyka II
+
 ###### Wykład
+
+###### Czy moduł spełnił oczekiwania?
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+| Tak         |                0 |
+| Nie         |                8 |
+
+###### Ogólna ocena zajęć
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                0 |
+|           2 |                0 |
+|           3 |                1 |
+|           4 |                2 |
+|           5 |                7 |
+
+###### Liczba nieodwołanych i nieodrobionych zajęć
+Wszystkie zajęcia odwołane były odrobione
+
+###### Sposób prowadzenia zajęć
+* dobre zgranie ćwiczeń oraz wykładu przez oboje prowadzących
+* ciągłość z zajęciami z pierwszego semestru
+* ciekawy sposób prowadzenia
+* za dużo elementów "show" na wykładzie, nieczytelne slajdy, zbyt duże tempo wykładów
+* dobrze uporządkowany i starannie poprowadzony wykład
+
+###### Wymagania prowadzącego wobec studentów
+* precyzyjnie określone wymagania przed egzaminem 
+
+###### Sugestie dotyczące zmian
+* czytelniejsze slajdy
+
+###### Opinia o programie modułu
+* dobrze skonstruowany plan, możliwość zaproponowania własnych tematów
+* odejście od tematów klasycznej filozofii umysłu na rzecz filozofii kognitywistyki należy ocenić pozytywnie
+* aktualne zagadnienia
+
 ###### Ćwiczenia
 
-##### Teoria obliczeń
+###### Czy moduł spełnił oczekiwania?
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+| Tak         |                6 |
+| Nie         |                0 |
+|             |                  |
+
+###### Ogólna ocena zajęć
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                0 |
+|           2 |                0 |
+|           3 |                0 |
+|           4 |                0 |
+|           5 |                7 |
+
+###### Liczba odwołanych i nieodrobionych zajęć
+Studenci odpowiadali, że odwołanych i nieodrobionych zajęć **albo nie było, albo były jedne**.
+
+###### Sposób prowadzenia zajęć
+* bardzo przyjazne nastawienie prowadzącej do studentów
+* chęć podejmowania dialogu ze studentami, otwartość w dyskusji
+* dobra moderacja dyskusji przez prowadzącą
+* system notatek zapewniał odpowiedni *feedback*
+
+###### Wymagania prowadzącego wobec studentów
+* wymagania były jasne i od początku znane
+* system oceniania wymagał przygotowania do zajęć oraz systematyczności
+
+###### Sugestie dotyczące zmian
+Studenci nie mieli **żadnych** zastrzeżeń do zajęć. 
+
+###### Opinia o programie modułu
+* możliwość proponowania zagadnień należy ocenić pozytywnie
+
+
+##### Statystyka II
+
 ###### Wykład
+
+###### Czy moduł spełnił oczekiwania?
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+| Tak         |                0 |
+| Nie         |               12 |
+
+###### Ogólna ocena zajęć
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                4 |
+|           2 |                6 |
+|           3 |                3 |
+|           4 |                0 |
+|           5 |                0 |
+
+
+###### Liczba odwołanych i nieodrobionych zajęć
+Zdaniem studentów nie było żadnych odwołanych i nieodrobionych zajęć. 
+
+###### Sposób prowadzenia zajęć
+* niedostosowany sposób prowadzenia zajęć do wiedzy studentów
+* nieuporzadkowany i nieprzystępny sposób tłumaczenia zagadnień mimo dużego zaangażowania prowadzącego
+* brak wyraźnego rozróżnienia na wykład i ćwiczenia nie podobał się studentom
+* zbyt niska liczba przykładów
+* kiepski kontakt ze studentami, brak osadzania treści w praktycznym kontekście
+
+###### Wymagania prowadzącego wobec studentów
+* nieokreslone wymagania wobec studentów
+* przykładowe zadania na egzamin były podane i faktycznie były podobne (chociaż opinie studentów są podzielone)
+* zbyt wysokie wymagania z powodu niedostosowania programów studiów
+
+###### Sugestie dotyczące zmian
+* studenci sugerują zmianę prowadzącego
+* wprowadzenia omawiania i oceniania prac domowych
+* wprowadzić powtórzenie ze statystyki I pod kątem wiedzy o zagadnieniach niezbędnych w trakcie trwania kursu
+* ulepszyć komunikacje na linii wykładowca - student
+
+###### Opinia o programie modułu
+* program za trudny biorąc pod uwagę wiedzę studentów
+* same zagadnienia wydają się studentom ciekawe
+
+###### Ćwiczenia
+
+###### Czy moduł spełnił oczekiwania?
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+| Tak         |                1 |
+| Nie         |                8 |
+
+###### Ogólna ocena zajęć
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                4 |
+|           2 |                4 |
+|           3 |                1 |
+|           4 |                1 |
+|           5 |                0 |
+
+
+###### Liczba nieodwołanych i nieodrobionych zajęć
+Zdaniem studentów nie było żadnych odwołanych i nieodrobionych zajęć. 
+
+###### Sposób prowadzenia zajęć
+* na zajęciach panowałbałagan
+* prowadzacy odpowiadał na pytania lekceważąco, wyśmiewał je i reagował na nie w sposób nieprzyjemny, co zniechęcało do pytania mimo tego, że uzyskałoby się merytoryczną odpowiedź
+* na ćwiczeniach lepiej niż na wykładzie prowadzący orientował się w brakach studentów
+
+###### Wymagania prowadzącego wobec studentów
+* zbyt wysokie wymagania dotyczące wiedzy z zakresu statystyki
+* fałszywe założenie znajomości SPSS
+
+###### Sugestie dotyczące zmian
+* studenci sugerują zmianę prowadzącego
+* dodatkowe godziny na prace w pracowni komputerowej
+* więcej czasu na wprowadzenie dodatkowych zagadnień
+* zdecydowanie się na jeden pakiet statystyczny
+
+###### Opinia o programie modułu
+* program niedostosowany do wiedzy studentów, ale same zagadnienia interesujące
+
+##### Teoria obliczeń
+
+###### Wykład
+
+###### Czy moduł spełnił oczekiwania?
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+| Tak         |                7 |
+| Nie         |                3 |
+
+###### Ogólna ocena zajęć
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                0 |
+|           2 |                1 |
+|           3 |                7 |
+|           4 |                3 |
+|           5 |                2 |
+
+###### Liczba odwołanych i nieodrobionych zajęć
+Studenci wskazują na to, że były tylko jedne odwołane i nieodrobione zajęcia albo żadnych. 
+
+###### Sposób prowadzenia zajęć
+* wykład prowadzony w sposób lekko monotonny
+* wykład czasami niezrozumiały
+* wykład ciekawy, w sposób uporzadkowany jasny i klarowny
+* bardzo formalny wykład, naszpikowany definicjami - zagadnienia na nim omawiane możnaby przedstawiać prościej
+
+###### Wymagania prowadzącego wobec studentów
+* wymagania były rozsądne
+* wymagania były niedoprecyzowane
+* nie wiadomo dlaczego omawiane było twierdzenie o niedefiniowalności prawdy
+
+###### Sugestie dotyczące zmian
+* kiepska godzina i dzień wykładu
+* więcej tłumaczenia mechanizmów, mniej formułek
+
+###### Opinia o programie modułu
+* studenci oceniają program pozytywnie
+
 ###### Ćwiczenia - Michał Godziszewski
+
+###### Czy moduł spełnił oczekiwania?
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+| Tak         |                6 |
+| Nie         |                2 |
+
+###### Ogólna ocena zajęć
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                0 |
+|           2 |                0 |
+|           3 |                2 |
+|           4 |                2 |
+|           5 |                5 |
+
+###### Liczba nieodwołanych i nieodrobionych zajęć
+Zdaniem studentów nie było żadnych odwołanych i nieodrobionych zajęć. 
+
+###### Sposób prowadzenia zajęć
+* zajęcia prowadzone w sposób dynamiczny
+* prowadzący dobrze tłumaczy zagadnienia na wiele sposobów w sposób jasny i zrozumiały
+
+
+
+###### Wymagania prowadzącego wobec studentów
+* wprowadzenie punktowanych prac domowych
+
 ###### Ćwiczenia - Dariusz Kalociński
 
+###### Czy moduł spełnił oczekiwania?
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+| Tak         |                7 |
+| Nie         |                2 |
+
+###### Ogólna ocena zajęć
+
+| Ocena zajęć | Liczba studentów |
+|-------------|------------------|
+|           1 |                0 |
+|           2 |                0 |
+|           3 |                2 |
+|           4 |                3 |
+|           5 |                8 |
+
+###### Liczba nieodwołanych i nieodrobionych zajęć
+Zdaniem studentów nie było żadnych odwołanych i nieodrobionych zajęć. 
+
+###### Sposób prowadzenia zajęć
+* czasami na zajęciach zaczyna panować chaos, kiepski kontakt ze studentami w sali, niepotrzebne wprowadzanie złożonych rzeczy, w których sam prowadzacy się gubi
+* zagadnienia tłumaczone w sposób jasny, zrozumiały i logiczny
+* momentami za cicho i za wolno
+* zajęcia prowadzone w sposób rzetelny
+
+###### Wymagania prowadzącego wobec studentów
+* wymagania uczciwe i wyrozumiałe
+* zadania na kolokwium nie były trudne i nie przydały się na egzaminie 
+* wprowadzenie punktowanych prac domowych
+
+###### Sugestie dotyczące zmian
+* zwiększenie tempa omawania zagadnień
+
+
 ### Inne uwagi studentów
+* wiecej zajęć prof. Marcina Miłkowskiego, więcej modelowania w praktyce i programowania w Pythonie
+* wiecej możliwości wykorzystania wiedzy w praktyce
+* większe pole wyboru przedmiotów, większa elastyczność programu - za dużo np. przedmiotów lingiwstycznych, więcej przedmiotów związanych z kognitywistyką a nie jej składowymi (sic!)
+* ulepszenie zajęć ze sztucznej inteligencji
+* ulepszenie zajęć z neurobiologii
+* odejście od zajęć współdzielonych z psychologami - są zbyt proste
+* więcej psychologii i mniej formalnych przedmiotów
+* więcej przedmiotów formalnych
+* zlikwidować Statystykę II bo i tak znajdzie się w programie studiów magisterskich
+* bardzo dobrze zorganizowane studia głównie dzięki pracy dr Katarzyny Kuś
 
 ### Podsumowanie
