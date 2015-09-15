@@ -1,5 +1,3 @@
-(A) Dokończyć prawo pracy +prawo
-(A) Przeczytać skrypt Harli +prawo
 (A) Zaczać researchować artykuł +prawo
-(B) 250 słów w artykule +nauka
-x (C) zainstalować plan9 na czymś! +hacking
+
+(A) Napisać przynajmniej jeden raport z ewaluacji
