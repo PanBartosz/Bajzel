@@ -2,8 +2,7 @@
 ## Wstęp 
 
 Czy mechanistyczny model wyjaśniania wymaga on pewnego oparcia na prawach
-natury lub jakichś słabszych konstrukcjach podobnych do klasycznych praw natury
-- regularnościach lub generalizacjach?
+natury lub jakichś słabszych konstrukcjach podobnych do klasycznych praw natury - regularnościach lub generalizacjach?
 
 Tak postawione pytanie wymaga uszczegółowienia. "Oparcie na prawach natury"
 można bowiem rozumieć na dwa sposoby. Z jednej strony byłoby to pytanie o to,
