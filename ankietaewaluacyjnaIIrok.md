@@ -47,7 +47,7 @@ Nową stronę kognitywistyki studenci oceniają pozytywnie.
 
 #### Zajęcia
 
-Formularze do oceny zajęć obligatoryjnych składały się wyłącznie z dwóch pytań. Pierwsze z nich było pytaniem zamkniętym o **ogólną ocenę zajęć** na skali liczbowej od 1 do 5. Drugie było pytaniem otwartym o **uwagi i sugestie**. Uwagi studentów zostały uporządkowane i zredagowane.  
+Formularze do oceny zajęć obligatoryjnych składały się wyłącznie z dwóch pytań. Pierwsze z nich było pytaniem zamkniętym o **ogólną ocenę zajęć** na skali liczbowej od 1 do 5. Drugie było pytaniem otwartym o **uwagi i sugestie**. Uwagi studentów zostały uporządkowane i zredagowane.
 
 ##### Psycholingwistyka (konwersatorium)
 
